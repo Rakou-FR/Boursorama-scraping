@@ -76,4 +76,3 @@ class monde:
 
 monde.get()
 monde.bash_start()
-monde.clean("limited.txt")
