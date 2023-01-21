@@ -31,7 +31,7 @@
   <meta content="bourse de Paris, investissement, action CAC 40, Sicav, investir, indices devises, marché boursier, cotations, trackers, warrants, Boursorama" name="keywords"/>
   <meta content="index, follow, all" name="robots"/>
   <meta content="telephone=no" name="format-detection"/>
-  <meta content="8cd6ade5-3c9e-461a-abf2-ebbb85e0a1f1" name="uuid"/>
+  <meta content="57cf7e6c-6360-4e28-a09c-541290033e8e" name="uuid"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-medium-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-bold-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <style>
@@ -57,7 +57,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
   </script>
   <script>
    // json config
-    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6IjlkOTQ0ZmFiZjJiOTAifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiOWQ5NDRmYWJmMmI5MCIsImlhdCI6MTY3NDMwOTU5MC4wNzk5MzcsInYiOiIxLjAiLCJzdWIiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwic2NvcGVzIjoiUk9MRV9WSVNJVE9SIiwiY2lkIjoid2ViX2ZyX3BvcnRhbF8yMCIsImV4cCI6MTY3NDMxMTM5MH0.m9PfR75GyjJqH7oSON7xELO92BEVIrnbgOzWL-KJ7sPy_0t9Hxx3Ao7YqIQnoXLGl7CpRMczJRHhvzqpuO2-B5PxGfvymXxec5dbkKQ_BycZZ69rBAYOA5RN8GZYCB-IoS20yKp0R-LXQWTK6as8j0sv-7zFru4tlgN7-PrIYezzJObpdDGR4iNd152g13RTwEe4FXK9G8YGa6YmwPmeiSImMDumpeU9tkTPU8OVxxKv7J1kwzy-e2kGPthjNgBujSSfThNYtuszu6gzL45nwDL-IicZRK2g7eVhX8tmd8GStM1Gy0sJEYbQDzQtPYFaw70m5dpPRV05KxeL0fGm9i-jIaiPIe2GQzZMlupiZzsSZ5u72JFvlx-2K7RkjFp71A7d0Wv543kLdSdxL5LKqC0QtNPCUpe2oCaPQqyaU-c4SaqP5qtcA3ts3HL6LpakGMv8Q9jdJ6NSl-kzpPZkmRFBB0mT9CB-IiRi5N4ukkcuGePmxRs5mo7R9hPUpX8KSan3D-YaGH_iSTsbmxepMc8G6rrBWlAHwGNppToUlVNnikZvy87wsfEufyRRx7llgpn9FzHdB8W2XrKzYzdnizHbHxpd_dtHGo6nOPmxamicvK2gQthJAQPsTfDFLOycKHAKy--V3KrSgmJvwtf8wZdTSOjocZzjrXt6Z2Ok9p0","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
+    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6IjM4OTliYzJlMGFjMTgifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiMzg5OWJjMmUwYWMxOCIsImlhdCI6MTY3NDMzMzU5MS4wOTA4NzQsInYiOiIxLjAiLCJzdWIiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwic2NvcGVzIjoiUk9MRV9WSVNJVE9SIiwiY2lkIjoid2ViX2ZyX3BvcnRhbF8yMCIsImV4cCI6MTY3NDMzNTM5MX0.i2sCH3zW1ydOjoSp8IRR11n-_2mwvaecjPmkftCrnnT7N-wuCHlwV3qSjDnyHhjuEB9IcbzykzmE52a8Md49_YKKdTz2mLFhaTwF3AGrik2QhRHF-hHB12np5RgrDdO9oIYDG1yX-jtbJFYAbmQfKBek_aS8uuibh2oanvahuyzoiXIWFvScdD7BwrRvQc_XLmXUiomBUklWx0Ix1nJ5qkVcu4fViRbBXu_mahBhhr3J-qRY6kBmFfsnEdAgJHjMy-a98Ru3GImuZ4kKp59Q_KJMW0Hy3TDoZIajDmpb__hf97SVdZ03ulsv7eNiHWdCsZi_U-3h6hW3IvJ92rTbRvYVsNxYp-d8aijCBW4vBh7xXeIN8R0rKJOmq6lmRAsk1abxdPHVI6_EH9U90vNOxKybycu28cR1TGkSIQvzcGYOTzX18seRN9jyjdFp5y0yVH2Jc-TZwnVR-qLb2TCs_dxEKCb8DMQCuzpUmGBuIw6ZkHcbug5xa1_qnlGw9-dhlDsYV18LXYuRQgRwoU9JKTbrmeLs3faKPqU7PMJSqbo5Blv_OyrbRleijVwgpNCN8X23gEEHITmeGA15OUOF56NoYZweRaZfGR_9jDKW8RQ9JJ_JtOdYT7VH6uwwf99dTf1jzs5ZJ3ia8_VGpmpL35NJ0OTjszn5WpDf5Zy7dEI","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
     window.BRS_CONFIG.orderframeCSSPath = "/build/9559.f45ed7e8ca83db320fae.css";
     window.BRS_CONFIG.orderframeJSPath = '/build/orderframe.js?md5=55b538d3466d128eec10a6e8a8b2d584';
 
@@ -185,18 +185,18 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
          </span>
         </div>
        </a>
-       <a class="c-ticker__item u-color-white o-list-inline o-list-inline--middle" data-ist="1rPCAC" href="/bourse/indices/cours/1rPCAC/" tabindex="-1">
+       <a class="c-ticker__item u-color-white o-list-inline o-list-inline--middle" data-ist="1bPFCEFEB23" href="/bourse/indices/futures/cours/1bPFCEFEB23/" tabindex="-1">
         <div class="u-text-bold">
-         CAC 40
+         FEB 23 CAC 40 Index (10x)
         </div>
         <div>
          <span class="c-instrument c-instrument--last" data-ist-last="">
-          6 995.99
+          7 035.00
          </span>
         </div>
         <div class="u-color-stream-up">
          <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          +0.63%
+          +1.03%
          </span>
         </div>
        </a>
@@ -2284,21 +2284,21 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
    <section class="l-header__tradingboard">
     <div class="c-tradingboard">
      <div class="c-tradingboard__main">
-      <div class="c-tradingboard__infos" data-ist="1rPCAC" data-ist-init='{"symbol":"1rPCAC","variation":0.006346493821087,"last":6995.99,"previousClose":6951.87,"high":7015.96,"low":6965.45,"totalVolume":3270,"exchangeCode":"PAR","tradeDate":"2023-01-20 18:30:01","category":"IND","decimals":2}'>
+      <div class="c-tradingboard__infos" data-ist="1bPFCEFEB23" data-ist-init='{"symbol":"1bPFCEFEB23","variation":0.010340370529944,"last":7035,"previousClose":6963,"high":7035,"low":6474.5,"totalVolume":54403,"exchangeCode":"MNP","tradeDate":"2023-01-20 21:59:59","category":"FUT","decimals":2}'>
        <div class="c-tradingboard__label">
-        <a class="c-tradingboard__link" href="/bourse/indices/cours/1rPCAC/" title="Fiche valeur CAC 40">
-         CAC 40
+        <a class="c-tradingboard__link" href="/bourse/indices/futures/cours/1bPFCEFEB23/" title="Fiche valeur FEB 23 CAC 40 Index (10x)">
+         FEB 23 CAC 40 Index (10x)
         </a>
        </div>
        <div class="c-tradingboard__value">
         <span class="c-instrument c-instrument--last" data-ist-last="">
-         6 995.99
+         7 035.00
         </span>
        </div>
        <div class="c-tradingboard__fluctuation">
         <span class="u-color-stream-up c-tradingboard__fluctuation-space">
          <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          +0.63%
+          +1.03%
          </span>
         </span>
        </div>
@@ -2308,72 +2308,55 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         Indices
        </span>
        <ul class="c-list-trading c-list-trading--half@lg-min" role="list">
-        <li class="c-list-trading__line" data-ist="_INDU" data-ist-init='{"symbol":"$INDU","variation":0.010014658993795,"last":33375.49,"previousClose":33044.56,"high":33381.95,"low":32948.93,"totalVolume":367335784,"exchangeCode":"IND","tradeDate":"2023-01-20 22:20:01","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="DOW JONES 33 375.49 +1.00% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/%24INDU/">
+        <li class="c-list-trading__line" data-ist="_NQ3H" data-ist-init='{"symbol":"\/NQ3H","variation":0.024948435511476,"last":11677.75,"previousClose":11393.5,"high":11686.75,"low":11365.25,"totalVolume":569039,"exchangeCode":"CME","tradeDate":"2023-01-20 22:59:59","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="NASDAQ MAR23 11 677.75 +2.49% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3H/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           DOW JONES
+           NASDAQ MAR23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            33 375.49
+            11 677.75
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +1.00%
+            +2.49%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line" data-ist="_COMPX" data-ist-init='{"symbol":"$COMPX","variation":0.026553453932523,"last":11140.43442,"previousClose":10852.26919,"high":11143.17271,"low":10885.64514,"totalVolume":0,"exchangeCode":"IND","tradeDate":"2023-01-20 22:30:01","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="NASDAQ 11 140.43 +2.66% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/%24COMPX/">
+        <li class="c-list-trading__line" data-ist="_ES3H" data-ist-init='{"symbol":"\/ES3H","variation":0.017282061093043,"last":3988,"previousClose":3920.25,"high":3990.5,"low":3911.75,"totalVolume":1529244,"exchangeCode":"CME","tradeDate":"2023-01-20 22:59:59","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="MINI S&amp;P MAR23 3 988.00 +1.73% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//ES3H/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           NASDAQ
+           MINI S&amp;P MAR23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            11 140.43
+            3 988.00
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +2.66%
+            +1.73%
            </span>
           </div>
          </a>
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half@lg-min c-list-trading--hide@md-max" role="list">
-        <li class="c-list-trading__line" data-ist="1xN225" data-ist-init='{"symbol":"1xN225","variation":0.0056163116170546,"last":26553.53,"previousClose":26405.23,"high":26553.53,"low":26320.96,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-21 07:00:01","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="NIKKEI 26 553.53 +0.56% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1xN225/">
+        <li class="c-list-trading__line" data-ist="_NQ3M" data-ist-init='{"symbol":"\/NQ3M","variation":0.023170043823491,"last":11790.5,"previousClose":11523.5,"high":11805.75,"low":11498,"totalVolume":1021,"exchangeCode":"CME","tradeDate":"2023-01-20 22:45:08","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="NASDAQ JUN23 11 790.50 +2.32% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3M/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           NIKKEI
+           NASDAQ JUN23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            26 553.53
+            11 790.50
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +0.56%
-           </span>
-          </div>
-         </a>
-        </li>
-        <li class="c-list-trading__line" data-ist="5pDAX" data-ist-init='{"symbol":"5pDAX","variation":0.0075869483041963,"last":15033.56,"previousClose":14920.36,"high":15034.43,"low":14940.68,"totalVolume":0,"exchangeCode":"IBS","tradeDate":"2023-01-20 17:45:41","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="DAX 15 033.56 +0.76% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/5pDAX/">
-          <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           DAX
-          </div>
-          <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
-           <span class="c-instrument c-instrument--last" data-ist-last="">
-            15 033.56
-           </span>
-          </div>
-          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
-           <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +0.76%
+            +2.32%
            </span>
           </div>
          </a>
@@ -2639,7 +2622,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
      </div>
      <header class="l-quotepage__header">
       <div class="c-faceplate is-positive /*debug*/" data-faceplate="" data-faceplate-symbol="1rPORA" data-ist="1rPORA" data-ist-init='{"symbol":"1rPORA","high":9.659,"low":9.551,"previousClose":9.573,"totalVolume":6552464,"tradeDate":"2023-01-20 17:39:39","variation":0.0045962603154706,"last":9.617,"exchangeCode":"PAR","category":"STK","decimals":3}' data-ist-variation-indicator="">
-       <input class="c-faceplate__accordion-toggle" id="faceplate-364018563" type="checkbox"/>
+       <input class="c-faceplate__accordion-toggle" id="faceplate-1592065526" type="checkbox"/>
        <div class="c-faceplate__body">
         <div class="c-faceplate__company">
          <h1 class="c-faceplate__company-title">
@@ -2731,7 +2714,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         <div class="c-faceplate__chart">
          <div class="c-faceplate__chart-draw c-list-info--bottom-separator@sm-max c-list-info--top-separator@sm-max c-list-info--left-separator@md-min">
           <!-- MC Histogram ! -->
-          <div class="c-chart c-chart--height-xs" data-line-chart="" id="1968447972">
+          <div class="c-chart c-chart--height-xs" data-line-chart="" id="1464272266">
            <div class="c-quote-chart__loader">
             <div class="c-loader-arrow c-loader-arrow--full-height">
              <span aria-busy="true" aria-live="polite" class="u-sr-only" role="alert">
@@ -2746,7 +2729,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           <script>
            $(function () {
         //The amCharts "real" default configs for our charts can be found in the jQuery plugin "jquery.amcharts.js".
-        var chart      = JSON.parse('{"static":{"amChart":{"type":"serial"},"graph":{"fillAlphas":0,"fillColors":"#009de0","lineColor":"#009de0","gridColor":"#000000","fontColor":"#000000","categoryOffset":0,"chartModifier":"c-chart--height-xs"}},"data":{"amChartConfig":{"brs":{"commonField":"period","id":1968447972},"colors":["#009de0","#003883","#149e62","#f1d205"],"valueAxes":[{"title":"","position":"right","axisThickness":0,"gridThickness":1,"gridColor":"#000000","tickLength":0,"guides":[{"value":9.573,"lineColor":"#fb0189","lineAlpha":100,"lineThickness":1,"tickLength":0,"above":true}],"includeGuidesInMinMax":true,"color":"#000000"}],"categoryAxis":{"axisThickness":0,"gridThickness":0,"autoGridCount":false,"gridCount":3,"showFirstLabel":false,"showLastLabel":false,"color":"#000000","offset":0},"graphs":[{"balloonText":"[[title]] [[category]] : [[value]]","type":"line","fillAlphas":0,"fillColors":"#009de0","id":"chart-63cbf18505581","commonField":"period","brsValueField":"value","lineThickness":1}],"chartCursor":{"valueBalloonsEnabled":true,"valueLineEnabled":true,"cursorAlpha":0.35,"cursorColor":"#009de0","valueLineBalloonEnabled":true,"categoryBalloonColor":"#009de0","valueLineAlpha":0.35,"valueZoomable":false,"pan":false,"zoomable":false}},"amChartData":{"chart-63cbf18505581":[{"period":"09h00","value":9.591},{"period":"09h01","value":9.595},{"period":"09h02","value":9.573},{"period":"09h03","value":9.561},{"period":"09h04","value":9.571},{"period":"09h05","value":9.554},{"period":"09h06","value":9.559},{"period":"09h07","value":9.575},{"period":"09h08","value":9.577},{"period":"09h09","value":9.579},{"period":"09h10","value":9.576},{"period":"09h11","value":9.565},{"period":"09h12","value":9.577},{"period":"09h13","value":9.565},{"period":"09h14","value":9.57},{"period":"09h15","value":9.563},{"period":"09h16","value":9.567},{"period":"09h17","value":9.565},{"period":"09h18","value":9.562},{"period":"09h19","value":9.552},{"period":"09h20","value":9.558},{"period":"09h21","value":9.558},{"period":"09h22","value":9.555},{"period":"09h23","value":9.573},{"period":"09h24","value":9.566},{"period":"09h25","value":9.571},{"period":"09h26","value":9.57},{"period":"09h27","value":9.582},{"period":"09h28","value":9.587},{"period":"09h29","value":9.586},{"period":"09h30","value":9.575},{"period":"09h31","value":9.579},{"period":"09h32","value":9.573},{"period":"09h33","value":9.575},{"period":"09h34","value":9.58},{"period":"09h35","value":9.58},{"period":"09h36","value":9.583},{"period":"09h37","value":9.579},{"period":"09h38","value":9.582},{"period":"09h39","value":9.58},{"period":"09h40","value":9.583},{"period":"09h41","value":9.581},{"period":"09h42","value":9.577},{"period":"09h43","value":9.579},{"period":"09h44","value":9.585},{"period":"09h45","value":9.587},{"period":"09h46","value":9.594},{"period":"09h47","value":9.59},{"period":"09h48","value":9.593},{"period":"09h49","value":9.588},{"period":"09h50","value":9.583},{"period":"09h51","value":9.584},{"period":"09h52","value":9.596},{"period":"09h53","value":9.596},{"period":"09h54","value":9.602},{"period":"09h55","value":9.602},{"period":"09h56","value":9.598},{"period":"09h57","value":9.608},{"period":"09h58","value":9.609},{"period":"09h59","value":9.606},{"period":"10h00","value":9.6},{"period":"10h01","value":9.603},{"period":"10h02","value":9.599},{"period":"10h03","value":9.602},{"period":"10h04","value":9.602},{"period":"10h05","value":9.596},{"period":"10h06","value":9.592},{"period":"10h07","value":9.589},{"period":"10h08","value":9.581},{"period":"10h09","value":9.584},{"period":"10h10","value":9.583},{"period":"10h11","value":9.58},{"period":"10h12","value":9.576},{"period":"10h13","value":9.579},{"period":"10h14","value":9.58},{"period":"10h15","value":9.581},{"period":"10h16","value":9.586},{"period":"10h17","value":9.589},{"period":"10h18","value":9.589},{"period":"10h19","value":9.593},{"period":"10h20","value":9.589},{"period":"10h21","value":9.59},{"period":"10h22","value":9.587},{"period":"10h23","value":9.589},{"period":"10h24","value":9.583},{"period":"10h25","value":9.591},{"period":"10h26","value":9.594},{"period":"10h27","value":9.599},{"period":"10h28","value":9.599},{"period":"10h29","value":9.604},{"period":"10h30","value":9.606},{"period":"10h31","value":9.606},{"period":"10h32","value":9.609},{"period":"10h33","value":9.616},{"period":"10h34","value":9.619},{"period":"10h35","value":9.623},{"period":"10h36","value":9.618},{"period":"10h37","value":9.618},{"period":"10h38","value":9.619},{"period":"10h39","value":9.621},{"period":"10h40","value":9.618},{"period":"10h41","value":9.617},{"period":"10h42","value":9.614},{"period":"10h43","value":9.613},{"period":"10h44","value":9.612},{"period":"10h45","value":9.609},{"period":"10h46","value":9.605},{"period":"10h47","value":9.609},{"period":"10h48","value":9.609},{"period":"10h49","value":9.609},{"period":"10h50","value":9.609},{"period":"10h51","value":9.61},{"period":"10h52","value":9.608},{"period":"10h53","value":9.612},{"period":"10h54","value":9.612},{"period":"10h55","value":9.613},{"period":"10h56","value":9.612},{"period":"10h57","value":9.612},{"period":"10h58","value":9.615},{"period":"10h59","value":9.614},{"period":"11h00","value":9.617},{"period":"11h01","value":9.616},{"period":"11h02","value":9.619},{"period":"11h03","value":9.612},{"period":"11h04","value":9.613},{"period":"11h05","value":9.614},{"period":"11h06","value":9.615},{"period":"11h07","value":9.618},{"period":"11h08","value":9.615},{"period":"11h09","value":9.617},{"period":"11h10","value":9.615},{"period":"11h11","value":9.617},{"period":"11h12","value":9.618},{"period":"11h13","value":9.625},{"period":"11h14","value":9.624},{"period":"11h15","value":9.621},{"period":"11h16","value":9.617},{"period":"11h17","value":9.616},{"period":"11h18","value":9.613},{"period":"11h19","value":9.612},{"period":"11h20","value":9.613},{"period":"11h21","value":9.612},{"period":"11h22","value":9.614},{"period":"11h23","value":9.615},{"period":"11h24","value":9.615},{"period":"11h25","value":9.62},{"period":"11h26","value":9.615},{"period":"11h27","value":9.616},{"period":"11h28","value":9.616},{"period":"11h29","value":9.617},{"period":"11h30","value":9.611},{"period":"11h31","value":9.588},{"period":"11h32","value":9.586},{"period":"11h33","value":9.584},{"period":"11h34","value":9.598},{"period":"11h35","value":9.6},{"period":"11h36","value":9.602},{"period":"11h37","value":9.601},{"period":"11h38","value":9.595},{"period":"11h39","value":9.602},{"period":"11h40","value":9.6},{"period":"11h41","value":9.598},{"period":"11h42","value":9.593},{"period":"11h43","value":9.586},{"period":"11h44","value":9.585},{"period":"11h45","value":9.591},{"period":"11h46","value":9.589},{"period":"11h47","value":9.586},{"period":"11h48","value":9.582},{"period":"11h49","value":9.594},{"period":"11h50","value":9.596},{"period":"11h51","value":9.595},{"period":"11h52","value":9.598},{"period":"11h53","value":9.599},{"period":"11h54","value":9.601},{"period":"11h55","value":9.602},{"period":"11h56","value":9.604},{"period":"11h57","value":9.608},{"period":"11h58","value":9.602},{"period":"11h59","value":9.6},{"period":"12h00","value":9.594},{"period":"12h01","value":9.592},{"period":"12h02","value":9.588},{"period":"12h03","value":9.588},{"period":"12h04","value":9.595},{"period":"12h05","value":9.599},{"period":"12h06","value":9.596},{"period":"12h07","value":9.593},{"period":"12h08","value":9.596},{"period":"12h09","value":9.597},{"period":"12h10","value":9.602},{"period":"12h11","value":9.605},{"period":"12h12","value":9.604},{"period":"12h13","value":9.602},{"period":"12h14","value":9.598},{"period":"12h15","value":9.602},{"period":"12h16","value":9.596},{"period":"12h17","value":9.599},{"period":"12h18","value":9.6},{"period":"12h19","value":9.601},{"period":"12h20","value":9.598},{"period":"12h21","value":9.599},{"period":"12h22","value":9.599},{"period":"12h23","value":9.597},{"period":"12h24","value":9.596},{"period":"12h25","value":9.593},{"period":"12h26","value":9.594},{"period":"12h27","value":9.592},{"period":"12h28","value":9.585},{"period":"12h29","value":9.581},{"period":"12h30","value":9.583},{"period":"12h31","value":9.585},{"period":"12h32","value":9.59},{"period":"12h33","value":9.585},{"period":"12h34","value":9.595},{"period":"12h35","value":9.6},{"period":"12h36","value":9.595},{"period":"12h37","value":9.594},{"period":"12h38","value":9.593},{"period":"12h39","value":9.596},{"period":"12h40","value":9.594},{"period":"12h41","value":9.597},{"period":"12h42","value":9.599},{"period":"12h43","value":9.597},{"period":"12h44","value":9.596},{"period":"12h45","value":9.595},{"period":"12h46","value":9.594},{"period":"12h47","value":9.592},{"period":"12h48","value":9.584},{"period":"12h49","value":9.588},{"period":"12h50","value":9.581},{"period":"12h51","value":9.583},{"period":"12h52","value":9.582},{"period":"12h53","value":9.579},{"period":"12h54","value":9.581},{"period":"12h55","value":9.581},{"period":"12h56","value":9.583},{"period":"12h57","value":9.587},{"period":"12h58","value":9.583},{"period":"12h59","value":9.584},{"period":"13h00","value":9.581},{"period":"13h01","value":9.58},{"period":"13h02","value":9.581},{"period":"13h03","value":9.58},{"period":"13h04","value":9.583},{"period":"13h05","value":9.585},{"period":"13h06","value":9.586},{"period":"13h07","value":9.585},{"period":"13h08","value":9.585},{"period":"13h09","value":9.586},{"period":"13h10","value":9.587},{"period":"13h11","value":9.587},{"period":"13h12","value":9.593},{"period":"13h13","value":9.593},{"period":"13h14","value":9.602},{"period":"13h15","value":9.604},{"period":"13h16","value":9.604},{"period":"13h17","value":9.604},{"period":"13h18","value":9.605},{"period":"13h19","value":9.606},{"period":"13h20","value":9.608},{"period":"13h21","value":9.607},{"period":"13h22","value":9.608},{"period":"13h23","value":9.608},{"period":"13h24","value":9.61},{"period":"13h25","value":9.611},{"period":"13h26","value":9.614},{"period":"13h27","value":9.612},{"period":"13h28","value":9.611},{"period":"13h29","value":9.609},{"period":"13h30","value":9.611},{"period":"13h31","value":9.612},{"period":"13h32","value":9.615},{"period":"13h33","value":9.617},{"period":"13h34","value":9.624},{"period":"13h35","value":9.621},{"period":"13h36","value":9.624},{"period":"13h37","value":9.626},{"period":"13h38","value":9.622},{"period":"13h39","value":9.623},{"period":"13h40","value":9.625},{"period":"13h41","value":9.628},{"period":"13h42","value":9.628},{"period":"13h43","value":9.626},{"period":"13h44","value":9.627},{"period":"13h45","value":9.625},{"period":"13h46","value":9.626},{"period":"13h47","value":9.63},{"period":"13h48","value":9.635},{"period":"13h49","value":9.638},{"period":"13h50","value":9.647},{"period":"13h51","value":9.644},{"period":"13h52","value":9.645},{"period":"13h53","value":9.645},{"period":"13h54","value":9.644},{"period":"13h55","value":9.647},{"period":"13h56","value":9.652},{"period":"13h57","value":9.658},{"period":"13h58","value":9.657},{"period":"13h59","value":9.652},{"period":"14h00","value":9.653},{"period":"14h01","value":9.654},{"period":"14h02","value":9.653},{"period":"14h03","value":9.646},{"period":"14h04","value":9.646},{"period":"14h05","value":9.644},{"period":"14h06","value":9.641},{"period":"14h07","value":9.64},{"period":"14h08","value":9.64},{"period":"14h09","value":9.638},{"period":"14h10","value":9.636},{"period":"14h11","value":9.636},{"period":"14h12","value":9.634},{"period":"14h13","value":9.633},{"period":"14h14","value":9.628},{"period":"14h15","value":9.629},{"period":"14h16","value":9.628},{"period":"14h17","value":9.633},{"period":"14h18","value":9.631},{"period":"14h19","value":9.635},{"period":"14h20","value":9.635},{"period":"14h21","value":9.635},{"period":"14h22","value":9.634},{"period":"14h23","value":9.635},{"period":"14h24","value":9.634},{"period":"14h25","value":9.635},{"period":"14h26","value":9.63},{"period":"14h27","value":9.631},{"period":"14h28","value":9.632},{"period":"14h29","value":9.633},{"period":"14h30","value":9.633},{"period":"14h31","value":9.639},{"period":"14h32","value":9.639},{"period":"14h33","value":9.639},{"period":"14h34","value":9.636},{"period":"14h35","value":9.635},{"period":"14h36","value":9.634},{"period":"14h37","value":9.635},{"period":"14h38","value":9.631},{"period":"14h39","value":9.632},{"period":"14h40","value":9.633},{"period":"14h41","value":9.633},{"period":"14h42","value":9.638},{"period":"14h43","value":9.637},{"period":"14h44","value":9.639},{"period":"14h45","value":9.635},{"period":"14h46","value":9.635},{"period":"14h47","value":9.635},{"period":"14h48","value":9.634},{"period":"14h49","value":9.632},{"period":"14h50","value":9.633},{"period":"14h51","value":9.633},{"period":"14h52","value":9.632},{"period":"14h53","value":9.633},{"period":"14h54","value":9.634},{"period":"14h55","value":9.633},{"period":"14h56","value":9.635},{"period":"14h57","value":9.636},{"period":"14h58","value":9.63},{"period":"14h59","value":9.63},{"period":"15h00","value":9.629},{"period":"15h01","value":9.628},{"period":"15h02","value":9.626},{"period":"15h03","value":9.625},{"period":"15h04","value":9.626},{"period":"15h05","value":9.625},{"period":"15h06","value":9.626},{"period":"15h07","value":9.622},{"period":"15h08","value":9.624},{"period":"15h09","value":9.626},{"period":"15h10","value":9.625},{"period":"15h11","value":9.622},{"period":"15h12","value":9.619},{"period":"15h13","value":9.618},{"period":"15h14","value":9.618},{"period":"15h15","value":9.621},{"period":"15h16","value":9.619},{"period":"15h17","value":9.619},{"period":"15h18","value":9.618},{"period":"15h19","value":9.617},{"period":"15h20","value":9.617},{"period":"15h21","value":9.617},{"period":"15h22","value":9.617},{"period":"15h23","value":9.62},{"period":"15h24","value":9.622},{"period":"15h25","value":9.625},{"period":"15h26","value":9.629},{"period":"15h27","value":9.629},{"period":"15h28","value":9.628},{"period":"15h29","value":9.63},{"period":"15h30","value":9.62},{"period":"15h31","value":9.612},{"period":"15h32","value":9.606},{"period":"15h33","value":9.611},{"period":"15h34","value":9.602},{"period":"15h35","value":9.6},{"period":"15h36","value":9.608},{"period":"15h37","value":9.609},{"period":"15h38","value":9.606},{"period":"15h39","value":9.604},{"period":"15h40","value":9.614},{"period":"15h41","value":9.618},{"period":"15h42","value":9.615},{"period":"15h43","value":9.616},{"period":"15h44","value":9.615},{"period":"15h45","value":9.614},{"period":"15h46","value":9.616},{"period":"15h47","value":9.616},{"period":"15h48","value":9.62},{"period":"15h49","value":9.619},{"period":"15h50","value":9.618},{"period":"15h51","value":9.614},{"period":"15h52","value":9.608},{"period":"15h53","value":9.608},{"period":"15h54","value":9.609},{"period":"15h55","value":9.609},{"period":"15h56","value":9.61},{"period":"15h57","value":9.61},{"period":"15h58","value":9.612},{"period":"15h59","value":9.604},{"period":"16h00","value":9.607},{"period":"16h01","value":9.604},{"period":"16h02","value":9.602},{"period":"16h03","value":9.611},{"period":"16h04","value":9.612},{"period":"16h05","value":9.609},{"period":"16h06","value":9.614},{"period":"16h07","value":9.612},{"period":"16h08","value":9.613},{"period":"16h09","value":9.612},{"period":"16h10","value":9.612},{"period":"16h11","value":9.611},{"period":"16h12","value":9.609},{"period":"16h13","value":9.616},{"period":"16h14","value":9.616},{"period":"16h15","value":9.613},{"period":"16h16","value":9.612},{"period":"16h17","value":9.613},{"period":"16h18","value":9.607},{"period":"16h19","value":9.609},{"period":"16h20","value":9.61},{"period":"16h21","value":9.612},{"period":"16h22","value":9.613},{"period":"16h23","value":9.616},{"period":"16h24","value":9.614},{"period":"16h25","value":9.614},{"period":"16h26","value":9.61},{"period":"16h27","value":9.61},{"period":"16h28","value":9.611},{"period":"16h29","value":9.611},{"period":"16h30","value":9.612},{"period":"16h31","value":9.614},{"period":"16h32","value":9.611},{"period":"16h33","value":9.612},{"period":"16h34","value":9.61},{"period":"16h35","value":9.608},{"period":"16h36","value":9.606},{"period":"16h37","value":9.605},{"period":"16h38","value":9.609},{"period":"16h39","value":9.607},{"period":"16h40","value":9.606},{"period":"16h41","value":9.604},{"period":"16h42","value":9.606},{"period":"16h43","value":9.609},{"period":"16h44","value":9.61},{"period":"16h45","value":9.61},{"period":"16h46","value":9.613},{"period":"16h47","value":9.615},{"period":"16h48","value":9.608},{"period":"16h49","value":9.612},{"period":"16h50","value":9.613},{"period":"16h51","value":9.61},{"period":"16h52","value":9.608},{"period":"16h53","value":9.608},{"period":"16h54","value":9.61},{"period":"16h55","value":9.609},{"period":"16h56","value":9.609},{"period":"16h57","value":9.62},{"period":"16h58","value":9.618},{"period":"16h59","value":9.614},{"period":"17h00","value":9.612},{"period":"17h01","value":9.614},{"period":"17h02","value":9.614},{"period":"17h03","value":9.608},{"period":"17h04","value":9.609},{"period":"17h05","value":9.606},{"period":"17h06","value":9.607},{"period":"17h07","value":9.61},{"period":"17h08","value":9.61},{"period":"17h09","value":9.61},{"period":"17h10","value":9.613},{"period":"17h11","value":9.619},{"period":"17h12","value":9.613},{"period":"17h13","value":9.614},{"period":"17h14","value":9.617},{"period":"17h15","value":9.62},{"period":"17h16","value":9.619},{"period":"17h17","value":9.622},{"period":"17h18","value":9.619},{"period":"17h19","value":9.619},{"period":"17h20","value":9.619},{"period":"17h21","value":9.62},{"period":"17h22","value":9.617},{"period":"17h23","value":9.614},{"period":"17h24","value":9.616},{"period":"17h25","value":9.619},{"period":"17h26","value":9.621},{"period":"17h27","value":9.621},{"period":"17h28","value":9.621},{"period":"17h29","value":9.621},{"period":"17h30","value":9.621},{"period":"17h31","value":9.621},{"period":"17h32","value":9.621},{"period":"17h33","value":9.621},{"period":"17h34","value":9.621},{"period":"17h35","value":9.617},{"period":"17h36","value":9.617},{"period":"17h37","value":9.617},{"period":"17h38","value":9.617}]},"modifierClasses":"c-chart--height-xs"}}');
+        var chart      = JSON.parse('{"static":{"amChart":{"type":"serial"},"graph":{"fillAlphas":0,"fillColors":"#009de0","lineColor":"#009de0","gridColor":"#000000","fontColor":"#000000","categoryOffset":0,"chartModifier":"c-chart--height-xs"}},"data":{"amChartConfig":{"brs":{"commonField":"period","id":1464272266},"colors":["#009de0","#003883","#149e62","#f1d205"],"valueAxes":[{"title":"","position":"right","axisThickness":0,"gridThickness":1,"gridColor":"#000000","tickLength":0,"guides":[{"value":9.573,"lineColor":"#fb0189","lineAlpha":100,"lineThickness":1,"tickLength":0,"above":true}],"includeGuidesInMinMax":true,"color":"#000000"}],"categoryAxis":{"axisThickness":0,"gridThickness":0,"autoGridCount":false,"gridCount":3,"showFirstLabel":false,"showLastLabel":false,"color":"#000000","offset":0},"graphs":[{"balloonText":"[[title]] [[category]] : [[value]]","type":"line","fillAlphas":0,"fillColors":"#009de0","id":"chart-63cc4ecfce614","commonField":"period","brsValueField":"value","lineThickness":1}],"chartCursor":{"valueBalloonsEnabled":true,"valueLineEnabled":true,"cursorAlpha":0.35,"cursorColor":"#009de0","valueLineBalloonEnabled":true,"categoryBalloonColor":"#009de0","valueLineAlpha":0.35,"valueZoomable":false,"pan":false,"zoomable":false}},"amChartData":{"chart-63cc4ecfce614":[{"period":"09h00","value":9.591},{"period":"09h01","value":9.595},{"period":"09h02","value":9.573},{"period":"09h03","value":9.561},{"period":"09h04","value":9.571},{"period":"09h05","value":9.554},{"period":"09h06","value":9.559},{"period":"09h07","value":9.575},{"period":"09h08","value":9.577},{"period":"09h09","value":9.579},{"period":"09h10","value":9.576},{"period":"09h11","value":9.565},{"period":"09h12","value":9.577},{"period":"09h13","value":9.565},{"period":"09h14","value":9.57},{"period":"09h15","value":9.563},{"period":"09h16","value":9.567},{"period":"09h17","value":9.565},{"period":"09h18","value":9.562},{"period":"09h19","value":9.552},{"period":"09h20","value":9.558},{"period":"09h21","value":9.558},{"period":"09h22","value":9.555},{"period":"09h23","value":9.573},{"period":"09h24","value":9.566},{"period":"09h25","value":9.571},{"period":"09h26","value":9.57},{"period":"09h27","value":9.582},{"period":"09h28","value":9.587},{"period":"09h29","value":9.586},{"period":"09h30","value":9.575},{"period":"09h31","value":9.579},{"period":"09h32","value":9.573},{"period":"09h33","value":9.575},{"period":"09h34","value":9.58},{"period":"09h35","value":9.58},{"period":"09h36","value":9.583},{"period":"09h37","value":9.579},{"period":"09h38","value":9.582},{"period":"09h39","value":9.58},{"period":"09h40","value":9.583},{"period":"09h41","value":9.581},{"period":"09h42","value":9.577},{"period":"09h43","value":9.579},{"period":"09h44","value":9.585},{"period":"09h45","value":9.587},{"period":"09h46","value":9.594},{"period":"09h47","value":9.59},{"period":"09h48","value":9.593},{"period":"09h49","value":9.588},{"period":"09h50","value":9.583},{"period":"09h51","value":9.584},{"period":"09h52","value":9.596},{"period":"09h53","value":9.596},{"period":"09h54","value":9.602},{"period":"09h55","value":9.602},{"period":"09h56","value":9.598},{"period":"09h57","value":9.608},{"period":"09h58","value":9.609},{"period":"09h59","value":9.606},{"period":"10h00","value":9.6},{"period":"10h01","value":9.603},{"period":"10h02","value":9.599},{"period":"10h03","value":9.602},{"period":"10h04","value":9.602},{"period":"10h05","value":9.596},{"period":"10h06","value":9.592},{"period":"10h07","value":9.589},{"period":"10h08","value":9.581},{"period":"10h09","value":9.584},{"period":"10h10","value":9.583},{"period":"10h11","value":9.58},{"period":"10h12","value":9.576},{"period":"10h13","value":9.579},{"period":"10h14","value":9.58},{"period":"10h15","value":9.581},{"period":"10h16","value":9.586},{"period":"10h17","value":9.589},{"period":"10h18","value":9.589},{"period":"10h19","value":9.593},{"period":"10h20","value":9.589},{"period":"10h21","value":9.59},{"period":"10h22","value":9.587},{"period":"10h23","value":9.589},{"period":"10h24","value":9.583},{"period":"10h25","value":9.591},{"period":"10h26","value":9.594},{"period":"10h27","value":9.599},{"period":"10h28","value":9.599},{"period":"10h29","value":9.604},{"period":"10h30","value":9.606},{"period":"10h31","value":9.606},{"period":"10h32","value":9.609},{"period":"10h33","value":9.616},{"period":"10h34","value":9.619},{"period":"10h35","value":9.623},{"period":"10h36","value":9.618},{"period":"10h37","value":9.618},{"period":"10h38","value":9.619},{"period":"10h39","value":9.621},{"period":"10h40","value":9.618},{"period":"10h41","value":9.617},{"period":"10h42","value":9.614},{"period":"10h43","value":9.613},{"period":"10h44","value":9.612},{"period":"10h45","value":9.609},{"period":"10h46","value":9.605},{"period":"10h47","value":9.609},{"period":"10h48","value":9.609},{"period":"10h49","value":9.609},{"period":"10h50","value":9.609},{"period":"10h51","value":9.61},{"period":"10h52","value":9.608},{"period":"10h53","value":9.612},{"period":"10h54","value":9.612},{"period":"10h55","value":9.613},{"period":"10h56","value":9.612},{"period":"10h57","value":9.612},{"period":"10h58","value":9.615},{"period":"10h59","value":9.614},{"period":"11h00","value":9.617},{"period":"11h01","value":9.616},{"period":"11h02","value":9.619},{"period":"11h03","value":9.612},{"period":"11h04","value":9.613},{"period":"11h05","value":9.614},{"period":"11h06","value":9.615},{"period":"11h07","value":9.618},{"period":"11h08","value":9.615},{"period":"11h09","value":9.617},{"period":"11h10","value":9.615},{"period":"11h11","value":9.617},{"period":"11h12","value":9.618},{"period":"11h13","value":9.625},{"period":"11h14","value":9.624},{"period":"11h15","value":9.621},{"period":"11h16","value":9.617},{"period":"11h17","value":9.616},{"period":"11h18","value":9.613},{"period":"11h19","value":9.612},{"period":"11h20","value":9.613},{"period":"11h21","value":9.612},{"period":"11h22","value":9.614},{"period":"11h23","value":9.615},{"period":"11h24","value":9.615},{"period":"11h25","value":9.62},{"period":"11h26","value":9.615},{"period":"11h27","value":9.616},{"period":"11h28","value":9.616},{"period":"11h29","value":9.617},{"period":"11h30","value":9.611},{"period":"11h31","value":9.588},{"period":"11h32","value":9.586},{"period":"11h33","value":9.584},{"period":"11h34","value":9.598},{"period":"11h35","value":9.6},{"period":"11h36","value":9.602},{"period":"11h37","value":9.601},{"period":"11h38","value":9.595},{"period":"11h39","value":9.602},{"period":"11h40","value":9.6},{"period":"11h41","value":9.598},{"period":"11h42","value":9.593},{"period":"11h43","value":9.586},{"period":"11h44","value":9.585},{"period":"11h45","value":9.591},{"period":"11h46","value":9.589},{"period":"11h47","value":9.586},{"period":"11h48","value":9.582},{"period":"11h49","value":9.594},{"period":"11h50","value":9.596},{"period":"11h51","value":9.595},{"period":"11h52","value":9.598},{"period":"11h53","value":9.599},{"period":"11h54","value":9.601},{"period":"11h55","value":9.602},{"period":"11h56","value":9.604},{"period":"11h57","value":9.608},{"period":"11h58","value":9.602},{"period":"11h59","value":9.6},{"period":"12h00","value":9.594},{"period":"12h01","value":9.592},{"period":"12h02","value":9.588},{"period":"12h03","value":9.588},{"period":"12h04","value":9.595},{"period":"12h05","value":9.599},{"period":"12h06","value":9.596},{"period":"12h07","value":9.593},{"period":"12h08","value":9.596},{"period":"12h09","value":9.597},{"period":"12h10","value":9.602},{"period":"12h11","value":9.605},{"period":"12h12","value":9.604},{"period":"12h13","value":9.602},{"period":"12h14","value":9.598},{"period":"12h15","value":9.602},{"period":"12h16","value":9.596},{"period":"12h17","value":9.599},{"period":"12h18","value":9.6},{"period":"12h19","value":9.601},{"period":"12h20","value":9.598},{"period":"12h21","value":9.599},{"period":"12h22","value":9.599},{"period":"12h23","value":9.597},{"period":"12h24","value":9.596},{"period":"12h25","value":9.593},{"period":"12h26","value":9.594},{"period":"12h27","value":9.592},{"period":"12h28","value":9.585},{"period":"12h29","value":9.581},{"period":"12h30","value":9.583},{"period":"12h31","value":9.585},{"period":"12h32","value":9.59},{"period":"12h33","value":9.585},{"period":"12h34","value":9.595},{"period":"12h35","value":9.6},{"period":"12h36","value":9.595},{"period":"12h37","value":9.594},{"period":"12h38","value":9.593},{"period":"12h39","value":9.596},{"period":"12h40","value":9.594},{"period":"12h41","value":9.597},{"period":"12h42","value":9.599},{"period":"12h43","value":9.597},{"period":"12h44","value":9.596},{"period":"12h45","value":9.595},{"period":"12h46","value":9.594},{"period":"12h47","value":9.592},{"period":"12h48","value":9.584},{"period":"12h49","value":9.588},{"period":"12h50","value":9.581},{"period":"12h51","value":9.583},{"period":"12h52","value":9.582},{"period":"12h53","value":9.579},{"period":"12h54","value":9.581},{"period":"12h55","value":9.581},{"period":"12h56","value":9.583},{"period":"12h57","value":9.587},{"period":"12h58","value":9.583},{"period":"12h59","value":9.584},{"period":"13h00","value":9.581},{"period":"13h01","value":9.58},{"period":"13h02","value":9.581},{"period":"13h03","value":9.58},{"period":"13h04","value":9.583},{"period":"13h05","value":9.585},{"period":"13h06","value":9.586},{"period":"13h07","value":9.585},{"period":"13h08","value":9.585},{"period":"13h09","value":9.586},{"period":"13h10","value":9.587},{"period":"13h11","value":9.587},{"period":"13h12","value":9.593},{"period":"13h13","value":9.593},{"period":"13h14","value":9.602},{"period":"13h15","value":9.604},{"period":"13h16","value":9.604},{"period":"13h17","value":9.604},{"period":"13h18","value":9.605},{"period":"13h19","value":9.606},{"period":"13h20","value":9.608},{"period":"13h21","value":9.607},{"period":"13h22","value":9.608},{"period":"13h23","value":9.608},{"period":"13h24","value":9.61},{"period":"13h25","value":9.611},{"period":"13h26","value":9.614},{"period":"13h27","value":9.612},{"period":"13h28","value":9.611},{"period":"13h29","value":9.609},{"period":"13h30","value":9.611},{"period":"13h31","value":9.612},{"period":"13h32","value":9.615},{"period":"13h33","value":9.617},{"period":"13h34","value":9.624},{"period":"13h35","value":9.621},{"period":"13h36","value":9.624},{"period":"13h37","value":9.626},{"period":"13h38","value":9.622},{"period":"13h39","value":9.623},{"period":"13h40","value":9.625},{"period":"13h41","value":9.628},{"period":"13h42","value":9.628},{"period":"13h43","value":9.626},{"period":"13h44","value":9.627},{"period":"13h45","value":9.625},{"period":"13h46","value":9.626},{"period":"13h47","value":9.63},{"period":"13h48","value":9.635},{"period":"13h49","value":9.638},{"period":"13h50","value":9.647},{"period":"13h51","value":9.644},{"period":"13h52","value":9.645},{"period":"13h53","value":9.645},{"period":"13h54","value":9.644},{"period":"13h55","value":9.647},{"period":"13h56","value":9.652},{"period":"13h57","value":9.658},{"period":"13h58","value":9.657},{"period":"13h59","value":9.652},{"period":"14h00","value":9.653},{"period":"14h01","value":9.654},{"period":"14h02","value":9.653},{"period":"14h03","value":9.646},{"period":"14h04","value":9.646},{"period":"14h05","value":9.644},{"period":"14h06","value":9.641},{"period":"14h07","value":9.64},{"period":"14h08","value":9.64},{"period":"14h09","value":9.638},{"period":"14h10","value":9.636},{"period":"14h11","value":9.636},{"period":"14h12","value":9.634},{"period":"14h13","value":9.633},{"period":"14h14","value":9.628},{"period":"14h15","value":9.629},{"period":"14h16","value":9.628},{"period":"14h17","value":9.633},{"period":"14h18","value":9.631},{"period":"14h19","value":9.635},{"period":"14h20","value":9.635},{"period":"14h21","value":9.635},{"period":"14h22","value":9.634},{"period":"14h23","value":9.635},{"period":"14h24","value":9.634},{"period":"14h25","value":9.635},{"period":"14h26","value":9.63},{"period":"14h27","value":9.631},{"period":"14h28","value":9.632},{"period":"14h29","value":9.633},{"period":"14h30","value":9.633},{"period":"14h31","value":9.639},{"period":"14h32","value":9.639},{"period":"14h33","value":9.639},{"period":"14h34","value":9.636},{"period":"14h35","value":9.635},{"period":"14h36","value":9.634},{"period":"14h37","value":9.635},{"period":"14h38","value":9.631},{"period":"14h39","value":9.632},{"period":"14h40","value":9.633},{"period":"14h41","value":9.633},{"period":"14h42","value":9.638},{"period":"14h43","value":9.637},{"period":"14h44","value":9.639},{"period":"14h45","value":9.635},{"period":"14h46","value":9.635},{"period":"14h47","value":9.635},{"period":"14h48","value":9.634},{"period":"14h49","value":9.632},{"period":"14h50","value":9.633},{"period":"14h51","value":9.633},{"period":"14h52","value":9.632},{"period":"14h53","value":9.633},{"period":"14h54","value":9.634},{"period":"14h55","value":9.633},{"period":"14h56","value":9.635},{"period":"14h57","value":9.636},{"period":"14h58","value":9.63},{"period":"14h59","value":9.63},{"period":"15h00","value":9.629},{"period":"15h01","value":9.628},{"period":"15h02","value":9.626},{"period":"15h03","value":9.625},{"period":"15h04","value":9.626},{"period":"15h05","value":9.625},{"period":"15h06","value":9.626},{"period":"15h07","value":9.622},{"period":"15h08","value":9.624},{"period":"15h09","value":9.626},{"period":"15h10","value":9.625},{"period":"15h11","value":9.622},{"period":"15h12","value":9.619},{"period":"15h13","value":9.618},{"period":"15h14","value":9.618},{"period":"15h15","value":9.621},{"period":"15h16","value":9.619},{"period":"15h17","value":9.619},{"period":"15h18","value":9.618},{"period":"15h19","value":9.617},{"period":"15h20","value":9.617},{"period":"15h21","value":9.617},{"period":"15h22","value":9.617},{"period":"15h23","value":9.62},{"period":"15h24","value":9.622},{"period":"15h25","value":9.625},{"period":"15h26","value":9.629},{"period":"15h27","value":9.629},{"period":"15h28","value":9.628},{"period":"15h29","value":9.63},{"period":"15h30","value":9.62},{"period":"15h31","value":9.612},{"period":"15h32","value":9.606},{"period":"15h33","value":9.611},{"period":"15h34","value":9.602},{"period":"15h35","value":9.6},{"period":"15h36","value":9.608},{"period":"15h37","value":9.609},{"period":"15h38","value":9.606},{"period":"15h39","value":9.604},{"period":"15h40","value":9.614},{"period":"15h41","value":9.618},{"period":"15h42","value":9.615},{"period":"15h43","value":9.616},{"period":"15h44","value":9.615},{"period":"15h45","value":9.614},{"period":"15h46","value":9.616},{"period":"15h47","value":9.616},{"period":"15h48","value":9.62},{"period":"15h49","value":9.619},{"period":"15h50","value":9.618},{"period":"15h51","value":9.614},{"period":"15h52","value":9.608},{"period":"15h53","value":9.608},{"period":"15h54","value":9.609},{"period":"15h55","value":9.609},{"period":"15h56","value":9.61},{"period":"15h57","value":9.61},{"period":"15h58","value":9.612},{"period":"15h59","value":9.604},{"period":"16h00","value":9.607},{"period":"16h01","value":9.604},{"period":"16h02","value":9.602},{"period":"16h03","value":9.611},{"period":"16h04","value":9.612},{"period":"16h05","value":9.609},{"period":"16h06","value":9.614},{"period":"16h07","value":9.612},{"period":"16h08","value":9.613},{"period":"16h09","value":9.612},{"period":"16h10","value":9.612},{"period":"16h11","value":9.611},{"period":"16h12","value":9.609},{"period":"16h13","value":9.616},{"period":"16h14","value":9.616},{"period":"16h15","value":9.613},{"period":"16h16","value":9.612},{"period":"16h17","value":9.613},{"period":"16h18","value":9.607},{"period":"16h19","value":9.609},{"period":"16h20","value":9.61},{"period":"16h21","value":9.612},{"period":"16h22","value":9.613},{"period":"16h23","value":9.616},{"period":"16h24","value":9.614},{"period":"16h25","value":9.614},{"period":"16h26","value":9.61},{"period":"16h27","value":9.61},{"period":"16h28","value":9.611},{"period":"16h29","value":9.611},{"period":"16h30","value":9.612},{"period":"16h31","value":9.614},{"period":"16h32","value":9.611},{"period":"16h33","value":9.612},{"period":"16h34","value":9.61},{"period":"16h35","value":9.608},{"period":"16h36","value":9.606},{"period":"16h37","value":9.605},{"period":"16h38","value":9.609},{"period":"16h39","value":9.607},{"period":"16h40","value":9.606},{"period":"16h41","value":9.604},{"period":"16h42","value":9.606},{"period":"16h43","value":9.609},{"period":"16h44","value":9.61},{"period":"16h45","value":9.61},{"period":"16h46","value":9.613},{"period":"16h47","value":9.615},{"period":"16h48","value":9.608},{"period":"16h49","value":9.612},{"period":"16h50","value":9.613},{"period":"16h51","value":9.61},{"period":"16h52","value":9.608},{"period":"16h53","value":9.608},{"period":"16h54","value":9.61},{"period":"16h55","value":9.609},{"period":"16h56","value":9.609},{"period":"16h57","value":9.62},{"period":"16h58","value":9.618},{"period":"16h59","value":9.614},{"period":"17h00","value":9.612},{"period":"17h01","value":9.614},{"period":"17h02","value":9.614},{"period":"17h03","value":9.608},{"period":"17h04","value":9.609},{"period":"17h05","value":9.606},{"period":"17h06","value":9.607},{"period":"17h07","value":9.61},{"period":"17h08","value":9.61},{"period":"17h09","value":9.61},{"period":"17h10","value":9.613},{"period":"17h11","value":9.619},{"period":"17h12","value":9.613},{"period":"17h13","value":9.614},{"period":"17h14","value":9.617},{"period":"17h15","value":9.62},{"period":"17h16","value":9.619},{"period":"17h17","value":9.622},{"period":"17h18","value":9.619},{"period":"17h19","value":9.619},{"period":"17h20","value":9.619},{"period":"17h21","value":9.62},{"period":"17h22","value":9.617},{"period":"17h23","value":9.614},{"period":"17h24","value":9.616},{"period":"17h25","value":9.619},{"period":"17h26","value":9.621},{"period":"17h27","value":9.621},{"period":"17h28","value":9.621},{"period":"17h29","value":9.621},{"period":"17h30","value":9.621},{"period":"17h31","value":9.621},{"period":"17h32","value":9.621},{"period":"17h33","value":9.621},{"period":"17h34","value":9.621},{"period":"17h35","value":9.617},{"period":"17h36","value":9.617},{"period":"17h37","value":9.617},{"period":"17h38","value":9.617}]},"modifierClasses":"c-chart--height-xs"}}');
         var mergedConfig = $.extend(true, {}, chart.data.amChartConfig, chart.static.amChart);
         var elemSelector = mergedConfig.brs.id ? "#" + mergedConfig.brs.id : '[data-line-chart]';
         $(elemSelector).amCharts(mergedConfig, chart.data.amChartData);
@@ -3201,7 +3184,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
          </li>
         </ul>
        </div>
-       <label class="c-faceplate__accordion-button" for="faceplate-364018563">
+       <label class="c-faceplate__accordion-button" for="faceplate-1592065526">
        </label>
       </div>
      </header>
@@ -4831,7 +4814,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </h2>
                </div>
                <div class="c-block__body">
-                <div class="c-autocomplete" data-autocomplete="113776831" data-autocomplete-minchars="3" data-autocomplete-url="/bourse/instrument/recherche/">
+                <div class="c-autocomplete" data-autocomplete="658078430" data-autocomplete-minchars="3" data-autocomplete-url="/bourse/instrument/recherche/">
                  <input aria-autocomplete="list" aria-expanded="false" aria-owns="search-autocomplete" autocapitalize="none" autocomplete="off" class="c-autocomplete__input" data-autocomplete-input="" placeholder="Rechercher par ISIN ou par nom..." role="combobox" type="text" value=""/>
                  <ul class="c-autocomplete__results" data-autocomplete-results="" id="search-autocomplete">
                  </ul>
@@ -6705,6 +6688,195 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            <div class="c-profile-card">
             <div class="o-flag o-flag--top">
              <div class="o-flag__img">
+              <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/landro78/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte landro78" type="button">
+               <span class="c-avatar">
+                <span class="c-avatar__image">
+                 <picture class="">
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/ZEZVhgiGryPrt8iAvWaTJivlnsxYhob8N4EieqaAfy7PUJ-PkX_nTVx0xYaK2oBJSRykh32h0ygI8XbtmFC5FCC8ocOCbJvszXtt1rx4bznkvrWTHOTXIhGzrdY14FI6QR4JE_ZDPdH4WFrI71Kxs2g6P7s3mwYwJruKpoIjAEFsjTOGPHtlD6s9auTLuhzS-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <!-- fallback for browsers not using JS / bots -->
+                  <noscript>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/ZEZVhgiGryPrt8iAvWaTJivlnsxYhob8N4EieqaAfy7PUJ-PkX_nTVx0xYaK2oBJSRykh32h0ygI8XbtmFC5FCC8ocOCbJvszXtt1rx4bznkvrWTHOTXIhGzrdY14FI6QR4JE_ZDPdH4WFrI71Kxs2g6P7s3mwYwJruKpoIjAEFsjTOGPHtlD6s9auTLuhzS-48x48.jpg"/>
+                  </noscript>
+                 </picture>
+                </span>
+               </span>
+              </button>
+             </div>
+             <div class="o-flag__body">
+              <div class="o-pack o-pack--auto">
+               <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
+               </i>
+               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPORA/detail/462135437/" title="Accéder à la discussion Verdict BFM Bourse 2023 sur les 5 dernières années.">
+                Verdict BFM Bourse 2023 sur les 5 dernières années.
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="o-vertical-interval-bottom-small">
+           </div>
+           <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
+            Orange est dans les 5 dernières du CAC sur  les 5 dernières années avec dividende intégré.
+            <br>
+             Donc oui, c'est vrais, y a pire, mais c'est pas difficile de trouver
+             <br>
+              mieux.
+              <br>
+               <br/>
+               https://www.tradi ...
+              </br>
+             </br>
+            </br>
+           </p>
+           <div class="o-vertical-interval-bottom">
+           </div>
+           <div class="o-list-flex-inline">
+            <div class="o-list-flex-inline__item">
+             <div class="c-source c-source--border-left c-source--no-border@sm-min">
+              <span class="c-source__by">
+               par
+              </span>
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/landro78/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte landro78" type="button">
+               landro78
+              </button>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               18 janv.
+              </span>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               16:52
+              </span>
+             </div>
+            </div>
+            <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
+             <div class="c-source c-source--border-left">
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/ChrCsa/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte ChrCsa" type="button">
+               ChrCsa
+              </button>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               21:26
+              </span>
+             </div>
+            </div>
+            <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
+             <div class="c-source">
+              <div class="c-source__comments">
+               <b>
+                35
+               </b>
+               commentaires
+              </div>
+              <div class="c-source__like">
+               <span aria-hidden="true" class="c-source__bullet">
+                •
+               </span>
+               <b>
+                5
+               </b>
+               j'aime
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <hr class="c-separator c-separator--dotted c-separator--gutter"/>
+          <div class="c-message">
+           <div class="c-profile-card">
+            <div class="o-flag o-flag--top">
+             <div class="o-flag__img">
+              <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/s.ii/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte s.ii" type="button">
+               <span class="c-avatar">
+                <span class="c-avatar__image">
+                 <picture class="">
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/yqsc48Ma3OFFky5jtwNonM5p1BDOMo65XqKfxqqhr2GrPR4bn9XcO_7mQ6IP3ksRsjST2rce0ujaMZM9A5aWFGtdvWFm8nJ42mHkkhWUzD8bx2fqq8rfc9gAbUoW7linLN3Ui4860qIuZv1i8bNvT-fnnTWk2BQiMpuhfAzys2P7aZsIdOU6WpfkAFN070hG-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <!-- fallback for browsers not using JS / bots -->
+                  <noscript>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/yqsc48Ma3OFFky5jtwNonM5p1BDOMo65XqKfxqqhr2GrPR4bn9XcO_7mQ6IP3ksRsjST2rce0ujaMZM9A5aWFGtdvWFm8nJ42mHkkhWUzD8bx2fqq8rfc9gAbUoW7linLN3Ui4860qIuZv1i8bNvT-fnnTWk2BQiMpuhfAzys2P7aZsIdOU6WpfkAFN070hG-48x48.jpg"/>
+                  </noscript>
+                 </picture>
+                </span>
+               </span>
+              </button>
+             </div>
+             <div class="o-flag__body">
+              <div class="o-pack o-pack--auto">
+               <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
+               </i>
+               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPORA/detail/462152921/" title="Accéder à la discussion Bientôt +50% sur le bitcoin">
+                Bientôt +50% sur le bitcoin
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="o-vertical-interval-bottom-small">
+           </div>
+           <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
+            Ça c'est du rebond, 23 400 $ live... les pigeons vont affluer, et les baleines qui ont organisé ça vont gagner des fortunes !!
+           </p>
+           <div class="o-vertical-interval-bottom">
+           </div>
+           <div class="o-list-flex-inline">
+            <div class="o-list-flex-inline__item">
+             <div class="c-source c-source--border-left c-source--no-border@sm-min">
+              <span class="c-source__by">
+               par
+              </span>
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/s.ii/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte s.ii" type="button">
+               s.ii
+              </button>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               21 janv.
+              </span>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               20:18
+              </span>
+             </div>
+            </div>
+            <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
+             <div class="c-source c-source--border-left">
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/s.ii/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte s.ii" type="button">
+               s.ii
+              </button>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               20:18
+              </span>
+             </div>
+            </div>
+            <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
+             <div class="c-source">
+              <div class="c-source__like">
+               <b>
+                0
+               </b>
+               j'aime
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <hr class="c-separator c-separator--dotted c-separator--gutter"/>
+          <div class="c-message">
+           <div class="c-profile-card">
+            <div class="o-flag o-flag--top">
+             <div class="o-flag__img">
               <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/adnstep/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte adnstep" type="button">
                <span class="c-avatar">
                 <span class="c-avatar__image">
@@ -6734,11 +6906,9 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            </div>
            <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
             Le Trésor loue le succès de l'ouverture à la concurrence des télécoms.
-            <br>
-             <br>
-              La Direction du Trésor estime que la libéralisation du marché français des télécoms, qui a débuté en 1998, a in f ...
-             </br>
-            </br>
+            <br/>
+            <br/>
+            La Direction du Trésor estime que la libéralisation du marché français des télécoms, qui a débuté en 1998, a in f ...
            </p>
            <div class="o-vertical-interval-bottom">
            </div>
@@ -6783,108 +6953,6 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               <div class="c-source__like">
                <b>
                 0
-               </b>
-               j'aime
-              </div>
-             </div>
-            </div>
-           </div>
-          </div>
-          <hr class="c-separator c-separator--dotted c-separator--gutter"/>
-          <div class="c-message">
-           <div class="c-profile-card">
-            <div class="o-flag o-flag--top">
-             <div class="o-flag__img">
-              <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/landro78/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte landro78" type="button">
-               <span class="c-avatar">
-                <span class="c-avatar__image">
-                 <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/ZEZVhgiGryPrt8iAvWaTJivlnsxYhob8N4EieqaAfy7PUJ-PkX_nTVx0xYaK2oBJSRykh32h0ygI8XbtmFC5FCC8ocOCbJvszXtt1rx4bznkvrWTHOTXIhGzrdY14FI6QR4JE_ZDPdH4WFrI71Kxs2g6P7s3mwYwJruKpoIjAEFsjTOGPHtlD6s9auTLuhzS-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
-                  <!-- fallback for browsers not using JS / bots -->
-                  <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/ZEZVhgiGryPrt8iAvWaTJivlnsxYhob8N4EieqaAfy7PUJ-PkX_nTVx0xYaK2oBJSRykh32h0ygI8XbtmFC5FCC8ocOCbJvszXtt1rx4bznkvrWTHOTXIhGzrdY14FI6QR4JE_ZDPdH4WFrI71Kxs2g6P7s3mwYwJruKpoIjAEFsjTOGPHtlD6s9auTLuhzS-48x48.jpg"/>
-                  </noscript>
-                 </picture>
-                </span>
-               </span>
-              </button>
-             </div>
-             <div class="o-flag__body">
-              <div class="o-pack o-pack--auto">
-               <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
-               </i>
-               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPORA/detail/462135437/" title="Accéder à la discussion Verdict BFM Bourse 2023 sur les 5 dernières années.">
-                Verdict BFM Bourse 2023 sur les 5 dernières années.
-               </a>
-              </div>
-             </div>
-            </div>
-           </div>
-           <div class="o-vertical-interval-bottom-small">
-           </div>
-           <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
-            Orange est dans les 5 dernières du CAC sur  les 5 dernières années avec dividende intégré.
-            <br>
-             Donc oui, c'est vrais, y a pire, mais c'est pas difficile de trouver
-             <br/>
-             mieux.
-             <br/>
-             <br/>
-             https://www.tradi ...
-            </br>
-           </p>
-           <div class="o-vertical-interval-bottom">
-           </div>
-           <div class="o-list-flex-inline">
-            <div class="o-list-flex-inline__item">
-             <div class="c-source c-source--border-left c-source--no-border@sm-min">
-              <span class="c-source__by">
-               par
-              </span>
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/landro78/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte landro78" type="button">
-               landro78
-              </button>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               18 janv.
-              </span>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               16:52
-              </span>
-             </div>
-            </div>
-            <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
-             <div class="c-source c-source--border-left">
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/adnstep/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte adnstep" type="button">
-               adnstep
-              </button>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               14:05
-              </span>
-             </div>
-            </div>
-            <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
-             <div class="c-source">
-              <div class="c-source__comments">
-               <b>
-                27
-               </b>
-               commentaires
-              </div>
-              <div class="c-source__like">
-               <span aria-hidden="true" class="c-source__bullet">
-                •
-               </span>
-               <b>
-                5
                </b>
                j'aime
               </div>
@@ -7360,100 +7428,6 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                </span>
                <b>
                 0
-               </b>
-               j'aime
-              </div>
-             </div>
-            </div>
-           </div>
-          </div>
-          <hr class="c-separator c-separator--dotted c-separator--gutter"/>
-          <div class="c-message">
-           <div class="c-profile-card">
-            <div class="o-flag o-flag--top">
-             <div class="o-flag__img">
-              <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/hinojosa/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte hinojosa" type="button">
-               <span class="c-avatar">
-                <span class="c-avatar__image">
-                 <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/tdrE04OFLTydJI2YGRjeMe_sveCfe3CGZhQcXe9_0g3DYP52C6gAJH7wEEtt-ErQN704VWB1oSeLSgNe9r6JIEMTsyM7OGjp5cotTDnFKnNhRdmc-mPFPmrE2U7fkH6UI-3IURuUmnQBhPJv6265_FcwbuLP9S0ECGZNFPKrzh6UnOQ8aZRPh87wFKRfA37q-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
-                  <!-- fallback for browsers not using JS / bots -->
-                  <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/tdrE04OFLTydJI2YGRjeMe_sveCfe3CGZhQcXe9_0g3DYP52C6gAJH7wEEtt-ErQN704VWB1oSeLSgNe9r6JIEMTsyM7OGjp5cotTDnFKnNhRdmc-mPFPmrE2U7fkH6UI-3IURuUmnQBhPJv6265_FcwbuLP9S0ECGZNFPKrzh6UnOQ8aZRPh87wFKRfA37q-48x48.jpg"/>
-                  </noscript>
-                 </picture>
-                </span>
-               </span>
-              </button>
-             </div>
-             <div class="o-flag__body">
-              <div class="o-pack o-pack--auto">
-               <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
-               </i>
-               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPORA/detail/462130744/" title="Accéder à la discussion Orange encore touché par une panne vers les appels d'urgence">
-                Orange encore touché par une panne vers les appels d'urgence
-               </a>
-              </div>
-             </div>
-            </div>
-           </div>
-           <div class="o-vertical-interval-bottom-small">
-           </div>
-           <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
-            Pendant plus d'une heure, dans les zones touchées, environ 60% des appels fixes et mobiles vers le 15, le 18 et le 112 n'ont pas pu aboutir.
-           </p>
-           <div class="o-vertical-interval-bottom">
-           </div>
-           <div class="o-list-flex-inline">
-            <div class="o-list-flex-inline__item">
-             <div class="c-source c-source--border-left c-source--no-border@sm-min">
-              <span class="c-source__by">
-               par
-              </span>
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/hinojosa/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte hinojosa" type="button">
-               hinojosa
-              </button>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               18 janv.
-              </span>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               08:15
-              </span>
-             </div>
-            </div>
-            <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
-             <div class="c-source c-source--border-left">
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/E7083058/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte Jack-d-Orange" type="button">
-               Jack-d-Orange
-              </button>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               20 janv. 2023
-              </span>
-             </div>
-            </div>
-            <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
-             <div class="c-source">
-              <div class="c-source__comments">
-               <b>
-                29
-               </b>
-               commentaires
-              </div>
-              <div class="c-source__like">
-               <span aria-hidden="true" class="c-source__bullet">
-                •
-               </span>
-               <b>
-                1
                </b>
                j'aime
               </div>

@@ -78,46 +78,6 @@ class evolution:
         del liste[len(liste)-5:len(liste)]
         return liste
 
-    '''def limiter(a):
-        #on commence par importer le module sys 
-
-        # on définit les variables pour les lignes de départ et d'arrivée 
-        start_line = int(evolution.find())
-        end_line = int(evolution.find()+a)
-
-        # on ouvre le fichier et le ligne par ligne 
-        with open("source_html.txt", "r", encoding="utf-8") as f:
-            lignes = f.readlines()
-
-        # on découpe le fichier entre les lignes de départ et d'arrivée 
-        decoupe_fichier = lignes[start_line:end_line]
-
-        # on écrit le nouveau fichier 
-        with open("limiter.txt", "w", encoding="utf-8") as f:
-            for ligne in decoupe_fichier:
-                f.write(ligne)
-
-    def test():
-        # début du programme 
-
-        # ouverture du fichier en lecture
-        fichier_texte = open("limited.txt", "r", encoding="utf-8")
-
-        # création d'une variable pour stocker le texte sans lettres
-        texte_sans_lettres = []
-
-        # lecture du fichier ligne par ligne
-        for ligne in fichier_texte:
-            # parcourir chaque caractère de la ligne et ne garder que les chiffres
-            for caractere in ligne:
-                if caractere.isdigit():
-                    texte_sans_lettres.append(caractere)
-
-        # fermer le fichier
-        fichier_texte.close()
-        del texte_sans_lettres[39:44]
-        return texte_sans_lettres'''
-
     def former(liste):
         output_list = []
         if len(liste) <= 36:
@@ -140,10 +100,80 @@ class evolution:
 
 
 class cours:
-    pass
+    def find():
+        # On commence par ouvrir le fichier
+        fichier = open('source_html.txt','r', encoding="UTF-8")
+
+        # On demande à l'utilisateur le mot à rechercher
+        mot_a_rechercher = str("ouverture")
+
+        # On crée un compteur pour le numéro de ligne
+        numero_ligne = 0
+
+        # On parcourt le fichier ligne par ligne
+        for ligne in fichier:
+            # On incrémente le numéro de ligne
+            numero_ligne = numero_ligne + 1
+            # On cherche le mot
+            if mot_a_rechercher in ligne:
+                # On affiche le numéro de ligne
+                return numero_ligne
+
+        # On ferme le fichier
+        fichier.close()
+
+
+    def clean(a):
+        # On commence par ouvrir le fichier texte
+        fichier = open("source_html.txt", "r", encoding="UTF-8")
+
+        # On initialise des variables nécessaires
+        liste = []
+        ligne_debut = int(cours.find())
+        ligne_fin = int(cours.find()+a)
+
+        # On lit le fichier ligne par ligne
+        for num_ligne, ligne in enumerate(fichier):
+            # On vérifie si la ligne se trouve entre la ligne de début et celle de fin
+            if ligne_debut <= num_ligne <= ligne_fin:
+                # On parcourt la ligne lettre par lettre
+                for lettre in ligne:
+                    # On vérifie si la lettre correspond à un integer
+                    if lettre.isdigit() or lettre == "." or lettre == "%":
+                        # On ajoute l'integer à la liste
+                        liste.append(lettre)
+
+        # del liste[len(liste)-5:len(liste)]
+        return liste
+
+#96
+#92
+
+    def former(liste):
+        output_list = []
+        
+        for i in range(0, 24, 6):
+            output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2])
+            + str(liste[i+5]) + str(liste[i+4]))
+
+        for i in range(len(liste), 27, 3):
+            output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2]))
+
+        for i in range(27, len(liste), 4):
+            output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2]) 
+            + str(liste[i+3]))
+
+        final = [
+            int(output_list[0])/100,int(output_list[1])/100,int(output_list[2])/100,
+            int(output_list[3])/100,int(output_list[4])/100,int(output_list[5])/100,
+            int(output_list[6])/100,int(output_list[7])/100,int(output_list[8])/100,
+            int(output_list[9])/100,int(output_list[10])/100,int(output_list[11])/100
+        ]
+        return final, "evo"
+
 
 if __name__ == '__main__':
     evolution.get()
-    print(evolution.find(),"\n")
-    print(evolution.clean(),"\n")
-    print(evolution.former(evolution.clean()))
+    print(cours.find(),"\n")
+    print(cours.clean(181),"\n")
+    print(cours.former(cours.clean(181)))
