@@ -1,0 +1,94 @@
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  0.70
+                  <span class="c-table-evolution__suffix">
+                   EUR
+                  </span>
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  0.72
+                  <span class="c-table-evolution__suffix">
+                   EUR
+                  </span>
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  0.75
+                  <span class="c-table-evolution__suffix">
+                   EUR
+                  </span>
+                 </td>
+                </tr>
+                <tr class="c-table__row c-table-evolution__row-top">
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-normal-whitespace">
+                  Rendement
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  7.23%
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  7.41%
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  7.75%
+                 </td>
+                </tr>
+                <tr class="c-table__row c-table-evolution__row-top">
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-normal-whitespace">
+                  Bénéfice net par action
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  1.11
+                  <span class="c-table-evolution__suffix">
+                   EUR
+                  </span>
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  1.14
+                  <span class="c-table-evolution__suffix">
+                   EUR
+                  </span>
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  1.22
+                  <span class="c-table-evolution__suffix">
+                   EUR
+                  </span>
+                 </td>
+                </tr>
+                <tr class="c-table__row c-table-evolution__row-top">
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-normal-whitespace">
+                  PER
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  8.73
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  8.51
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--inherit-height c-table__cell--align-top / u-text-left u-text-right u-ellipsis">
+                  7.93
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <div class="c-block__foot">
+            </div>
+           </div>
+          </div>
+          <div class="o-vertical-interval-bottom-x-small">
+          </div>
+          <div class="c-references">
+           <p class="c-references__note c-references__note--collapse">
+            <span class="c-references__text">
+             Copyright © 2023 FactSet Research Systems Inc. All rights reserved.
+            </span>
+           </p>
+          </div>
+          <div class="o-gutter-bottom">
+          </div>
+          <div class="c-block">
+           <div class="c-block__head">
+            <h2 class="c-heading / o-flag o-flag--x-small">
+             <div class="o-flag__body">
