@@ -100,12 +100,12 @@ class evolution:
 
 
 class cours:
-    def find():
+    def find(a):
         # On commence par ouvrir le fichier
         fichier = open('source_html.txt','r', encoding="UTF-8")
 
         # On demande à l'utilisateur le mot à rechercher
-        mot_a_rechercher = str("ouverture")
+        mot_a_rechercher = str(a)
 
         # On crée un compteur pour le numéro de ligne
         numero_ligne = 0
@@ -119,18 +119,15 @@ class cours:
                 # On affiche le numéro de ligne
                 return numero_ligne
 
-        # On ferme le fichier
-        fichier.close()
 
-
-    def clean(a):
+    def clean(a,b):
         # On commence par ouvrir le fichier texte
         fichier = open("source_html.txt", "r", encoding="UTF-8")
 
         # On initialise des variables nécessaires
         liste = []
-        ligne_debut = int(cours.find())
-        ligne_fin = int(cours.find()+a)
+        ligne_debut = int(a)
+        ligne_fin = int(b+a)
 
         # On lit le fichier ligne par ligne
         for num_ligne, ligne in enumerate(fichier):
@@ -149,8 +146,35 @@ class cours:
 #96
 #92
 
-    def former(liste):
-        output_list = []
+    def former():
+        liste = []
+        listee = []
+        # ouverture 6
+        '''liste_1 = cours.clean(cours.find("ouverture"),6)
+        for i in range(0, 6, 6):
+            liste.append(str(liste_1[i]) + str(liste_1[i+1]) + str(liste_1[i+2])
+            + str(liste_1[i+5]) + str(liste_1[i+4]) + str(liste_1[i+5]))'''
+        
+        # cloture 6
+        print(cours.find("clôture veille"),6)
+        liste_2 = cours.clean(cours.find("clôture veille"),6)
+        print(liste_2)
+        liste_2[0] = [str(liste_2[0]) + str(liste_2[1]) + str(liste_2[2])
+        + str(liste_2[5]) + str(liste_2[4]) + str(liste_2[5])]
+        # + haut 6
+        # + bas 6
+        # volume 6
+        # capital 6
+        # valorisation 6
+        # dernier 6
+        # limite + et - 51
+        # rendemet 6
+        # PER estimé 27
+        # dividende et date dividente 16
+        return liste_2
+    
+        
+        '''output_list = []
         
         for i in range(0, 24, 6):
             output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2])
@@ -169,11 +193,9 @@ class cours:
             int(output_list[6])/100,int(output_list[7])/100,int(output_list[8])/100,
             int(output_list[9])/100,int(output_list[10])/100,int(output_list[11])/100
         ]
-        return final, "evo"
+        return final, "evo"'''
 
 
 if __name__ == '__main__':
     evolution.get()
-    print(cours.find(),"\n")
-    print(cours.clean(181),"\n")
-    print(cours.former(cours.clean(181)))
+    print(cours.former())
