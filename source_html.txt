@@ -31,7 +31,7 @@
   <meta content="bourse de Paris, investissement, action CAC 40, Sicav, investir, indices devises, marché boursier, cotations, trackers, warrants, Boursorama" name="keywords"/>
   <meta content="index, follow, all" name="robots"/>
   <meta content="telephone=no" name="format-detection"/>
-  <meta content="27eb3690-f584-4df6-9118-8c1f82ca0c7c" name="uuid"/>
+  <meta content="ea4a2912-e703-43b5-bc2b-e42e8ea07815" name="uuid"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-medium-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-bold-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <style>
@@ -57,7 +57,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
   </script>
   <script>
    // json config
-    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6IjFmY2Y3MTczYmIyYjUifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiMWZjZjcxNzNiYjJiNSIsImlhdCI6MTY3NDMzOTU5MS4wODEyMDQsInYiOiIxLjAiLCJzdWIiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwic2NvcGVzIjoiUk9MRV9WSVNJVE9SIiwiY2lkIjoid2ViX2ZyX3BvcnRhbF8yMCIsImV4cCI6MTY3NDM0MTM5MX0.vKemDakdqwKCa7G0rV15Q-2sjT-JY6bB2VkYRW-UFzsfs-wH4bCAcV8RtVBgqdrmfSNBk3eCGoKjm37yNmI2MdoPHAJAWYlIQTYTiNODmbVg1nPVyQbMW92kXDr9EjybzOGztJv7aQBTOptGAa6uawMlFfyGAGX7Hm6_rkzJz2bNvEom6WeNQJ7OBEBZuFcTdZHiHk97OrdToGsTk9JTrJtNOyBuKRQYEjIcO-4QBrk4gl7qTsriAjthwfhVjGyA3Wb3Tla6l2RaQNqwVQEVMEXdP1TzFoJzsPXnlhsS2r1bKXlkMVMK3YcA7JeGX627TPXek-WCyyKQlpSHo0Gqu8AxBhpASIc1pDF4_dHyT1UKyACluEwZfj0Q8fXCpQVR10ga2pzfcwYis88Ipamt9yjHX_rg0vK6LJSaJCo1NGZfFRuocnUxQjD1KKt18By3upxUO56kvwcqp-Dx3oik5FYq2HrhpC8HmqywfEVBJJgdEN8Hn7j0SevyyqSHL2jN6ad5pLuQZYmgChB10H9gcFRnGHhFSyxHQ7VTWAZqMsbeW_OZbx6qjUgJ-YOA4OUfpTUpqqxAtrmdoI7g-WtlP9crHQj5a-smSwS7nrfVqoOBoBjAfVSwQDLk1nZLVTkcgc2OUr5qxwAE89h--nLRAbTAQ5CiTik7Stf7d3R4R5U","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
+    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6IjEyOGI5ZGEzNzAxNDQifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiMTI4YjlkYTM3MDE0NCIsImlhdCI6MTY3NDU0NjU5MS4wOTM4MTIsInYiOiIxLjAiLCJzdWIiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwic2NvcGVzIjoiUk9MRV9WSVNJVE9SIiwiY2lkIjoid2ViX2ZyX3BvcnRhbF8yMCIsImV4cCI6MTY3NDU0ODM5MX0.RZVT71kSS2OuMWW1De6bvV0bCaSq2gg0NIXgK2mvfOCF_yWo9jW6yKC457jBW7uEetKe297LS3axFYkGfEUPDQE4QMO7UaGNBaExkGUyWsBlkB-_4FzSn9MfCf1TWpR2xEFxjnb_ynwOFeZ3N7EuDNDmzxOlLlG5w4s00pbzDgErj7PoD0_OV3WOzlg5EmkW_AMbT1iY581422yPsscVlxSrBhXtEMxyI6dGgBv93zg6YTDXfNVyKu6shbUnFBy93vfMf6jHywJ0tiB4qXW170fcWivGqg3qN_CVObt8Pr8SRx1lWTRaxCepA69wXOBqNX9at8hsRYD6B6i7V5NCpovoQ7iT6WEjokzHxGypjxk-GYYg2FEApnlGaG3ODCg9FyE4Nq5sd3AQnr_UrupBD5GUIDcimOTyU2TqQCAzGhVlKJ2uV7E2T110IRRzF5phpBLqVwA4msrJ2DN-JPOaGIut52MVRvZf7o56c5ttH0mzqtP2Nmmf2QwjOgcXVbi5py6EJaThrOVz_arklmAaW5x-ppusaiCQ5bcop_DY-dYyqXabKcheWccyybUAneLQBViEYHpobtRtsE72XoFbFIa-YEDaNFS3bTgxHmwFBfQZwANwF_68tL0kmqzisOgEEJQPs4wzTuUDXXJJJdGJUJfy683YS2WaUDP-ur1CyJs","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
     window.BRS_CONFIG.orderframeCSSPath = "/build/9559.f45ed7e8ca83db320fae.css";
     window.BRS_CONFIG.orderframeJSPath = '/build/orderframe.js?md5=55b538d3466d128eec10a6e8a8b2d584';
 
@@ -176,27 +176,27 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         </div>
         <div>
          <span class="c-instrument c-instrument--last" data-ist-last="">
-          42.05
-         </span>
-        </div>
-        <div class="u-color-stream-down">
-         <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          -0.94%
-         </span>
-        </div>
-       </a>
-       <a class="c-ticker__item u-color-white o-list-inline o-list-inline--middle" data-ist="1xN225" href="/bourse/indices/cours/1xN225/" tabindex="-1">
-        <div class="u-text-bold">
-         Nikkei 225
-        </div>
-        <div>
-         <span class="c-instrument c-instrument--last" data-ist-last="">
-          26 553.53
+          42.60
          </span>
         </div>
         <div class="u-color-stream-up">
          <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          +0.56%
+          +0.24%
+         </span>
+        </div>
+       </a>
+       <a class="c-ticker__item u-color-white o-list-inline o-list-inline--middle" data-ist="1rPCAC" href="/bourse/indices/cours/1rPCAC/" tabindex="-1">
+        <div class="u-text-bold">
+         CAC 40
+        </div>
+        <div>
+         <span class="c-instrument c-instrument--last" data-ist-last="">
+          7 047.25
+         </span>
+        </div>
+        <div class="u-color-stream-up">
+         <span class="c-instrument c-instrument--variation" data-ist-variation="">
+          +0.22%
          </span>
         </div>
        </a>
@@ -2284,21 +2284,21 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
    <section class="l-header__tradingboard">
     <div class="c-tradingboard">
      <div class="c-tradingboard__main">
-      <div class="c-tradingboard__infos" data-ist="1xN225" data-ist-init='{"symbol":"1xN225","variation":0.0056163116170546,"last":26553.53,"previousClose":26405.23,"high":26553.53,"low":26320.96,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-21 07:00:01","category":"IND","decimals":2}'>
+      <div class="c-tradingboard__infos" data-ist="1rPCAC" data-ist-init='{"symbol":"1rPCAC","variation":0.0021658072644844,"last":7047.25,"previousClose":7032.02,"high":7064.69,"low":7046.94,"totalVolume":114,"exchangeCode":"PAR","tradeDate":"2023-01-24 09:10:00","category":"IND","decimals":2}'>
        <div class="c-tradingboard__label">
-        <a class="c-tradingboard__link" href="/bourse/indices/cours/1xN225/" title="Fiche valeur Nikkei 225">
-         Nikkei 225
+        <a class="c-tradingboard__link" href="/bourse/indices/cours/1rPCAC/" title="Fiche valeur CAC 40">
+         CAC 40
         </a>
        </div>
        <div class="c-tradingboard__value">
         <span class="c-instrument c-instrument--last" data-ist-last="">
-         26 553.53
+         7 047.25
         </span>
        </div>
        <div class="c-tradingboard__fluctuation">
         <span class="u-color-stream-up c-tradingboard__fluctuation-space">
          <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          +0.56%
+          +0.22%
          </span>
         </span>
        </div>
@@ -2308,72 +2308,72 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         Indices
        </span>
        <ul class="c-list-trading c-list-trading--half@lg-min" role="list">
-        <li class="c-list-trading__line" data-ist="1bPFCEFEB23" data-ist-init='{"symbol":"1bPFCEFEB23","variation":0.010340370529944,"last":7035,"previousClose":6963,"high":7035,"low":6474.5,"totalVolume":54403,"exchangeCode":"MNP","tradeDate":"2023-01-20 21:59:59","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="CAC FEB 23 7 035.00 +1.03% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours/1bPFCEFEB23/">
+        <li class="c-list-trading__line" data-ist="_INDU" data-ist-init='{"symbol":"$INDU","variation":0.0076124725060216,"last":33629.56,"previousClose":33375.49,"high":33782.88,"low":33316.25,"totalVolume":355226931,"exchangeCode":"IND","tradeDate":"2023-01-23 22:20:01","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="DOW JONES 33 629.56 +0.76% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/%24INDU/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           CAC FEB 23
+           DOW JONES
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            7 035.00
+            33 629.56
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +1.03%
+            +0.76%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line" data-ist="_NQ3H" data-ist-init='{"symbol":"\/NQ3H","variation":0.024948435511476,"last":11677.75,"previousClose":11393.5,"high":11686.75,"low":11365.25,"totalVolume":569039,"exchangeCode":"CME","tradeDate":"2023-01-20 22:59:59","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="NASDAQ MAR23 11 677.75 +2.49% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3H/">
+        <li class="c-list-trading__line" data-ist="_COMPX" data-ist-init='{"symbol":"$COMPX","variation":0.020105072347798,"last":11364.41366,"previousClose":11140.43442,"high":11405.50317,"low":11144.02672,"totalVolume":0,"exchangeCode":"IND","tradeDate":"2023-01-23 22:30:01","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="NASDAQ 11 364.41 +2.01% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/%24COMPX/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           NASDAQ MAR23
+           NASDAQ
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            11 677.75
+            11 364.41
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +2.49%
+            +2.01%
            </span>
           </div>
          </a>
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half@lg-min c-list-trading--hide@md-max" role="list">
-        <li class="c-list-trading__line" data-ist="_ES3H" data-ist-init='{"symbol":"\/ES3H","variation":0.017282061093043,"last":3988,"previousClose":3920.25,"high":3990.5,"low":3911.75,"totalVolume":1529244,"exchangeCode":"CME","tradeDate":"2023-01-20 22:59:59","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="MINI S&amp;P MAR23 3 988.00 +1.73% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//ES3H/">
+        <li class="c-list-trading__line" data-ist="1xN225" data-ist-init='{"symbol":"1xN225","variation":0.014611960734467,"last":27299.19,"previousClose":26906.04,"high":27381,"low":27150.43,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-24 07:00:01","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="NIKKEI 27 299.19 +1.46% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1xN225/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           MINI S&amp;P MAR23
+           NIKKEI
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            3 988.00
+            27 299.19
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +1.73%
+            +1.46%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line" data-ist="_NQ3M" data-ist-init='{"symbol":"\/NQ3M","variation":0.023170043823491,"last":11790.5,"previousClose":11523.5,"high":11805.75,"low":11498,"totalVolume":1021,"exchangeCode":"CME","tradeDate":"2023-01-20 22:45:08","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="NASDAQ JUN23 11 790.50 +2.32% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3M/">
+        <li class="c-list-trading__line" data-ist="5pDAX" data-ist-init='{"symbol":"5pDAX","variation":0,"last":15102.95,"previousClose":15102.95,"high":0,"low":0,"totalVolume":0,"exchangeCode":"IBS","tradeDate":"2023-01-23 17:45:41","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="DAX 15 102.95 0.00% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/5pDAX/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           NASDAQ JUN23
+           DAX
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            11 790.50
+            15 102.95
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +2.32%
+            0.00%
            </span>
           </div>
          </a>
@@ -2387,27 +2387,27 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         Chiffres-clés
        </span>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="8xBRN" data-ist-init='{"symbol":"8xBRN","variation":0.014007872192637,"last":87.59,"previousClose":86.38,"high":87.79,"low":85.58,"totalVolume":210999,"exchangeCode":"ICE","tradeDate":"2023-01-20 23:16:15","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="Pétrole Brent 87,59  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/8xBRN/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="8xBRN" data-ist-init='{"symbol":"8xBRN","variation":-0.00090754395916066,"last":88.07,"previousClose":88.15,"high":88.36,"low":87.84,"totalVolume":8114,"exchangeCode":"ICE","tradeDate":"2023-01-24 09:00:14","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="Pétrole Brent 88,07  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/8xBRN/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            Pétrole Brent
           </div>
-          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
+          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            87,59
+            88,07
            </span>
            $US
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="_GC" data-ist-init='{"symbol":"_GC","variation":-0.002825472723321,"last":1926.96,"previousClose":1932.42,"high":1926.96,"low":1926.96,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-21 13:29:45","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="ONCE D'OR 1 926,96  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/_GC/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="_GC" data-ist-init='{"symbol":"_GC","variation":0.0070858661627829,"last":1940.02,"previousClose":1926.37,"high":1942.27,"low":1930.97,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-24 09:10:04","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="ONCE D'OR 1 940,02  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/_GC/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            ONCE D'OR
           </div>
-          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
+          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            1 926,96
+            1 940,02
            </span>
            $US
           </div>
@@ -2415,27 +2415,27 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1xEURUS" data-ist-init='{"symbol":"1xEURUS","variation":0,"last":1.08565,"previousClose":1.08565,"high":1.0862,"low":1.0802,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-20 22:59:56","category":"SPT","decimals":4}' data-list-trading-symbol="">
-         <a aria-label="EUR/USD 1,0856  : fiche valeur" class="c-list-trading__link" href="/bourse/devises/taux-de-change-euro-dollar-EUR-USD/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1xEURUS" data-ist-init='{"symbol":"1xEURUS","variation":0.0016557052844594,"last":1.08895,"previousClose":1.08715,"high":1.08985,"low":1.08675,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-24 09:10:04","category":"SPT","decimals":4}' data-list-trading-symbol="">
+         <a aria-label="EUR/USD 1,0890  : fiche valeur" class="c-list-trading__link" href="/bourse/devises/taux-de-change-euro-dollar-EUR-USD/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            EUR/USD
           </div>
           <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            1,0856
+            1,0890
            </span>
            $US
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1cVIX" data-ist-init='{"symbol":"1cVIX","variation":-0.032651072124756,"last":19.85,"previousClose":20.52,"high":20.7,"low":19.41,"totalVolume":0,"exchangeCode":"CBO","tradeDate":"2023-01-20 22:15:01","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="VIX INDEX 19,85  : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1cVIX/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1cVIX" data-ist-init='{"symbol":"1cVIX","variation":0,"last":19.81,"previousClose":19.81,"high":0,"low":0,"totalVolume":0,"exchangeCode":"CBO","tradeDate":"2023-01-23 22:15:01","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="VIX INDEX 19,81  : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1cVIX/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            VIX INDEX
           </div>
-          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
+          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            19,85
+            19,81
            </span>
            $US
           </div>
@@ -2450,52 +2450,52 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         + fortes hausses et baisses SBF 120
        </span>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPNK" data-ist-init='{"symbol":"1rPNK","variation":0.044276457883369,"last":38.68,"previousClose":37.04,"high":39.5,"low":37.92,"totalVolume":255875,"exchangeCode":"PAR","tradeDate":"2023-01-20 17:37:01","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="IMERYS  +4.43% : fiche valeur" class="c-list-trading__link" href="/cours/1rPNK/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPOVH" data-ist-init='{"symbol":"1rPOVH","variation":0.026548672566372,"last":15.66,"previousClose":15.255,"high":15.71,"low":15.3,"totalVolume":10996,"exchangeCode":"PAR","tradeDate":"2023-01-24 09:09:53","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="OVHCLOUD  +2.65% : fiche valeur" class="c-list-trading__link" href="/cours/1rPOVH/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           IMERYS
+           OVHCLOUD
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +4.43%
+            +2.65%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPAM" data-ist-init='{"symbol":"1rPAM","variation":0.034591194968553,"last":164.5,"previousClose":159,"high":165.5,"low":158.8,"totalVolume":61038,"exchangeCode":"PAR","tradeDate":"2023-01-20 17:35:19","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="DASSAULT AVIATION  +3.46% : fiche valeur" class="c-list-trading__link" href="/cours/1rPAM/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPMF" data-ist-init='{"symbol":"1rPMF","variation":0.020165460186143,"last":98.65,"previousClose":96.7,"high":98.75,"low":98.05,"totalVolume":7648,"exchangeCode":"PAR","tradeDate":"2023-01-24 09:09:37","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="WENDEL  +2.02% : fiche valeur" class="c-list-trading__link" href="/cours/1rPMF/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           DASSAULT AVIATION
+           WENDEL
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +3.46%
+            +2.02%
            </span>
           </div>
          </a>
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPIPS" data-ist-init='{"symbol":"1rPIPS","variation":-0.030944625407166,"last":59.5,"previousClose":61.4,"high":61.8,"low":59.2,"totalVolume":74399,"exchangeCode":"PAR","tradeDate":"2023-01-20 17:35:22","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="IPSOS  -3.09% : fiche valeur" class="c-list-trading__link" href="/cours/1rPIPS/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPAM" data-ist-init='{"symbol":"1rPAM","variation":-0.019915509957755,"last":162.4,"previousClose":165.7,"high":163,"low":154.6,"totalVolume":16509,"exchangeCode":"PAR","tradeDate":"2023-01-24 09:10:04","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="DASSAULT AVIATION  -1.99% : fiche valeur" class="c-list-trading__link" href="/cours/1rPAM/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           IPSOS
+           DASSAULT AVIATION
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -3.09%
+            -1.99%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPEO" data-ist-init='{"symbol":"1rPEO","variation":-0.02940336854125,"last":17,"previousClose":17.515,"high":17.38,"low":16.79,"totalVolume":2098479,"exchangeCode":"PAR","tradeDate":"2023-01-20 17:35:16","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="FAURECIA  -2.94% : fiche valeur" class="c-list-trading__link" href="/cours/1rPEO/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPVLA" data-ist-init='{"symbol":"1rPVLA","variation":-0.012413394919169,"last":6.842,"previousClose":6.928,"high":6.922,"low":6.83,"totalVolume":7412,"exchangeCode":"PAR","tradeDate":"2023-01-24 09:08:10","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="VALNEVA  -1.24% : fiche valeur" class="c-list-trading__link" href="/cours/1rPVLA/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           FAURECIA
+           VALNEVA
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -2.94%
+            -1.24%
            </span>
           </div>
          </a>
@@ -2633,8 +2633,8 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
       </nav>
      </div>
      <header class="l-quotepage__header">
-      <div class="c-faceplate is-negative /*debug*/" data-faceplate="" data-faceplate-symbol="1rPSWP" data-ist="1rPSWP" data-ist-init='{"symbol":"1rPSWP","high":42.5,"low":42.05,"previousClose":42.45,"totalVolume":1717,"tradeDate":"2023-01-20 17:35:28","variation":-0.0094228504122498,"last":42.05,"exchangeCode":"PAR","category":"STK","decimals":3}' data-ist-variation-indicator="">
-       <input class="c-faceplate__accordion-toggle" id="faceplate-980262525" type="checkbox"/>
+      <div class="c-faceplate is-positive /*debug*/" data-faceplate="" data-faceplate-symbol="1rPSWP" data-ist="1rPSWP" data-ist-init='{"symbol":"1rPSWP","high":42.65,"low":42.6,"previousClose":42.5,"totalVolume":131,"tradeDate":"2023-01-24 09:01:02","variation":0.0023529411764706,"last":42.6,"exchangeCode":"PAR","category":"STK","decimals":3}' data-ist-variation-indicator="">
+       <input class="c-faceplate__accordion-toggle" id="faceplate-1113068456" type="checkbox"/>
        <div class="c-faceplate__body">
         <div class="c-faceplate__company">
          <h1 class="c-faceplate__company-title">
@@ -2649,19 +2649,18 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           <div class="c-faceplate__values">
            <div class="c-faceplate__price">
             <span class="c-instrument c-instrument--last" data-ist-last="">
-             42.050
+             42.600
             </span>
             <span class="c-faceplate__settle">
-             (c)
             </span>
             <span class="c-faceplate__price-currency">
              EUR
             </span>
            </div>
            <div class="c-faceplate__fluctuation">
-            <span class="u-color-stream-down">
+            <span class="u-color-stream-up">
              <span class="c-instrument c-instrument--variation" data-ist-variation="">
-              -0.94%
+              +0.24%
              </span>
             </span>
            </div>
@@ -2713,7 +2712,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         <div class="c-faceplate__chart">
          <div class="c-faceplate__chart-draw c-list-info--bottom-separator@sm-max c-list-info--top-separator@sm-max c-list-info--left-separator@md-min">
           <!-- MC Histogram ! -->
-          <div class="c-chart c-chart--height-xs" data-line-chart="" id="9017537">
+          <div class="c-chart c-chart--height-xs" data-line-chart="" id="1208788630">
            <div class="c-quote-chart__loader">
             <div class="c-loader-arrow c-loader-arrow--full-height">
              <span aria-busy="true" aria-live="polite" class="u-sr-only" role="alert">
@@ -2728,7 +2727,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           <script>
            $(function () {
         //The amCharts "real" default configs for our charts can be found in the jQuery plugin "jquery.amcharts.js".
-        var chart      = JSON.parse('{"static":{"amChart":{"type":"serial"},"graph":{"fillAlphas":0,"fillColors":"#009de0","lineColor":"#009de0","gridColor":"#000000","fontColor":"#000000","categoryOffset":0,"chartModifier":"c-chart--height-xs"}},"data":{"amChartConfig":{"brs":{"commonField":"period","id":9017537},"colors":["#009de0","#003883","#149e62","#f1d205"],"valueAxes":[{"title":"","position":"right","axisThickness":0,"gridThickness":1,"gridColor":"#000000","tickLength":0,"guides":[{"value":42.45,"lineColor":"#fb0189","lineAlpha":100,"lineThickness":1,"tickLength":0,"above":true}],"includeGuidesInMinMax":true,"color":"#000000"}],"categoryAxis":{"axisThickness":0,"gridThickness":0,"autoGridCount":false,"gridCount":3,"showFirstLabel":false,"showLastLabel":false,"color":"#000000","offset":0},"graphs":[{"balloonText":"[[title]] [[category]] : [[value]]","type":"line","fillAlphas":0,"fillColors":"#009de0","id":"chart-63cc6a130cac2","commonField":"period","brsValueField":"value","lineThickness":1}],"chartCursor":{"valueBalloonsEnabled":true,"valueLineEnabled":true,"cursorAlpha":0.35,"cursorColor":"#009de0","valueLineBalloonEnabled":true,"categoryBalloonColor":"#009de0","valueLineAlpha":0.35,"valueZoomable":false,"pan":false,"zoomable":false}},"amChartData":{"chart-63cc6a130cac2":[{"period":"09h00","value":42.45},{"period":"09h01","value":42.45},{"period":"09h02","value":42.45},{"period":"09h03","value":42.45},{"period":"09h04","value":42.45},{"period":"09h05","value":42.45},{"period":"09h06","value":42.45},{"period":"09h07","value":42.45},{"period":"09h08","value":42.45},{"period":"09h09","value":42.45},{"period":"09h10","value":42.45},{"period":"09h11","value":42.45},{"period":"09h12","value":42.45},{"period":"09h13","value":42.45},{"period":"09h14","value":42.45},{"period":"09h15","value":42.45},{"period":"09h16","value":42.45},{"period":"09h17","value":42.45},{"period":"09h18","value":42.45},{"period":"09h19","value":42.45},{"period":"09h20","value":42.45},{"period":"09h21","value":42.45},{"period":"09h22","value":42.45},{"period":"09h23","value":42.45},{"period":"09h24","value":42.45},{"period":"09h25","value":42.45},{"period":"09h26","value":42.45},{"period":"09h27","value":42.45},{"period":"09h28","value":42.45},{"period":"09h29","value":42.45},{"period":"09h30","value":42.45},{"period":"09h31","value":42.45},{"period":"09h32","value":42.45},{"period":"09h33","value":42.45},{"period":"09h34","value":42.45},{"period":"09h35","value":42.45},{"period":"09h36","value":42.45},{"period":"09h37","value":42.45},{"period":"09h38","value":42.45},{"period":"09h39","value":42.45},{"period":"09h40","value":42.45},{"period":"09h41","value":42.45},{"period":"09h42","value":42.45},{"period":"09h43","value":42.45},{"period":"09h44","value":42.5},{"period":"09h45","value":42.5},{"period":"09h46","value":42.45},{"period":"09h47","value":42.45},{"period":"09h48","value":42.45},{"period":"09h49","value":42.45},{"period":"09h50","value":42.45},{"period":"09h51","value":42.45},{"period":"09h52","value":42.45},{"period":"09h53","value":42.45},{"period":"09h54","value":42.45},{"period":"09h55","value":42.45},{"period":"09h56","value":42.45},{"period":"09h57","value":42.45},{"period":"09h58","value":42.45},{"period":"09h59","value":42.45},{"period":"10h00","value":42.45},{"period":"10h01","value":42.45},{"period":"10h02","value":42.45},{"period":"10h03","value":42.45},{"period":"10h04","value":42.45},{"period":"10h05","value":42.45},{"period":"10h06","value":42.45},{"period":"10h07","value":42.45},{"period":"10h08","value":42.45},{"period":"10h09","value":42.45},{"period":"10h10","value":42.45},{"period":"10h11","value":42.45},{"period":"10h12","value":42.45},{"period":"10h13","value":42.45},{"period":"10h14","value":42.45},{"period":"10h15","value":42.45},{"period":"10h16","value":42.45},{"period":"10h17","value":42.45},{"period":"10h18","value":42.45},{"period":"10h19","value":42.45},{"period":"10h20","value":42.45},{"period":"10h21","value":42.45},{"period":"10h22","value":42.45},{"period":"10h23","value":42.45},{"period":"10h24","value":42.45},{"period":"10h25","value":42.45},{"period":"10h26","value":42.45},{"period":"10h27","value":42.45},{"period":"10h28","value":42.45},{"period":"10h29","value":42.45},{"period":"10h30","value":42.45},{"period":"10h31","value":42.45},{"period":"10h32","value":42.4},{"period":"10h33","value":42.4},{"period":"10h34","value":42.4},{"period":"10h35","value":42.4},{"period":"10h36","value":42.4},{"period":"10h37","value":42.4},{"period":"10h38","value":42.4},{"period":"10h39","value":42.4},{"period":"10h40","value":42.4},{"period":"10h41","value":42.4},{"period":"10h42","value":42.4},{"period":"10h43","value":42.4},{"period":"10h44","value":42.4},{"period":"10h45","value":42.4},{"period":"10h46","value":42.4},{"period":"10h47","value":42.4},{"period":"10h48","value":42.4},{"period":"10h49","value":42.45},{"period":"10h50","value":42.4},{"period":"10h51","value":42.4},{"period":"10h52","value":42.4},{"period":"10h53","value":42.4},{"period":"10h54","value":42.4},{"period":"10h55","value":42.4},{"period":"10h56","value":42.4},{"period":"10h57","value":42.4},{"period":"10h58","value":42.4},{"period":"10h59","value":42.4},{"period":"11h00","value":42.4},{"period":"11h01","value":42.4},{"period":"11h02","value":42.4},{"period":"11h03","value":42.4},{"period":"11h04","value":42.4},{"period":"11h05","value":42.4},{"period":"11h06","value":42.4},{"period":"11h07","value":42.4},{"period":"11h08","value":42.4},{"period":"11h09","value":42.4},{"period":"11h10","value":42.4},{"period":"11h11","value":42.4},{"period":"11h12","value":42.4},{"period":"11h13","value":42.45},{"period":"11h14","value":42.45},{"period":"11h15","value":42.45},{"period":"11h16","value":42.4},{"period":"11h17","value":42.4},{"period":"11h18","value":42.4},{"period":"11h19","value":42.4},{"period":"11h20","value":42.4},{"period":"11h21","value":42.4},{"period":"11h22","value":42.4},{"period":"11h23","value":42.4},{"period":"11h24","value":42.4},{"period":"11h25","value":42.4},{"period":"11h26","value":42.4},{"period":"11h27","value":42.4},{"period":"11h28","value":42.4},{"period":"11h29","value":42.4},{"period":"11h30","value":42.4},{"period":"11h31","value":42.4},{"period":"11h32","value":42.4},{"period":"11h33","value":42.4},{"period":"11h34","value":42.4},{"period":"11h35","value":42.4},{"period":"11h36","value":42.4},{"period":"11h37","value":42.4},{"period":"11h38","value":42.4},{"period":"11h39","value":42.4},{"period":"11h40","value":42.4},{"period":"11h41","value":42.4},{"period":"11h42","value":42.4},{"period":"11h43","value":42.4},{"period":"11h44","value":42.4},{"period":"11h45","value":42.4},{"period":"11h46","value":42.4},{"period":"11h47","value":42.4},{"period":"11h48","value":42.4},{"period":"11h49","value":42.4},{"period":"11h50","value":42.4},{"period":"11h51","value":42.4},{"period":"11h52","value":42.4},{"period":"11h53","value":42.4},{"period":"11h54","value":42.4},{"period":"11h55","value":42.4},{"period":"11h56","value":42.4},{"period":"11h57","value":42.4},{"period":"11h58","value":42.4},{"period":"11h59","value":42.4},{"period":"12h00","value":42.4},{"period":"12h01","value":42.4},{"period":"12h02","value":42.4},{"period":"12h03","value":42.4},{"period":"12h04","value":42.4},{"period":"12h05","value":42.4},{"period":"12h06","value":42.4},{"period":"12h07","value":42.4},{"period":"12h08","value":42.4},{"period":"12h09","value":42.4},{"period":"12h10","value":42.4},{"period":"12h11","value":42.4},{"period":"12h12","value":42.4},{"period":"12h13","value":42.4},{"period":"12h14","value":42.4},{"period":"12h15","value":42.4},{"period":"12h16","value":42.25},{"period":"12h17","value":42.25},{"period":"12h18","value":42.25},{"period":"12h19","value":42.25},{"period":"12h20","value":42.25},{"period":"12h21","value":42.25},{"period":"12h22","value":42.25},{"period":"12h23","value":42.25},{"period":"12h24","value":42.25},{"period":"12h25","value":42.25},{"period":"12h26","value":42.25},{"period":"12h27","value":42.25},{"period":"12h28","value":42.25},{"period":"12h29","value":42.25},{"period":"12h30","value":42.25},{"period":"12h31","value":42.25},{"period":"12h32","value":42.25},{"period":"12h33","value":42.25},{"period":"12h34","value":42.25},{"period":"12h35","value":42.25},{"period":"12h36","value":42.25},{"period":"12h37","value":42.25},{"period":"12h38","value":42.25},{"period":"12h39","value":42.25},{"period":"12h40","value":42.25},{"period":"12h41","value":42.25},{"period":"12h42","value":42.25},{"period":"12h43","value":42.25},{"period":"12h44","value":42.25},{"period":"12h45","value":42.25},{"period":"12h46","value":42.25},{"period":"12h47","value":42.25},{"period":"12h48","value":42.25},{"period":"12h49","value":42.25},{"period":"12h50","value":42.25},{"period":"12h51","value":42.25},{"period":"12h52","value":42.25},{"period":"12h53","value":42.25},{"period":"12h54","value":42.25},{"period":"12h55","value":42.25},{"period":"12h56","value":42.25},{"period":"12h57","value":42.25},{"period":"12h58","value":42.25},{"period":"12h59","value":42.25},{"period":"13h00","value":42.25},{"period":"13h01","value":42.25},{"period":"13h02","value":42.25},{"period":"13h03","value":42.25},{"period":"13h04","value":42.25},{"period":"13h05","value":42.25},{"period":"13h06","value":42.25},{"period":"13h07","value":42.25},{"period":"13h08","value":42.25},{"period":"13h09","value":42.25},{"period":"13h10","value":42.25},{"period":"13h11","value":42.25},{"period":"13h12","value":42.25},{"period":"13h13","value":42.25},{"period":"13h14","value":42.25},{"period":"13h15","value":42.25},{"period":"13h16","value":42.25},{"period":"13h17","value":42.25},{"period":"13h18","value":42.25},{"period":"13h19","value":42.25},{"period":"13h20","value":42.25},{"period":"13h21","value":42.25},{"period":"13h22","value":42.25},{"period":"13h23","value":42.25},{"period":"13h24","value":42.25},{"period":"13h25","value":42.25},{"period":"13h26","value":42.25},{"period":"13h27","value":42.25},{"period":"13h28","value":42.25},{"period":"13h29","value":42.25},{"period":"13h30","value":42.25},{"period":"13h31","value":42.25},{"period":"13h32","value":42.25},{"period":"13h33","value":42.25},{"period":"13h34","value":42.25},{"period":"13h35","value":42.2},{"period":"13h36","value":42.2},{"period":"13h37","value":42.2},{"period":"13h38","value":42.2},{"period":"13h39","value":42.2},{"period":"13h40","value":42.2},{"period":"13h41","value":42.2},{"period":"13h42","value":42.2},{"period":"13h43","value":42.2},{"period":"13h44","value":42.2},{"period":"13h45","value":42.2},{"period":"13h46","value":42.2},{"period":"13h47","value":42.2},{"period":"13h48","value":42.2},{"period":"13h49","value":42.2},{"period":"13h50","value":42.2},{"period":"13h51","value":42.2},{"period":"13h52","value":42.2},{"period":"13h53","value":42.2},{"period":"13h54","value":42.2},{"period":"13h55","value":42.2},{"period":"13h56","value":42.2},{"period":"13h57","value":42.2},{"period":"13h58","value":42.2},{"period":"13h59","value":42.2},{"period":"14h00","value":42.2},{"period":"14h01","value":42.2},{"period":"14h02","value":42.2},{"period":"14h03","value":42.2},{"period":"14h04","value":42.2},{"period":"14h05","value":42.2},{"period":"14h06","value":42.2},{"period":"14h07","value":42.2},{"period":"14h08","value":42.2},{"period":"14h09","value":42.2},{"period":"14h10","value":42.2},{"period":"14h11","value":42.2},{"period":"14h12","value":42.2},{"period":"14h13","value":42.2},{"period":"14h14","value":42.2},{"period":"14h15","value":42.2},{"period":"14h16","value":42.2},{"period":"14h17","value":42.2},{"period":"14h18","value":42.2},{"period":"14h19","value":42.2},{"period":"14h20","value":42.2},{"period":"14h21","value":42.2},{"period":"14h22","value":42.2},{"period":"14h23","value":42.2},{"period":"14h24","value":42.2},{"period":"14h25","value":42.2},{"period":"14h26","value":42.2},{"period":"14h27","value":42.2},{"period":"14h28","value":42.2},{"period":"14h29","value":42.2},{"period":"14h30","value":42.2},{"period":"14h31","value":42.2},{"period":"14h32","value":42.2},{"period":"14h33","value":42.15},{"period":"14h34","value":42.15},{"period":"14h35","value":42.15},{"period":"14h36","value":42.15},{"period":"14h37","value":42.15},{"period":"14h38","value":42.15},{"period":"14h39","value":42.15},{"period":"14h40","value":42.15},{"period":"14h41","value":42.15},{"period":"14h42","value":42.15},{"period":"14h43","value":42.15},{"period":"14h44","value":42.15},{"period":"14h45","value":42.15},{"period":"14h46","value":42.15},{"period":"14h47","value":42.15},{"period":"14h48","value":42.15},{"period":"14h49","value":42.15},{"period":"14h50","value":42.15},{"period":"14h51","value":42.15},{"period":"14h52","value":42.15},{"period":"14h53","value":42.15},{"period":"14h54","value":42.15},{"period":"14h55","value":42.15},{"period":"14h56","value":42.15},{"period":"14h57","value":42.15},{"period":"14h58","value":42.15},{"period":"14h59","value":42.15},{"period":"15h00","value":42.15},{"period":"15h01","value":42.15},{"period":"15h02","value":42.15},{"period":"15h03","value":42.15},{"period":"15h04","value":42.15},{"period":"15h05","value":42.15},{"period":"15h06","value":42.15},{"period":"15h07","value":42.15},{"period":"15h08","value":42.15},{"period":"15h09","value":42.15},{"period":"15h10","value":42.15},{"period":"15h11","value":42.15},{"period":"15h12","value":42.15},{"period":"15h13","value":42.15},{"period":"15h14","value":42.15},{"period":"15h15","value":42.15},{"period":"15h16","value":42.15},{"period":"15h17","value":42.15},{"period":"15h18","value":42.15},{"period":"15h19","value":42.15},{"period":"15h20","value":42.15},{"period":"15h21","value":42.15},{"period":"15h22","value":42.15},{"period":"15h23","value":42.15},{"period":"15h24","value":42.15},{"period":"15h25","value":42.15},{"period":"15h26","value":42.15},{"period":"15h27","value":42.15},{"period":"15h28","value":42.15},{"period":"15h29","value":42.15},{"period":"15h30","value":42.15},{"period":"15h31","value":42.15},{"period":"15h32","value":42.15},{"period":"15h33","value":42.15},{"period":"15h34","value":42.15},{"period":"15h35","value":42.15},{"period":"15h36","value":42.15},{"period":"15h37","value":42.15},{"period":"15h38","value":42.15},{"period":"15h39","value":42.15},{"period":"15h40","value":42.15},{"period":"15h41","value":42.15},{"period":"15h42","value":42.15},{"period":"15h43","value":42.15},{"period":"15h44","value":42.15},{"period":"15h45","value":42.15},{"period":"15h46","value":42.15},{"period":"15h47","value":42.15},{"period":"15h48","value":42.15},{"period":"15h49","value":42.15},{"period":"15h50","value":42.15},{"period":"15h51","value":42.15},{"period":"15h52","value":42.15},{"period":"15h53","value":42.15},{"period":"15h54","value":42.15},{"period":"15h55","value":42.15},{"period":"15h56","value":42.15},{"period":"15h57","value":42.15},{"period":"15h58","value":42.15},{"period":"15h59","value":42.15},{"period":"16h00","value":42.15},{"period":"16h01","value":42.15},{"period":"16h02","value":42.15},{"period":"16h03","value":42.15},{"period":"16h04","value":42.15},{"period":"16h05","value":42.25},{"period":"16h06","value":42.25},{"period":"16h07","value":42.25},{"period":"16h08","value":42.25},{"period":"16h09","value":42.25},{"period":"16h10","value":42.25},{"period":"16h11","value":42.25},{"period":"16h12","value":42.25},{"period":"16h13","value":42.25},{"period":"16h14","value":42.25},{"period":"16h15","value":42.25},{"period":"16h16","value":42.25},{"period":"16h17","value":42.25},{"period":"16h18","value":42.25},{"period":"16h19","value":42.25},{"period":"16h20","value":42.25},{"period":"16h21","value":42.25},{"period":"16h22","value":42.25},{"period":"16h23","value":42.25},{"period":"16h24","value":42.25},{"period":"16h25","value":42.25},{"period":"16h26","value":42.25},{"period":"16h27","value":42.25},{"period":"16h28","value":42.25},{"period":"16h29","value":42.25},{"period":"16h30","value":42.25},{"period":"16h31","value":42.25},{"period":"16h32","value":42.25},{"period":"16h33","value":42.25},{"period":"16h34","value":42.25},{"period":"16h35","value":42.25},{"period":"16h36","value":42.25},{"period":"16h37","value":42.25},{"period":"16h38","value":42.25},{"period":"16h39","value":42.25},{"period":"16h40","value":42.25},{"period":"16h41","value":42.25},{"period":"16h42","value":42.25},{"period":"16h43","value":42.25},{"period":"16h44","value":42.25},{"period":"16h45","value":42.25},{"period":"16h46","value":42.25},{"period":"16h47","value":42.2},{"period":"16h48","value":42.2},{"period":"16h49","value":42.2},{"period":"16h50","value":42.2},{"period":"16h51","value":42.2},{"period":"16h52","value":42.2},{"period":"16h53","value":42.2},{"period":"16h54","value":42.2},{"period":"16h55","value":42.2},{"period":"16h56","value":42.2},{"period":"16h57","value":42.2},{"period":"16h58","value":42.15},{"period":"16h59","value":42.2},{"period":"17h00","value":42.2},{"period":"17h01","value":42.2},{"period":"17h02","value":42.2},{"period":"17h03","value":42.2},{"period":"17h04","value":42.2},{"period":"17h05","value":42.2},{"period":"17h06","value":42.2},{"period":"17h07","value":42.2},{"period":"17h08","value":42.15},{"period":"17h09","value":42.15},{"period":"17h10","value":42.15},{"period":"17h11","value":42.15},{"period":"17h12","value":42.15},{"period":"17h13","value":42.15},{"period":"17h14","value":42.15},{"period":"17h15","value":42.15},{"period":"17h16","value":42.15},{"period":"17h17","value":42.15},{"period":"17h18","value":42.15},{"period":"17h19","value":42.15},{"period":"17h20","value":42.15},{"period":"17h21","value":42.15},{"period":"17h22","value":42.15},{"period":"17h23","value":42.15},{"period":"17h24","value":42.15},{"period":"17h25","value":42.15},{"period":"17h26","value":42.15},{"period":"17h27","value":42.15},{"period":"17h28","value":42.15},{"period":"17h29","value":42.15},{"period":"17h30","value":42.15},{"period":"17h31","value":42.15},{"period":"17h32","value":42.15},{"period":"17h33","value":42.15},{"period":"17h34","value":42.15}]},"modifierClasses":"c-chart--height-xs"}}');
+        var chart      = JSON.parse('{"static":{"amChart":{"type":"serial"},"graph":{"fillAlphas":0,"fillColors":"#009de0","lineColor":"#009de0","gridColor":"#000000","fontColor":"#000000","categoryOffset":0,"chartModifier":"c-chart--height-xs"}},"data":{"amChartConfig":{"brs":{"commonField":"period","id":1208788630},"colors":["#009de0","#003883","#149e62","#f1d205"],"valueAxes":[{"title":"","position":"right","axisThickness":0,"gridThickness":1,"gridColor":"#000000","tickLength":0,"guides":[{"value":42.5,"lineColor":"#fb0189","lineAlpha":100,"lineThickness":1,"tickLength":0,"above":true}],"includeGuidesInMinMax":true,"color":"#000000"}],"categoryAxis":{"axisThickness":0,"gridThickness":0,"autoGridCount":false,"gridCount":3,"showFirstLabel":false,"showLastLabel":false,"color":"#000000","offset":0},"graphs":[{"balloonText":"[[title]] [[category]] : [[value]]","type":"line","fillAlphas":0,"fillColors":"#009de0","id":"chart-63cf926aecdec","commonField":"period","brsValueField":"value","lineThickness":1}],"chartCursor":{"valueBalloonsEnabled":true,"valueLineEnabled":true,"cursorAlpha":0.35,"cursorColor":"#009de0","valueLineBalloonEnabled":true,"categoryBalloonColor":"#009de0","valueLineAlpha":0.35,"valueZoomable":false,"pan":false,"zoomable":false}},"amChartData":{"chart-63cf926aecdec":[{"period":"09h00","value":42.65},{"period":"09h01","value":42.6}]},"modifierClasses":"c-chart--height-xs"}}');
         var mergedConfig = $.extend(true, {}, chart.data.amChartConfig, chart.static.amChart);
         var elemSelector = mergedConfig.brs.id ? "#" + mergedConfig.brs.id : '[data-line-chart]';
         $(elemSelector).amCharts(mergedConfig, chart.data.amChartData);
@@ -2762,7 +2761,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--open" data-ist-open="">
-               42.450
+               42.650
               </span>
              </p>
             </li>
@@ -2772,7 +2771,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--previousclose" data-ist-previousclose="">
-               42.450
+               42.500
               </span>
              </p>
             </li>
@@ -2782,7 +2781,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--high" data-ist-high="">
-               42.500
+               42.650
               </span>
              </p>
             </li>
@@ -2792,7 +2791,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--low" data-ist-low="">
-               42.050
+               42.600
               </span>
              </p>
             </li>
@@ -2808,7 +2807,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-               1 717
+               131
               </span>
              </p>
             </li>
@@ -2817,7 +2816,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               capital échangé
              </p>
              <p class="c-list-info__value u-color-big-stone">
-              0.02%
+              0.00%
              </p>
             </li>
             <li class="c-list-info__item c-list-info__item--no-padding@md c-list-info__item--small-gutter">
@@ -2825,7 +2824,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               valorisation
              </p>
              <p class="c-list-info__value u-color-big-stone">
-              401 MEUR
+              407 MEUR
              </p>
             </li>
             <li class="c-list-info__item c-list-info__item--no-padding@md c-list-info__item--small-gutter">
@@ -2834,7 +2833,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--tradedate" data-ist-tradedate="">
-               20.01.23 / 17:35:28
+               24.01.23 / 09:01:02
               </span>
              </p>
             </li>
@@ -2869,7 +2868,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               </div>
              </div>
              <p class="c-list-info__value u-color-big-stone">
-              39.950
+              40.500
              </p>
             </li>
             <li class="c-list-info__item c-list-info__item--has-picto c-list-info__item--fixed-width">
@@ -2897,7 +2896,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               </div>
              </div>
              <p class="c-list-info__value u-color-big-stone">
-              44.150
+              44.700
              </p>
             </li>
            </ul>
@@ -3194,7 +3193,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
          </li>
         </ul>
        </div>
-       <label class="c-faceplate__accordion-button" for="faceplate-980262525">
+       <label class="c-faceplate__accordion-button" for="faceplate-1113068456">
        </label>
       </div>
      </header>
@@ -3202,7 +3201,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
       <article class="l-quotepage__main">
        <div class="l-quotepage__main-head">
         <script type="application/ld+json">
-         {"@context":"http:\/\/schema.org","@type":"Product","name":"SWORD GROUP","sku":"1rPSWP","offers":{"@type":"Offer","price":42.05,"priceCurrency":"EUR","url":"https:\/\/www.boursorama.com\/cours\/1rPSWP\/"},"brand":{"@type":"Corporation","name":"SWORD GROUP","tickerSymbol":"EPA:SWP","url":"https:\/\/www.boursorama.com\/cours\/1rPSWP\/"}}
+         {"@context":"http:\/\/schema.org","@type":"Product","name":"SWORD GROUP","sku":"1rPSWP","offers":{"@type":"Offer","price":42.6,"priceCurrency":"EUR","url":"https:\/\/www.boursorama.com\/cours\/1rPSWP\/"},"brand":{"@type":"Corporation","name":"SWORD GROUP","tickerSymbol":"EPA:SWP","url":"https:\/\/www.boursorama.com\/cours\/1rPSWP\/"}}
         </script>
         <div class="o-grid">
          <div class="o-grid__item u-7/12@sm-min">
@@ -3225,10 +3224,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             </div>
             <div class="c-block__body">
              <div class="c-bar">
-              <div class="c-bar__progress" style="width: 41.318814277072%;">
+              <div class="c-bar__progress" style="width: 40.130861504907%;">
               </div>
              </div>
-             <span data-ist="1rPSWP" data-ist-init='{"symbol":"1rPSWP","variation":-0.0094228504122498,"last":42.05,"previousClose":42.45,"high":42.5,"low":42.05,"totalVolume":1717,"exchangeCode":"PAR","tradeDate":"2023-01-20 17:35:28","category":"STK","decimals":3,"orderbook":{"lines":[{"askNb":1,"askSize":18,"ask":42.45,"bidNb":1,"bidSize":2,"bid":42.45},{"askNb":1,"askSize":71,"ask":42.5,"bidNb":1,"bidSize":100,"bid":42.25},{"askNb":1,"askSize":23,"ask":42.6,"bidNb":1,"bidSize":80,"bid":42.2},{"askNb":1,"askSize":80,"ask":42.65,"bidNb":1,"bidSize":80,"bid":42.05},{"askNb":5,"askSize":181,"ask":42.8,"bidNb":3,"bidSize":93,"bid":42},{"askNb":3,"askSize":102,"ask":42.85,"bidNb":1,"bidSize":80,"bid":41.9},{"askNb":1,"askSize":26,"ask":42.9,"bidNb":1,"bidSize":80,"bid":41.75},{"askNb":2,"askSize":106,"ask":42.95,"bidNb":1,"bidSize":50,"bid":41.7},{"askNb":6,"askSize":283,"ask":43,"bidNb":2,"bidSize":38,"bid":41.65},{"askNb":1,"askSize":80,"ask":43.1,"bidNb":1,"bidSize":80,"bid":41.6}]}}' data-ist-orderbook="">
+             <span data-ist="1rPSWP" data-ist-init='{"symbol":"1rPSWP","variation":0.0023529411764706,"last":42.6,"previousClose":42.5,"high":42.65,"low":42.6,"totalVolume":131,"exchangeCode":"PAR","tradeDate":"2023-01-24 09:01:02","category":"STK","decimals":3,"orderbook":{"lines":[{"askNb":2,"askSize":40,"ask":-2,"bidNb":5,"bidSize":103,"bid":-2},{"askNb":1,"askSize":50,"ask":42.45,"bidNb":1,"bidSize":4,"bid":42.8},{"askNb":1,"askSize":80,"ask":42.65,"bidNb":1,"bidSize":10,"bid":42.6},{"askNb":1,"askSize":16,"ask":42.7,"bidNb":1,"bidSize":100,"bid":42.5},{"askNb":4,"askSize":172,"ask":42.8,"bidNb":1,"bidSize":80,"bid":42.35},{"askNb":4,"askSize":141,"ask":42.85,"bidNb":1,"bidSize":11,"bid":42.2},{"askNb":1,"askSize":26,"ask":42.9,"bidNb":1,"bidSize":3,"bid":42.1},{"askNb":3,"askSize":166,"ask":42.95,"bidNb":4,"bidSize":167,"bid":42.05},{"askNb":6,"askSize":393,"ask":43,"bidNb":5,"bidSize":193,"bid":42},{"askNb":1,"askSize":14,"ask":43.05,"bidNb":3,"bidSize":65,"bid":41.9}]}}' data-ist-orderbook="">
               <table class="c-table c-orderbook__table c-table--fixed">
                <thead class="c-table__head">
                 <tr class="c-table__row">
@@ -3277,19 +3276,39 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <tbody class="c-table__body">
                 <tr class="c-table__row u-text-bold" data-ist-orderbook-line="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  1
+                  5
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  103
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  MX
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  MX
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  40
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
                   2
                  </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  1
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  4
+                 </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  42.450
+                  42.800
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.450
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  18
+                  50
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
                   1
@@ -3300,50 +3319,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   1
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  100
+                  10
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  42.250
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  42.500
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  71
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  1
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  1
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  80
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  42.200
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.600
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  23
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  1
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  1
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  80
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  42.050
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.650
@@ -3357,22 +3336,42 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </tr>
                 <tr class="c-table__row" data-ist-orderbook-line="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  3
+                  1
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  93
+                  100
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  42.000
+                  42.500
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  42.700
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  16
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  1
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  1
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  80
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  42.350
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.800
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  181
+                  172
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  5
+                  4
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-orderbook-line="">
@@ -3380,19 +3379,19 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   1
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  80
+                  11
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  41.900
+                  42.200
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.850
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  102
+                  141
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  3
+                  4
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-orderbook-line="">
@@ -3400,10 +3399,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   1
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  80
+                  3
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  41.750
+                  42.100
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.900
@@ -3417,39 +3416,39 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </tr>
                 <tr class="c-table__row" data-ist-orderbook-line="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  1
+                  4
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  50
+                  167
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  41.700
+                  42.050
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   42.950
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  106
+                  166
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  2
+                  3
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-orderbook-line="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  2
+                  5
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  38
+                  193
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  41.650
+                  42.000
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   43.000
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  283
+                  393
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
                   6
@@ -3457,19 +3456,19 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </tr>
                 <tr class="c-table__row" data-ist-orderbook-line="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  1
+                  3
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  80
+                  65
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  41.600
+                  41.900
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  43.100
+                  43.050
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  80
+                  14
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
                   1
@@ -3479,10 +3478,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <tfoot class="c-table__footer">
                 <tr class="c-table__row">
                  <td class="c-table__cell c-table__cell--last u-text-bold u-nopadding-left" data-ist-summary-bid-quantity="">
-                  13
+                  23
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold" data-ist-summary-bid-size="">
-                  683
+                  736
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold u-text-uppercase">
                   total
@@ -3491,10 +3490,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   total
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold" data-ist-summary-ask-size="">
-                  970
+                  1 098
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold u-nopadding-right" data-ist-summary-ask-quantity="">
-                  22
+                  24
                  </td>
                 </tr>
                </tfoot>
@@ -4824,7 +4823,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </h2>
                </div>
                <div class="c-block__body">
-                <div class="c-autocomplete" data-autocomplete="664208729" data-autocomplete-minchars="3" data-autocomplete-url="/bourse/instrument/recherche/">
+                <div class="c-autocomplete" data-autocomplete="990982302" data-autocomplete-minchars="3" data-autocomplete-url="/bourse/instrument/recherche/">
                  <input aria-autocomplete="list" aria-expanded="false" aria-owns="search-autocomplete" autocapitalize="none" autocomplete="off" class="c-autocomplete__input" data-autocomplete-input="" placeholder="Rechercher par ISIN ou par nom..." role="combobox" type="text" value=""/>
                  <ul class="c-autocomplete__results" data-autocomplete-results="" id="search-autocomplete">
                  </ul>
@@ -5246,12 +5245,6 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <th class="c-table__cell c-table__cell--head c-table__cell--dotted">
                   </th>
                   <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
-                   16-01
-                  </th>
-                  <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
-                   17-01
-                  </th>
-                  <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    18-01
                   </th>
                   <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
@@ -5260,18 +5253,18 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    20-01
                   </th>
+                  <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
+                   23-01
+                  </th>
+                  <th class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
+                   24-01
+                  </th>
                  </tr>
                 </thead>
                 <tbody class="c-table__body">
                  <tr class="c-table__row">
                   <td class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    Der.
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   41.900
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   42.500
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.500
@@ -5282,16 +5275,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.050
                   </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.500
+                  </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.600
+                  </td>
                  </tr>
                  <tr class="c-table__row">
                   <td class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    Var.
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--positive">
-                   4.49%
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--positive">
-                   1.43%
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--neutral">
                    0.00%
@@ -5302,16 +5295,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--negative">
                    -0.94%
                   </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--positive">
+                   1.07%
+                  </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--positive">
+                   0.24%
+                  </td>
                  </tr>
                  <tr class="c-table__row">
                   <td class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    Ouv.
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   40.300
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   42.000
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.350
@@ -5322,16 +5315,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.450
                   </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.050
+                  </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.650
+                  </td>
                  </tr>
                  <tr class="c-table__row">
                   <td class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    +Haut
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   41.950
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   42.650
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.750
@@ -5342,16 +5335,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.500
                   </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.800
+                  </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.650
+                  </td>
                  </tr>
                  <tr class="c-table__row">
                   <td class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    +Bas
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   40.300
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   41.950
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.350
@@ -5362,16 +5355,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    42.050
                   </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.050
+                  </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   42.600
+                  </td>
                  </tr>
                  <tr class="c-table__row">
                   <td class="c-table__cell c-table__cell--head c-table__cell--dotted c-table__title / u-text-uppercase">
                    Vol.
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   7 396
-                  </td>
-                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   3 124
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    3 567
@@ -5382,6 +5375,12 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
                    1 717
                   </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   10 578
+                  </td>
+                  <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
+                   131
+                  </td>
                  </tr>
                 </tbody>
                </table>
@@ -5390,7 +5389,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              <p class="u-pull-right u-text-bold u-nomargin">
               Variation sur 5 jours :
               <span class="u-color-positive">
-               0.36%
+               0.24%
               </span>
              </p>
             </div>
@@ -5420,7 +5419,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </span>
              - Potentiel:
              <span class="u-color-positive">
-              16.88%
+              15.65%
              </span>
             </p>
             <div class="c-median-gauge">
@@ -5504,7 +5503,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              <div class="o-flag__body">
               <div class="o-flag o-flag--reverse o-flag--x-small / c-heading__main">
                <span class="c-heading__text / o-flag__body">
-                Évolution des prévisions au 21/01/23
+                Évolution des prévisions au 24/01/23
                </span>
               </div>
              </div>
@@ -6005,57 +6004,57 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <tbody class="c-table__body">
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  17:35:28
+                  09:01:02
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  42.050
+                  42.600
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  1
+                  10
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  17:35:28
+                  09:00:26
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  42.050
+                  42.650
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  1
+                  9
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  17:35:28
+                  09:00:26
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  42.050
+                  42.650
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  7
+                  3
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  17:35:28
+                  09:00:26
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  42.050
+                  42.650
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  6
+                  4
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  17:35:28
+                  09:00:26
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  42.050
+                  42.650
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  13
+                  2
                  </td>
                 </tr>
                </tbody>
@@ -6422,7 +6421,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   Janvier
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +6.73%
+                  +7.87%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   42.80
@@ -6435,14 +6434,14 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left u-text-left">
                   1 semaine
                  </td>
-                 <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +0.36%
+                 <td class="c-table__cell c-table__cell--dotted c-table__cell--neutral">
+                  0.00%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   42.80
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right">
-                  40.30
+                  41.95
                  </td>
                 </tr>
                 <tr class="c-table__row">
@@ -6450,7 +6449,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   1 mois
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +4.73%
+                  +7.73%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   42.80
@@ -6464,7 +6463,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   3 mois
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +7.82%
+                  +3.28%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   42.80
@@ -6478,7 +6477,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   6 mois
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +8.38%
+                  +4.29%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   53.00
@@ -6492,7 +6491,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   1 an
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +4.86%
+                  +11.55%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   53.80
@@ -6506,7 +6505,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   3 ans
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +22.06%
+                  +20.06%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   53.80
@@ -6520,7 +6519,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   5 ans
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +22.42%
+                  +22.83%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   53.80
@@ -6534,7 +6533,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   10 ans
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table__cell--positive">
-                  +204.27%
+                  +206.64%
                  </td>
                  <td class="c-table__cell c-table__cell--dotted">
                   53.80
@@ -6552,7 +6551,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                  <td class="c-table__cell c-table__cell--dotted">
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right">
-                  40.63
+                  40.81
                  </td>
                 </tr>
                 <tr class="c-table__row">
@@ -6564,7 +6563,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                  <td class="c-table__cell c-table__cell--dotted">
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right">
-                  40.27
+                  40.34
                  </td>
                 </tr>
                 <tr class="c-table__row">
@@ -6576,7 +6575,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                  <td class="c-table__cell c-table__cell--dotted">
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right">
-                  39.43
+                  39.46
                  </td>
                 </tr>
                 <tr class="c-table__row">
@@ -6588,7 +6587,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                  <td class="c-table__cell c-table__cell--dotted">
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right">
-                  74.03
+                  74.04
                  </td>
                 </tr>
                </tbody>
@@ -6771,10 +6770,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/UAPHzjKd9oF1bH1DwgfHows22ACRzroCH1PNfNBVS0c31IwijBhksiwzkwN7cSvMWLky0FPChlCyqUExJ0Cq5joVAH7e9ygYS4jXdZczXP9-RG9YhfSPCG9IVJJw6Q9iLziUBX-aWfTB4bqSedsQ8Uso7rtJo6lLQDDWXoO7rGGSDsvWyHB_jK6cKtzI3RoQ-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/yWILX9gzGNxGcCToAL9vHHtAATpoPego6rM7PRMv8BUyKg7OdMJlJSrVc0-TfJNsiBqJYVjTH0mHH27rUq0CfZVb0zE-1EE3Vslrq1Ex5IJJYqWIlIwpfVpeONEWrPrpsdXe2wExntSrTTCGUKUvImxonRVJwZlK4HUOgXRfXL_M-jPZ7qNp0BkEhSSwJWDn-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/UAPHzjKd9oF1bH1DwgfHows22ACRzroCH1PNfNBVS0c31IwijBhksiwzkwN7cSvMWLky0FPChlCyqUExJ0Cq5joVAH7e9ygYS4jXdZczXP9-RG9YhfSPCG9IVJJw6Q9iLziUBX-aWfTB4bqSedsQ8Uso7rtJo6lLQDDWXoO7rGGSDsvWyHB_jK6cKtzI3RoQ-48x48.jpg"/>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/yWILX9gzGNxGcCToAL9vHHtAATpoPego6rM7PRMv8BUyKg7OdMJlJSrVc0-TfJNsiBqJYVjTH0mHH27rUq0CfZVb0zE-1EE3Vslrq1Ex5IJJYqWIlIwpfVpeONEWrPrpsdXe2wExntSrTTCGUKUvImxonRVJwZlK4HUOgXRfXL_M-jPZ7qNp0BkEhSSwJWDn-48x48.jpg"/>
                   </noscript>
                  </picture>
                 </span>
@@ -6785,8 +6784,8 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               <div class="o-pack o-pack--auto">
                <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
                </i>
-               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPSWP/detail/461834441/" title="Accéder à la discussion Cette valeur est malheureusement entrée">
-                Cette valeur est malheureusement entrée
+               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPSWP/detail/462156208/" title="Accéder à la discussion qques chiffres à venir">
+                qques chiffres à venir
                </a>
               </div>
              </div>
@@ -6795,7 +6794,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            <div class="o-vertical-interval-bottom-small">
            </div>
            <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
-            en léthargie depuis un bon moment et rien ne semble pouvoir la réveiller . S'il faut attendre le prochain dividende pour la voir grimper , c'est bien dommage car la qualité est là !!! à quand les ...
+            après-demain  ! alors on anticipe ???
            </p>
            <div class="o-vertical-interval-bottom">
            </div>
@@ -6812,26 +6811,26 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                •
               </span>
               <span class="c-source__time">
-               23 nov.
+               23 janv.
               </span>
               <span aria-hidden="true" class="c-source__bullet">
                •
               </span>
               <span class="c-source__time">
-               17:23
+               11:49
               </span>
              </div>
             </div>
             <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
              <div class="c-source c-source--border-left">
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/M8144583/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte Debutant03-2020" type="button">
-               Debutant03-2020
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/marnoul7/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte marnoul7" type="button">
+               marnoul7
               </button>
               <span aria-hidden="true" class="c-source__bullet">
                •
               </span>
               <span class="c-source__time">
-               09:07
+               23 janv. 2023
               </span>
              </div>
             </div>
@@ -6839,7 +6838,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              <div class="c-source">
               <div class="c-source__comments">
                <b>
-                3
+                4
                </b>
                commentaires
               </div>
@@ -6865,10 +6864,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/IfDIOxggvtzd9vCZw5dL0LMVnw--OHp_XN99t2iifAQ8leewnwdc7_WE7MABDGCkkqzbC8XpmZqa7bXXOwQnS6csAs_oispnoq7udQ-F6InRz6IJDHaRIq86JN56tNc-gwXOUso7OYwTeWJOMRbXOHQ4TCMogxUzb34J6lRBFOrxAsSYPWSX5dxIFis2CXY2-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/oiC504cTAdhl6zUoIdfvJSwd8uqsMH8lvDIaBnk-pb_ICmqjvck047eLc4fwlmLPqDrYY4-Jq8HAK8Apm48usSY02qC8ww4xkWigalprkTjy5RCXjz93v-RF-Y4z_5k1R7w6f9BcKG8wtCFJA_Le40SRYzgH0mzOh2mM4VxLCByM5IYqtW8Dsklk5EsDmTir-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/IfDIOxggvtzd9vCZw5dL0LMVnw--OHp_XN99t2iifAQ8leewnwdc7_WE7MABDGCkkqzbC8XpmZqa7bXXOwQnS6csAs_oispnoq7udQ-F6InRz6IJDHaRIq86JN56tNc-gwXOUso7OYwTeWJOMRbXOHQ4TCMogxUzb34J6lRBFOrxAsSYPWSX5dxIFis2CXY2-48x48.jpg"/>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/oiC504cTAdhl6zUoIdfvJSwd8uqsMH8lvDIaBnk-pb_ICmqjvck047eLc4fwlmLPqDrYY4-Jq8HAK8Apm48usSY02qC8ww4xkWigalprkTjy5RCXjz93v-RF-Y4z_5k1R7w6f9BcKG8wtCFJA_Le40SRYzgH0mzOh2mM4VxLCByM5IYqtW8Dsklk5EsDmTir-48x48.jpg"/>
                   </noscript>
                  </picture>
                 </span>
@@ -6918,20 +6917,123 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             </div>
             <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
              <div class="c-source c-source--border-left">
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/towam/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte Traven" type="button">
-               Traven
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/duncan9/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte duncan9" type="button">
+               duncan9
               </button>
               <span aria-hidden="true" class="c-source__bullet">
                •
               </span>
               <span class="c-source__time">
-               20 janv. 2023
+               23 janv. 2023
               </span>
              </div>
             </div>
             <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
              <div class="c-source">
+              <div class="c-source__comments">
+               <b>
+                3
+               </b>
+               commentaires
+              </div>
               <div class="c-source__like">
+               <span aria-hidden="true" class="c-source__bullet">
+                •
+               </span>
+               <b>
+                0
+               </b>
+               j'aime
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <hr class="c-separator c-separator--dotted c-separator--gutter"/>
+          <div class="c-message">
+           <div class="c-profile-card">
+            <div class="o-flag o-flag--top">
+             <div class="o-flag__img">
+              <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/marnoul7/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte marnoul7" type="button">
+               <span class="c-avatar">
+                <span class="c-avatar__image">
+                 <picture class="">
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/yWILX9gzGNxGcCToAL9vHHtAATpoPego6rM7PRMv8BUyKg7OdMJlJSrVc0-TfJNsiBqJYVjTH0mHH27rUq0CfZVb0zE-1EE3Vslrq1Ex5IJJYqWIlIwpfVpeONEWrPrpsdXe2wExntSrTTCGUKUvImxonRVJwZlK4HUOgXRfXL_M-jPZ7qNp0BkEhSSwJWDn-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <!-- fallback for browsers not using JS / bots -->
+                  <noscript>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/yWILX9gzGNxGcCToAL9vHHtAATpoPego6rM7PRMv8BUyKg7OdMJlJSrVc0-TfJNsiBqJYVjTH0mHH27rUq0CfZVb0zE-1EE3Vslrq1Ex5IJJYqWIlIwpfVpeONEWrPrpsdXe2wExntSrTTCGUKUvImxonRVJwZlK4HUOgXRfXL_M-jPZ7qNp0BkEhSSwJWDn-48x48.jpg"/>
+                  </noscript>
+                 </picture>
+                </span>
+               </span>
+              </button>
+             </div>
+             <div class="o-flag__body">
+              <div class="o-pack o-pack--auto">
+               <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
+               </i>
+               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPSWP/detail/461834441/" title="Accéder à la discussion Cette valeur est malheureusement entrée">
+                Cette valeur est malheureusement entrée
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="o-vertical-interval-bottom-small">
+           </div>
+           <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
+            en léthargie depuis un bon moment et rien ne semble pouvoir la réveiller . S'il faut attendre le prochain dividende pour la voir grimper , c'est bien dommage car la qualité est là !!! à quand les ...
+           </p>
+           <div class="o-vertical-interval-bottom">
+           </div>
+           <div class="o-list-flex-inline">
+            <div class="o-list-flex-inline__item">
+             <div class="c-source c-source--border-left c-source--no-border@sm-min">
+              <span class="c-source__by">
+               par
+              </span>
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/marnoul7/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte marnoul7" type="button">
+               marnoul7
+              </button>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               23 nov.
+              </span>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               17:23
+              </span>
+             </div>
+            </div>
+            <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
+             <div class="c-source c-source--border-left">
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/M7898243/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte M7898243" type="button">
+               M7898243
+              </button>
+              <span aria-hidden="true" class="c-source__bullet">
+               •
+              </span>
+              <span class="c-source__time">
+               23 janv. 2023
+              </span>
+             </div>
+            </div>
+            <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
+             <div class="c-source">
+              <div class="c-source__comments">
+               <b>
+                4
+               </b>
+               commentaires
+              </div>
+              <div class="c-source__like">
+               <span aria-hidden="true" class="c-source__bullet">
+                •
+               </span>
                <b>
                 0
                </b>
@@ -6950,10 +7052,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/ZJm2Rjk57pSXU9ig3IZ3o5nOG3D7yfYwfZGFSpSV-trcp23jkNfk08ya0tnjB1WJ_VrtGl3kEXF8dsnQgfK7SFc4iUaBDTBj_YZ4uuKEdz7-or7kHw5_cxyMOxq8k29peonqeFA2SfMvFGzKk6XPe8kQhXJxn40Zhsk6e00oekzJyjNHgkbG6coy2v9jm16O-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/HeY0bqJluNPNETyWT4aCbqVeflytzq-72b_pHgUGARKm2p-Ss5Fvn-1n6qx-vdpUEb8keDxOL6xJVWkFmCoEs9fbkiZEiRkgD36HP0UyyG1WWuc1UyJT2Cy971eJ2QLxFqbB8DcxVWyCVrqWq8S_VpGW3oxCRiYKctuXaJrM3t7NDmdvNVLzmZwXI9sPulAG-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/ZJm2Rjk57pSXU9ig3IZ3o5nOG3D7yfYwfZGFSpSV-trcp23jkNfk08ya0tnjB1WJ_VrtGl3kEXF8dsnQgfK7SFc4iUaBDTBj_YZ4uuKEdz7-or7kHw5_cxyMOxq8k29peonqeFA2SfMvFGzKk6XPe8kQhXJxn40Zhsk6e00oekzJyjNHgkbG6coy2v9jm16O-48x48.jpg"/>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/HeY0bqJluNPNETyWT4aCbqVeflytzq-72b_pHgUGARKm2p-Ss5Fvn-1n6qx-vdpUEb8keDxOL6xJVWkFmCoEs9fbkiZEiRkgD36HP0UyyG1WWuc1UyJT2Cy971eJ2QLxFqbB8DcxVWyCVrqWq8S_VpGW3oxCRiYKctuXaJrM3t7NDmdvNVLzmZwXI9sPulAG-48x48.jpg"/>
                   </noscript>
                  </picture>
                 </span>
@@ -7042,10 +7144,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://s.brsimg.com/static-1674338560/i/community/avatar/collection/17.png" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://s.brsimg.com/static-1674482715/i/community/avatar/collection/17.png" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://s.brsimg.com/static-1674338560/i/community/avatar/collection/17.png"/>
+                   <img alt="" src="https://s.brsimg.com/static-1674482715/i/community/avatar/collection/17.png"/>
                   </noscript>
                  </picture>
                 </span>
@@ -7136,10 +7238,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/UAPHzjKd9oF1bH1DwgfHows22ACRzroCH1PNfNBVS0c31IwijBhksiwzkwN7cSvMWLky0FPChlCyqUExJ0Cq5joVAH7e9ygYS4jXdZczXP9-RG9YhfSPCG9IVJJw6Q9iLziUBX-aWfTB4bqSedsQ8Uso7rtJo6lLQDDWXoO7rGGSDsvWyHB_jK6cKtzI3RoQ-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/yWILX9gzGNxGcCToAL9vHHtAATpoPego6rM7PRMv8BUyKg7OdMJlJSrVc0-TfJNsiBqJYVjTH0mHH27rUq0CfZVb0zE-1EE3Vslrq1Ex5IJJYqWIlIwpfVpeONEWrPrpsdXe2wExntSrTTCGUKUvImxonRVJwZlK4HUOgXRfXL_M-jPZ7qNp0BkEhSSwJWDn-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/UAPHzjKd9oF1bH1DwgfHows22ACRzroCH1PNfNBVS0c31IwijBhksiwzkwN7cSvMWLky0FPChlCyqUExJ0Cq5joVAH7e9ygYS4jXdZczXP9-RG9YhfSPCG9IVJJw6Q9iLziUBX-aWfTB4bqSedsQ8Uso7rtJo6lLQDDWXoO7rGGSDsvWyHB_jK6cKtzI3RoQ-48x48.jpg"/>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/yWILX9gzGNxGcCToAL9vHHtAATpoPego6rM7PRMv8BUyKg7OdMJlJSrVc0-TfJNsiBqJYVjTH0mHH27rUq0CfZVb0zE-1EE3Vslrq1Ex5IJJYqWIlIwpfVpeONEWrPrpsdXe2wExntSrTTCGUKUvImxonRVJwZlK4HUOgXRfXL_M-jPZ7qNp0BkEhSSwJWDn-48x48.jpg"/>
                   </noscript>
                  </picture>
                 </span>
@@ -7230,10 +7332,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/ZJm2Rjk57pSXU9ig3IZ3o5nOG3D7yfYwfZGFSpSV-trcp23jkNfk08ya0tnjB1WJ_VrtGl3kEXF8dsnQgfK7SFc4iUaBDTBj_YZ4uuKEdz7-or7kHw5_cxyMOxq8k29peonqeFA2SfMvFGzKk6XPe8kQhXJxn40Zhsk6e00oekzJyjNHgkbG6coy2v9jm16O-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/HeY0bqJluNPNETyWT4aCbqVeflytzq-72b_pHgUGARKm2p-Ss5Fvn-1n6qx-vdpUEb8keDxOL6xJVWkFmCoEs9fbkiZEiRkgD36HP0UyyG1WWuc1UyJT2Cy971eJ2QLxFqbB8DcxVWyCVrqWq8S_VpGW3oxCRiYKctuXaJrM3t7NDmdvNVLzmZwXI9sPulAG-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/ZJm2Rjk57pSXU9ig3IZ3o5nOG3D7yfYwfZGFSpSV-trcp23jkNfk08ya0tnjB1WJ_VrtGl3kEXF8dsnQgfK7SFc4iUaBDTBj_YZ4uuKEdz7-or7kHw5_cxyMOxq8k29peonqeFA2SfMvFGzKk6XPe8kQhXJxn40Zhsk6e00oekzJyjNHgkbG6coy2v9jm16O-48x48.jpg"/>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/HeY0bqJluNPNETyWT4aCbqVeflytzq-72b_pHgUGARKm2p-Ss5Fvn-1n6qx-vdpUEb8keDxOL6xJVWkFmCoEs9fbkiZEiRkgD36HP0UyyG1WWuc1UyJT2Cy971eJ2QLxFqbB8DcxVWyCVrqWq8S_VpGW3oxCRiYKctuXaJrM3t7NDmdvNVLzmZwXI9sPulAG-48x48.jpg"/>
                   </noscript>
                  </picture>
                 </span>
@@ -7322,10 +7424,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <span class="c-avatar">
                 <span class="c-avatar__image">
                  <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/MoMZfMHKUZOyzKzUEzukk7hFN2gVI2bQ6r2_FLeyNM5bXmyAeJcYt__qRjR4JDMFXZaLccJxOzmtQ9EwhpIFQvst8mmamTvauEONEW6ID4OkNbWhJS0lLKG9eS1ewAb0_He88oLcVqtmvsZ7Vj65Ld1yvmd6eL5WUPJ_gdG6Stqie9JQ1ovywFUfhqPA7O1v-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
+                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://api.boursorama.com/media/avatar/i_33Tu5N2JA-4yPlyxQCterLkXgBGhVMAH2HLp8jNDPEALwHYj8pcK3N3e_h3Q2chDtww3jCVj7JlOxPIqz7ihIjmC_CfQxpIdauaMN1xjsjV3lAqpR77jCu_8eg_CKL_iFMy8XtOG6dIwkmwsDjtFldcK6O0AM1O6q6At0uYkTcwT2NsgBil82bmY7Ay1kU-48x48.jpg" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
                   <!-- fallback for browsers not using JS / bots -->
                   <noscript>
-                   <img alt="" src="https://api.boursorama.com/media/avatar/MoMZfMHKUZOyzKzUEzukk7hFN2gVI2bQ6r2_FLeyNM5bXmyAeJcYt__qRjR4JDMFXZaLccJxOzmtQ9EwhpIFQvst8mmamTvauEONEW6ID4OkNbWhJS0lLKG9eS1ewAb0_He88oLcVqtmvsZ7Vj65Ld1yvmd6eL5WUPJ_gdG6Stqie9JQ1ovywFUfhqPA7O1v-48x48.jpg"/>
+                   <img alt="" src="https://api.boursorama.com/media/avatar/i_33Tu5N2JA-4yPlyxQCterLkXgBGhVMAH2HLp8jNDPEALwHYj8pcK3N3e_h3Q2chDtww3jCVj7JlOxPIqz7ihIjmC_CfQxpIdauaMN1xjsjV3lAqpR77jCu_8eg_CKL_iFMy8XtOG6dIwkmwsDjtFldcK6O0AM1O6q6At0uYkTcwT2NsgBil82bmY7Ay1kU-48x48.jpg"/>
                   </noscript>
                  </picture>
                 </span>
@@ -7411,108 +7513,6 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            </div>
           </div>
           <hr class="c-separator c-separator--dotted c-separator--gutter"/>
-          <div class="c-message">
-           <div class="c-profile-card">
-            <div class="o-flag o-flag--top">
-             <div class="o-flag__img">
-              <button class="c-link" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/X1960785/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte JONCUS53" type="button">
-               <span class="c-avatar">
-                <span class="c-avatar__image">
-                 <picture class="">
-                  <img alt="" class="c-image lazyload c-image--rounded" data-src="https://s.brsimg.com/static-1674338560/i/community/avatar/collection/17.png" height="48" loading="lazy" onerror="this.classList.add('has-error')" width="48"/>
-                  <!-- fallback for browsers not using JS / bots -->
-                  <noscript>
-                   <img alt="" src="https://s.brsimg.com/static-1674338560/i/community/avatar/collection/17.png"/>
-                  </noscript>
-                 </picture>
-                </span>
-               </span>
-              </button>
-             </div>
-             <div class="o-flag__body">
-              <div class="o-pack o-pack--auto">
-               <i class="c-profile-card__icon / c-icon c-icon--shareholder u-cursor-pointer" data-placement="top" data-toggle="tooltip" title="Actionnaire">
-               </i>
-               <a class="c-link c-link--regular c-link--neutral c-link--bold c-link--no-underline" data-ellipsis-multiline="1" data-tag-commander-click='{"label" : "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type" : "navigation"}' href="/bourse/forum/1rPSWP/detail/461453456/" title="Accéder à la discussion CATA cette action !">
-                CATA cette action !
-               </a>
-              </div>
-             </div>
-            </div>
-           </div>
-           <div class="o-vertical-interval-bottom-small">
-           </div>
-           <p class="c-message__text o-ellipsis-multiline-2-forced o-ellipsis--no-before-content" data-emoji-render="">
-            Cette action est vraiment une catastrophe.
-            <br>
-             Aucune communication et une baisse continue du titre de 53 à 37.
-             <br>
-              Combien d'année pour récupérer son PRU?
-              <br/>
-              Probablement 4-5 ans.  Je regrette d'avoir m ...
-             </br>
-            </br>
-           </p>
-           <div class="o-vertical-interval-bottom">
-           </div>
-           <div class="o-list-flex-inline">
-            <div class="o-list-flex-inline__item">
-             <div class="c-source c-source--border-left c-source--no-border@sm-min">
-              <span class="c-source__by">
-               par
-              </span>
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/X1960785/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte JONCUS53" type="button">
-               JONCUS53
-              </button>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               23 sept.
-              </span>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               13:31
-              </span>
-             </div>
-            </div>
-            <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
-             <div class="c-source c-source--border-left">
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/N4493155/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte Aznojoie" type="button">
-               Aznojoie
-              </button>
-              <span aria-hidden="true" class="c-source__bullet">
-               •
-              </span>
-              <span class="c-source__time">
-               23 déc. 2022
-              </span>
-             </div>
-            </div>
-            <div class="o-list-flex-inline__item o-list-flex-inline__item--no-shrink">
-             <div class="c-source">
-              <div class="c-source__comments">
-               <b>
-                24
-               </b>
-               commentaires
-              </div>
-              <div class="c-source__like">
-               <span aria-hidden="true" class="c-source__bullet">
-                •
-               </span>
-               <b>
-                0
-               </b>
-               j'aime
-              </div>
-             </div>
-            </div>
-           </div>
-          </div>
-          <hr class="c-separator c-separator--dotted c-separator--gutter"/>
           <div aria-labelledby="title-like" aria-modal="true" class="c-modal" data-modal="" data-modal-id="like" role="alert" tabindex="-1">
            <div class="c-modal__header" data-modal-header="">
             <h2 class="c-modal__title" data-modal-title="" id="titlelike">
@@ -7575,16 +7575,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                SWORD GROUP
               </div>
               <div class="c-ticker__item c-ticker__item--value">
-               42.050
+               42.600
                <span class="c-ticker__currency">
                 EUR
                </span>
               </div>
-              <div class="c-ticker__item c-ticker__item--variation-percent u-color-stream-down">
-               -0.94%
+              <div class="c-ticker__item c-ticker__item--variation-percent u-color-stream-up">
+               +0.24%
               </div>
-              <div class="c-ticker__item c-ticker__item--variation-value u-color-stream-down">
-               -0.400
+              <div class="c-ticker__item c-ticker__item--variation-value u-color-stream-up">
+               +0.100
               </div>
              </li>
             </ul>
@@ -8154,8 +8154,8 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           <ul class="c-list-link o-grid__item" role="list">
            <li class="c-list-link__item">
             <div class="c-list-link__wrapper">
-             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPATO/detail/462115489/" title="Accéder au sujet Mon analyse pour la semaine du 16 janvier">
-              Mon analyse pour la semaine du 16 janvier
+             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPALCJ/detail/462148735/" title="Accéder au sujet Gland Pharma en soutien de Cenexi">
+              Gland Pharma en soutien de Cenexi
              </a>
             </div>
            </li>
@@ -8163,13 +8163,6 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             <div class="c-list-link__wrapper">
              <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPCAC/detail/462123321/" title="Accéder au sujet CAC40 - File des amis du mardi 17 janvier 2023">
               CAC40 - File des amis du mardi 17 janvier 2023
-             </a>
-            </div>
-           </li>
-           <li class="c-list-link__item">
-            <div class="c-list-link__wrapper">
-             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPALCJ/detail/462148735/" title="Accéder au sujet Gland Pharma en soutien de Cenexi">
-              Gland Pharma en soutien de Cenexi
              </a>
             </div>
            </li>
@@ -8196,15 +8189,15 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            </li>
            <li class="c-list-link__item">
             <div class="c-list-link__wrapper">
-             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPATO/detail/462137270/" title="Accéder au sujet Atos au cœur de la guerre économique - Chapitre 6 /6 -">
-              Atos au cœur de la guerre économique - Chapitre 6 /6 -
+             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPCAC/detail/462154696/" title="Accéder au sujet CAC40 - File des amis du lundi 23 janvier 2023">
+              CAC40 - File des amis du lundi 23 janvier 2023
              </a>
             </div>
            </li>
            <li class="c-list-link__item">
             <div class="c-list-link__wrapper">
-             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPCAC/detail/462113258/" title="Accéder au sujet STOP  à laissez pour tous , on a été manipulé à fond car LIRE">
-              STOP  à laissez pour tous , on a été manipulé à fond car LIRE
+             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPATO/detail/462137270/" title="Accéder au sujet Atos au cœur de la guerre économique - Chapitre 6 /6 -">
+              Atos au cœur de la guerre économique - Chapitre 6 /6 -
              </a>
             </div>
            </li>
@@ -8217,8 +8210,15 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            </li>
            <li class="c-list-link__item">
             <div class="c-list-link__wrapper">
-             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPCAC/detail/462116372/" title="Accéder au sujet CAC40 - File des amis du lundi 16 janvier 2023">
-              CAC40 - File des amis du lundi 16 janvier 2023
+             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPCAC/detail/462124081/" title="Accéder au sujet File fibo dragon du 17/01">
+              File fibo dragon du 17/01
+             </a>
+            </div>
+           </li>
+           <li class="c-list-link__item">
+            <div class="c-list-link__wrapper">
+             <a class="c-link c-link--animated c-link--neutral c-link--hover-light c-link--no-underline c-link--medium" href="/bourse/forum/1rPCAC/detail/462145022/" title="Accéder au sujet CAC40 - File des amis du vendredi 20 janvier 2023">
+              CAC40 - File des amis du vendredi 20 janvier 2023
              </a>
             </div>
            </li>
@@ -8630,7 +8630,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
     });
   </script>
   <script>
-   window.pageVars = {"env_work":"prod","env_channel":"mobile","env_site":"portail","env_domain":"www.boursorama.com","env_version":20,"env_language":"FR","env_country":"fr","env_dnt":"","env_os":"","env_referer":"","process_id":"8412d6b1-1da0-4215-b638-8e18198dfffa","user_id":"","user_legacy_id":"","user_oneplusx_id":"","user_level":"","user_real_agent":"","unlogged_customer":false,"visitor_navigation_id":"","dmp_visitor_id":"","customer_success":"","page_cat1":"trading","page_cat2":"quotepage","page_cat3":"stock","page_cat4":"home","page_cat5":"","page_cat6":"","tag_page":"","page_id":"trading\/quotepage\/stock\/home","full_page_id":"trading::quotepage::stock::home\/sword-group","tracking_page_id":"","short_page_id":"5a0fbd153c9ac3933a59cf7f534386c5","feature_id":"portal.trading_quotepage_stock_home","referer_feature_id":"portal.trading_quotepage_stock_home.web_fr_portal_20","id_element":"1rPSWP","page_error":"","conversion_funnel_name":"","conversion_funnel_id":"","conversion_funnel_step":"","conversion_funnel_exchange_id":"","conversion_funnel_campain_code":"","conversion_funnel_event_parameter_1":"","conversion_funnel_event_parameter_2":"","conversion_funnel_event_parameter_3":"","fv_secteur_activite":"Services informatiques","fv_code_isin":"FR0004180578_SWP","fv_symb_societe":"1rPSWP","fv_eligibilite":["PEAPME","PEA","SRD"],"fv_indice_principal":"","fv_trust_group":"","fv_bourse_label":"Euronext Paris","fv_promoter":"","fv_issuer":"","search_template":"","search_keywords":"","search_page_number":"","search_results_number":"","search_filters":"","article_src":"","article_type":"","article_name":"","forum":"","container_url":"https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/c\/a\/7\/ca772e4882d9eeed09024ab5004b24b0.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js","tc_cookies":null,"privacy_banner_version":""};
+   window.pageVars = {"env_work":"prod","env_channel":"desktop","env_site":"portail","env_domain":"www.boursorama.com","env_version":20,"env_language":"FR","env_country":"fr","env_dnt":"","env_os":"","env_referer":"","process_id":"0d7feab1-a591-4c68-895f-1e683a8802cc","user_id":"","user_legacy_id":"","user_oneplusx_id":"","user_level":"","user_real_agent":"","unlogged_customer":false,"visitor_navigation_id":"","dmp_visitor_id":"","customer_success":"","page_cat1":"trading","page_cat2":"quotepage","page_cat3":"stock","page_cat4":"home","page_cat5":"","page_cat6":"","tag_page":"","page_id":"trading\/quotepage\/stock\/home","full_page_id":"trading::quotepage::stock::home\/sword-group","tracking_page_id":"","short_page_id":"5a0fbd153c9ac3933a59cf7f534386c5","feature_id":"portal.trading_quotepage_stock_home","referer_feature_id":"portal.trading_quotepage_stock_home.web_fr_portal_20","id_element":"1rPSWP","page_error":"","conversion_funnel_name":"","conversion_funnel_id":"","conversion_funnel_step":"","conversion_funnel_exchange_id":"","conversion_funnel_campain_code":"","conversion_funnel_event_parameter_1":"","conversion_funnel_event_parameter_2":"","conversion_funnel_event_parameter_3":"","fv_secteur_activite":"Services informatiques","fv_code_isin":"FR0004180578_SWP","fv_symb_societe":"1rPSWP","fv_eligibilite":["PEAPME","PEA","SRD"],"fv_indice_principal":"","fv_trust_group":"","fv_bourse_label":"Euronext Paris","fv_promoter":"","fv_issuer":"","search_template":"","search_keywords":"","search_page_number":"","search_results_number":"","search_filters":"","article_src":"","article_type":"","article_name":"","forum":"","container_url":"https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/c\/a\/7\/ca772e4882d9eeed09024ab5004b24b0.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js","tc_cookies":null,"privacy_banner_version":""};
         window.trackingScriptUrl = "https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/c\/a\/7\/ca772e4882d9eeed09024ab5004b24b0.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js";
         window.consentScriptUrl = "https:\/\/cdn.brsimg.com\/gdpr";
   </script>
@@ -8661,9 +8661,9 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             }
   </script>
   <div id="brsAdLib">
-   <div data-network-id="21710919803" data-page-name="trading/quotepage/stock/home" data-target="symb=1rPSWP" data-timestamp="1674318748" id="dfpdata">
+   <div data-network-id="21710919803" data-page-name="trading/quotepage/stock/home" data-target="symb=1rPSWP" data-timestamp="1674535269" id="dfpdata">
    </div>
-   <div data-ads-target="" data-async="1" data-autorefresh-milliseconds="" data-display-smart-interstitial="1" data-displaysmartinterstitial="1" data-domain="https://ww16.smartadserver.com" data-library-url="https://r.sascdn.com/config.js" data-network-id="16" data-page-name="trading/quotepage/stock/home" data-render-mode="DEFAULT" data-site-id="81768" data-target="symb=1rPSWP" data-timestamp="1674318748" id="sasdata">
+   <div data-ads-target="" data-async="1" data-autorefresh-milliseconds="" data-display-smart-interstitial="1" data-displaysmartinterstitial="1" data-domain="https://ww16.smartadserver.com" data-library-url="https://r.sascdn.com/config.js" data-network-id="16" data-page-name="trading/quotepage/stock/home" data-render-mode="DEFAULT" data-site-id="81768" data-target="symb=1rPSWP" data-timestamp="1674535269" id="sasdata">
    </div>
   </div>
   <div class="wall-banner" id="brs_wall_banner">

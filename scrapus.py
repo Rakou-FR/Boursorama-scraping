@@ -148,21 +148,29 @@ class cours:
 
     def former():
         liste = []
-        listee = []
         # ouverture 6
-        '''liste_1 = cours.clean(cours.find("ouverture"),6)
-        for i in range(0, 6, 6):
+        liste_1 = cours.clean(cours.find("ouverture"),6)
+        for i in range(0, len(liste_1), len(liste_1)):
             liste.append(str(liste_1[i]) + str(liste_1[i+1]) + str(liste_1[i+2])
-            + str(liste_1[i+5]) + str(liste_1[i+4]) + str(liste_1[i+5]))'''
+            + str(liste_1[i+3]) + str(liste_1[i+4] + str(liste_1[i+5])))
         
         # cloture 6
-        print(cours.find("clôture veille"),6)
         liste_2 = cours.clean(cours.find("clôture veille"),6)
-        print(liste_2)
-        liste_2[0] = [str(liste_2[0]) + str(liste_2[1]) + str(liste_2[2])
-        + str(liste_2[5]) + str(liste_2[4]) + str(liste_2[5])]
+        for i in range(0, len(liste_2), len(liste_2)):
+            liste.append(str(liste_2[i]) + str(liste_2[i+1]) + str(liste_2[i+2])
+            + str(liste_2[i+3]) + str(liste_2[i+4] + str(liste_2[i+5])))
+
         # + haut 6
+        liste_3 = cours.clean(cours.find("+ haut"),6)
+        for i in range(0, len(liste_3), len(liste_3)):
+            liste.append(str(liste_3[i]) + str(liste_3[i+1]) + str(liste_3[i+2])
+            + str(liste_3[i+3]) + str(liste_3[i+4] + str(liste_3[i+5])))
+
         # + bas 6
+        liste_4 = cours.clean(cours.find("+ bas"),6)
+        for i in range(0, len(liste_4), len(liste_4)):
+            liste.append(str(liste_4[i]) + str(liste_4[i+1]) + str(liste_4[i+2])
+            + str(liste_4[i+3]) + str(liste_4[i+4] + str(liste_4[i+5])))
         # volume 6
         # capital 6
         # valorisation 6
@@ -171,7 +179,7 @@ class cours:
         # rendemet 6
         # PER estimé 27
         # dividende et date dividente 16
-        return liste_2
+        return liste
     
         
         '''output_list = []
