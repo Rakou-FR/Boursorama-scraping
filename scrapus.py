@@ -15,26 +15,10 @@ import os
 '''
 
 class evolution:
-    def get():
-        # Définir l'URL du site web
-        url = input("put the boursorama society link : ")
-        
-        # Récupérer le code source HTML
-        r = requests.get(url)
-        
-        # Créer un objet BeautifulSoup
-        soup = BeautifulSoup(r.content, "html.parser")
-        
-        # Obtenir le code source HTML
-        html = soup.prettify()
-        
-        # Sauvegarder le code source HTML dans un fichier
-        with open("source_html.txt", "w", encoding="utf-8") as f:
-            f.write(html)
 
     def find():
         # On commence par ouvrir le fichier
-        fichier = open('source_html.txt','r', encoding="UTF-8")
+        fichier = open("source_html.txt","r", encoding="UTF-8")
 
         # On demande à l'utilisateur le mot à rechercher
         mot_a_rechercher = str("Dividende net par action")
@@ -80,12 +64,12 @@ class evolution:
 
     def former(liste):
         output_list = []
-        if len(liste) <= 36:
+        if int(len(liste)) <= 36:
             for i in range(0, len(liste), 3):
                 output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2]))
 
         if len(liste) >= 39: 
-            for i in range(0, 27, 3):
+            for i in range(0, len(liste), 3):
                 output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2]))
             for i in range(27, len(liste), 4):
                 output_list.append(str(liste[i]) + str(liste[i+1]) + str(liste[i+2]) + str(liste[i+3]))
@@ -99,7 +83,24 @@ class evolution:
         return final, "evo"
 
 
-class cours:
+class world:
+    def get():
+        # Définir l'URL du site web
+        url = "https://www.boursorama.com/cours/1rPORA/"
+        
+        # Récupérer le code source HTML
+        r = requests.get(url)
+        
+        # Créer un objet BeautifulSoup
+        soup = BeautifulSoup(r.content, "html.parser")
+        
+        # Obtenir le code source HTML
+        html = soup.prettify()
+        
+        # Sauvegarder le code source HTML dans un fichier
+        with open("source_html.txt", "w", encoding="utf-8") as f:
+            f.write(html)
+
     def find(a):
         # On commence par ouvrir le fichier
         fichier = open('source_html.txt','r', encoding="UTF-8")
@@ -136,93 +137,116 @@ class cours:
                 # On parcourt la ligne lettre par lettre
                 for lettre in ligne:
                     # On vérifie si la lettre correspond à un integer
-                    if lettre.isdigit() or lettre == "." or lettre == "%":
+                    if lettre.isdigit() or lettre == "." or lettre == "%" or lettre == "E" or lettre == "U" or lettre == "R":
                         # On ajoute l'integer à la liste
                         liste.append(lettre)
 
         # del liste[len(liste)-5:len(liste)]
         return liste
 
-#96
-#92
-
     def former():
         liste = []
         # ouverture 6
-        liste_1 = cours.clean(cours.find("ouverture"),6)
+        liste_1 = world.clean(world.find("ouverture"),6)
         liste.append("ouverture :")
         for item in liste_1:
             liste[len(liste)-1] += str(item)
         
         # cloture 6
-        liste_2 = cours.clean(cours.find("clôture veille"),6)
+        liste_2 = world.clean(world.find("clôture veille"),6)
         liste.append("cloture :")
         for item in liste_2:
             liste[len(liste)-1] += str(item)
 
         # + haut 6
-        liste_3 = cours.clean(cours.find("+ haut"),6)
+        liste_3 = world.clean(world.find("+ haut"),6)
         liste.append("+ haut : ")
         for item in liste_3:
             liste[len(liste)-1] += str(item)
 
         # + bas 6
-        liste_4 = cours.clean(cours.find("+ bas"),6)
+        liste_4 = world.clean(world.find("+ bas"),6)
         liste.append("+ bas : ")
         for item in liste_4:
             liste[len(liste)-1] += str(item)
 
         # volume 6
-        liste_5 = cours.clean(cours.find("capital échangé")-10,3)
+        liste_5 = world.clean(world.find("capital échangé")-10,3)
         liste.append("volume : ")
         for item in liste_5:
             liste[len(liste)-1] += str(item)
         
         # capital 6
-        liste_6 = cours.clean(cours.find("capital échangé"),6)
+        liste_6 = world.clean(world.find("capital échangé"),6)
         liste.append("capital : ")
         for item in liste_6:
             liste[len(liste)-1] += str(item)
 
         # valorisation 6
-        liste_7 = cours.clean(cours.find("valorisation"),6)
+        liste_7 = world.clean(world.find("valorisation"),6)
         liste.append("valorisation : ")
         for i in range(0,len(liste_7)):
             liste[len(liste)-1] += str(liste_7[i])
 
         # LIMITE À LA HAUSSE
-        liste_8_1 = cours.clean(cours.find("limite à la baisse")+47,7)
+        liste_8_1 = world.clean(world.find("limite à la baisse")+47,7)
         liste.append("lim hausse : ")
         for i in range(0,len(liste_8_1)):
             liste[len(liste)-1] += str(liste_8_1[i])
 
         # LIMITE À LA BAISSE
-        liste_8 = cours.clean(cours.find("limite à la baisse")+15,7)
+        liste_8 = world.clean(world.find("limite à la baisse")+15,7)
         liste.append("lim baisse : ")
         for i in range(0,len(liste_8)):
             liste[len(liste)-1] += str(liste_8[i])
 
         # rendemet 6
-        liste_9 = cours.clean(cours.find("rendement estimé"),6)
+        liste_9 = world.clean(world.find("rendement estimé"),6)
         liste.append("rendement : ")
         for i in range(0,len(liste_9)):
             liste[len(liste)-1] += str(liste_9[i])
 
         # PER estimé 27
-        liste_10 = cours.clean(cours.find("PER estimé")+10,17)
+        liste_10 = world.clean(world.find("PER estimé")+10,17)
         liste.append("PER : ")
         for i in range(0,len(liste_10)):
             liste[len(liste)-1] += str(liste_10[i])
 
         # dividende et date dividente 16
-        liste_11 = cours.clean(cours.find("dernier dividende"),6)
+        liste_11 = world.clean(world.find("dernier dividende"),6)
         liste.append("dividende : ")
         for i in range(0,len(liste_11)):
             liste[len(liste)-1] += str(liste_11[i])
 
+        # Dividende net par action
+        liste_12 = world.clean(world.find("Dividende net par action"),19)
+        liste.append("")
+        liste.append("")
+        liste.append("")
+        temp_1 = ""
+        for x in liste_12:
+            temp_1 += x
+        temp_1 = temp_1.split("R")
+        liste[len(liste)-3] = temp_1[0] + "R"
+        liste[len(liste)-2] = temp_1[1] + "R"
+        liste[len(liste)-1] = temp_1[2] + "R"
+
+        # Dividende net par action
+        liste_12 = world.clean(world.find("Dividende net par action"),19)
+        liste.append("")
+        liste.append("")
+        liste.append("")
+        temp_1 = ""
+        for x in liste_12:
+            temp_1 += x
+        temp_1 = temp_1.split("R")
+        liste[len(liste)-3] = temp_1[0] + "R"
+        liste[len(liste)-2] = temp_1[1] + "R"
+        liste[len(liste)-1] = temp_1[2] + "R"
+        
         return liste
 
 
 if __name__ == '__main__':
-    evolution.get()
-    print(cours.former())
+    world.get()
+    print(world.former())
