@@ -31,7 +31,7 @@
   <meta content="bourse de Paris, investissement, action CAC 40, Sicav, investir, indices devises, marché boursier, cotations, trackers, warrants, Boursorama" name="keywords"/>
   <meta content="index, follow, all" name="robots"/>
   <meta content="telephone=no" name="format-detection"/>
-  <meta content="69925916-b4a3-4938-b68f-5d4af37f98e1" name="uuid"/>
+  <meta content="89cce8bc-f016-4ed5-a5e2-344aec88db13" name="uuid"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-medium-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-bold-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <style>
@@ -57,7 +57,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
   </script>
   <script>
    // json config
-    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6IjQyZDg5NzVkNGMzNjYifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiNDJkODk3NWQ0YzM2NiIsImlhdCI6MTY3NDcyODQyMy4wODg1LCJ2IjoiMS4wIiwic3ViIjoid2ViX2ZyX3BvcnRhbF8yMCIsInNjb3BlcyI6IlJPTEVfVklTSVRPUiIsImNpZCI6IndlYl9mcl9wb3J0YWxfMjAiLCJleHAiOjE2NzQ3MzAyMjN9.brEZKLLyPLVuztMOix3WybYtfdbrA4p2MC8tkCWnUNURlH6mF_CV0pH6-cDL9L_-diWy_7jYJ-dSLgLV3hlhv8dzhWmAlpm_mUFg6IjMQzTYhFpjeuKOQC-Qnn_iTOxfGB2kf-CQjpUU8mnWweR3xvBcZwBZN87WcMzwdxLRAV1JG0IXI6XdlJuIWXjSlle0sed3BTyihx6fks0xJcpBwBsUq_eXL3GZvTnGjv3BsyLYZxmIAQD-OVAiEEhp0tAUq1keAUL1zKzK9SmX91Lnq8Go_PRAWB6X8v9cOYU3h2RM4ethL4hk_S0A1amQMZBJGW4fgpT1hXDco49UlyI6EdY-ooX4o7GnCeTN-gP1IfwBtErngf8YmYl_lXTsHWIqBNwmaBf45mlk4FZUoM4txzeH71afOsam9u2WzTIxvMxkApF_tJtkr3Jc7FxBHTmrgKeetdj6MUFmyem68wcDcBfNGhyKd5mMzg3b_bRpvcU8fJYQQ83TkeghRcZxiTnIek48tjqn4nsikCUa4iD8FuITIphmltgnhd3eWZdJiRUd9Nb_kuzpe_T_1BHOrxNxHr12tcotlnvoEcSe7eBo0ZWi-ZeuC3Ma_4rbs6sD5whPX6PWiKyCObvjmACBQXnmoVB34xGwm1triRpCPMOG7_I0E-1rksaifqsPdAqzDyk","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
+    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6ImRlZTZlMjlmNTk5ZjIifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiZGVlNmUyOWY1OTlmMiIsImlhdCI6MTY3NDczMDIzMS44NjY2MywidiI6IjEuMCIsInN1YiI6IndlYl9mcl9wb3J0YWxfMjAiLCJzY29wZXMiOiJST0xFX1ZJU0lUT1IiLCJjaWQiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwiZXhwIjoxNjc0NzMyMDMxfQ.qiWcvT1I5PpTRbqEh80HheNFItXeDmE_WbRsLUFrAxtT89glcqom9eRkGldKQm6mptPdmF6k3uqv7vNyP6x5fNmSLP2LBqXy3cVBY6DojQS_ic3FvmrzIkfhaEGwsE4ZIZwTAnqYFnrHs8FRgVXDg96isekXGHzWywSfJw9JEZIUTMm51XkWZNDzzELvPaDszG5oxaISDay4zwjoCFr1-jh0y78nOIUmfTxBdbYUSQ1FGJTNbQAq4MeBv-ehSupWtSzudOZeZKAiE2ZNcdYMMjWgdbIuLO1QKiWpVDxCyH0eErjuRR5hkZfEjfanPk8SH4bLL5607NssoT4crB0Cg6XWdLlwGFGXf-kLQRRG--DMkI1AEDLPcqGi_eR9ylz7T-r88pZgiGEbgEisgCxvBE9LIgVD2KTW-d9LHlYNVupZ2x_cp1bMEmTV-eh7YHU-LwFk9HMb9bPyMR69id-HKQzWLfwEhWfEFIJsdi11G1m24cJJq3ffYi6pOL-ogvFtbWke-USXADmyb3V4iNbs7pwW0diYJ4-Wj5v-RyHC8Mqusbpnnd_kHsr2ga9pFoBzIaAPG8xpaM7VwEggS5r8qCGRt_Djn7NsVfHx5oU2zIIVrvyz1XVxEX9Z3jiwnDrJ-VC0B3HHdfWTtzwTvYQim7DwC-DDhUpqc-N9thsR5tA","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
     window.BRS_CONFIG.orderframeCSSPath = "/build/9559.c280d540f1f8fd198549.css";
     window.BRS_CONFIG.orderframeJSPath = '/build/orderframe.js?md5=fe2b6d6b3186f7252c4265d237514f74';
 
@@ -191,12 +191,12 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         </div>
         <div>
          <span class="c-instrument c-instrument--last" data-ist-last="">
-          7 092.59
+          7 098.23
          </span>
         </div>
         <div class="u-color-stream-up">
          <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          +0.69%
+          +0.77%
          </span>
         </div>
        </a>
@@ -2284,7 +2284,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
    <section class="l-header__tradingboard">
     <div class="c-tradingboard">
      <div class="c-tradingboard__main">
-      <div class="c-tradingboard__infos" data-ist="1rPCAC" data-ist-init='{"symbol":"1rPCAC","variation":0.0069152228601282,"last":7092.59,"previousClose":7043.88,"high":7102.94,"low":7078.02,"totalVolume":801,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:37:00","category":"IND","decimals":2}'>
+      <div class="c-tradingboard__infos" data-ist="1rPCAC" data-ist-init='{"symbol":"1rPCAC","variation":0.0077159179315944,"last":7098.23,"previousClose":7043.88,"high":7102.94,"low":7078.02,"totalVolume":861,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:56:15","category":"IND","decimals":2}'>
        <div class="c-tradingboard__label">
         <a class="c-tradingboard__link" href="/bourse/indices/cours/1rPCAC/" title="Fiche valeur CAC 40">
          CAC 40
@@ -2292,13 +2292,13 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
        </div>
        <div class="c-tradingboard__value">
         <span class="c-instrument c-instrument--last" data-ist-last="">
-         7 092.59
+         7 098.23
         </span>
        </div>
        <div class="c-tradingboard__fluctuation">
         <span class="u-color-stream-up c-tradingboard__fluctuation-space">
          <span class="c-instrument c-instrument--variation" data-ist-variation="">
-          +0.69%
+          +0.77%
          </span>
         </span>
        </div>
@@ -2361,19 +2361,19 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line" data-ist="5pDAX" data-ist-init='{"symbol":"5pDAX","variation":0.0024950867412298,"last":15119.27,"previousClose":15081.64,"high":15151.54,"low":15088.95,"totalVolume":0,"exchangeCode":"IBS","tradeDate":"2023-01-26 11:22:10","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="DAX 15 119.27 +0.25% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/5pDAX/">
+        <li class="c-list-trading__line" data-ist="5pDAX" data-ist-init='{"symbol":"5pDAX","variation":0.0028014194742747,"last":15123.89,"previousClose":15081.64,"high":15151.54,"low":15088.95,"totalVolume":0,"exchangeCode":"IBS","tradeDate":"2023-01-26 11:41:24","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="DAX 15 123.89 +0.28% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/5pDAX/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            DAX
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            15 119.27
+            15 123.89
            </span>
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +0.25%
+            +0.28%
            </span>
           </div>
          </a>
@@ -2387,27 +2387,27 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         Chiffres-clés
        </span>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="8xBRN" data-ist-init='{"symbol":"8xBRN","variation":0.007890461824089,"last":86.86,"previousClose":86.18,"high":86.9,"low":85.74,"totalVolume":30533,"exchangeCode":"ICE","tradeDate":"2023-01-26 11:27:01","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="Pétrole Brent 86,86  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/8xBRN/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="8xBRN" data-ist-init='{"symbol":"8xBRN","variation":0.0083546066372708,"last":86.9,"previousClose":86.18,"high":87.14,"low":85.74,"totalVolume":33982,"exchangeCode":"ICE","tradeDate":"2023-01-26 11:46:25","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="Pétrole Brent 86,90  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/8xBRN/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            Pétrole Brent
           </div>
           <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            86,86
+            86,90
            </span>
            $US
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="_GC" data-ist-init='{"symbol":"_GC","variation":-0.00034573685812924,"last":1937.22,"previousClose":1937.89,"high":1949.08,"low":1933.74,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-26 11:37:04","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="ONCE D'OR 1 937,22  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/_GC/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="_GC" data-ist-init='{"symbol":"_GC","variation":-0.00043346113556505,"last":1937.05,"previousClose":1937.89,"high":1949.08,"low":1933.74,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-26 11:56:24","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="ONCE D'OR 1 937,05  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/_GC/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            ONCE D'OR
           </div>
           <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            1 937,22
+            1 937,05
            </span>
            $US
           </div>
@@ -2415,7 +2415,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1xEURUS" data-ist-init='{"symbol":"1xEURUS","variation":-0.00093436541015895,"last":1.09063,"previousClose":1.09165,"high":1.09305,"low":1.08927,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-26 11:36:59","category":"SPT","decimals":4}' data-list-trading-symbol="">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1xEURUS" data-ist-init='{"symbol":"1xEURUS","variation":-0.00091604451976376,"last":1.09065,"previousClose":1.09165,"high":1.09305,"low":1.08927,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-26 11:56:16","category":"SPT","decimals":4}' data-list-trading-symbol="">
          <a aria-label="EUR/USD 1,0906  : fiche valeur" class="c-list-trading__link" href="/bourse/devises/taux-de-change-euro-dollar-EUR-USD/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            EUR/USD
@@ -2428,7 +2428,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1cVIX" data-ist-init='{"symbol":"1cVIX","variation":0.0078616352201259,"last":19.23,"previousClose":19.08,"high":19.27,"low":19.01,"totalVolume":0,"exchangeCode":"CBO","tradeDate":"2023-01-26 11:22:01","category":"IND","decimals":2}' data-list-trading-symbol="">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1cVIX" data-ist-init='{"symbol":"1cVIX","variation":0.0078616352201259,"last":19.23,"previousClose":19.08,"high":19.28,"low":19.01,"totalVolume":0,"exchangeCode":"CBO","tradeDate":"2023-01-26 11:41:16","category":"IND","decimals":2}' data-list-trading-symbol="">
          <a aria-label="VIX INDEX 19,23  : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1cVIX/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            VIX INDEX
@@ -2450,52 +2450,52 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         + fortes hausses et baisses SBF 120
        </span>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPSTM" data-ist-init='{"symbol":"1rPSTM","variation":0.067427122940431,"last":42.11,"previousClose":39.45,"high":43.1,"low":41.56,"totalVolume":3083607,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:37:14","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="STMICROELECTRONICS  +6.74% : fiche valeur" class="c-list-trading__link" href="/cours/1rPSTM/">
-          <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           STMICROELECTRONICS
-          </div>
-          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
-           <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +6.74%
-           </span>
-          </div>
-         </a>
-        </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPDIM" data-ist-init='{"symbol":"1rPDIM","variation":0.052096985583224,"last":321.1,"previousClose":305.2,"high":328.5,"low":314.5,"totalVolume":42587,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:37:06","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="SARTORIUS STEDIM BIOTECH  +5.21% : fiche valeur" class="c-list-trading__link" href="/cours/1rPDIM/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPDIM" data-ist-init='{"symbol":"1rPDIM","variation":0.076671035386632,"last":328.6,"previousClose":305.2,"high":330.3,"low":314.5,"totalVolume":54479,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:56:19","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="SARTORIUS STEDIM BIOTECH  +7.67% : fiche valeur" class="c-list-trading__link" href="/cours/1rPDIM/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            SARTORIUS STEDIM BIOTECH
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +5.21%
+            +7.67%
+           </span>
+          </div>
+         </a>
+        </li>
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPSTM" data-ist-init='{"symbol":"1rPSTM","variation":0.061977186311787,"last":41.895,"previousClose":39.45,"high":43.1,"low":41.56,"totalVolume":3145495,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:56:17","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="STMICROELECTRONICS  +6.20% : fiche valeur" class="c-list-trading__link" href="/cours/1rPSTM/">
+          <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
+           STMICROELECTRONICS
+          </div>
+          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
+           <span class="c-instrument c-instrument--variation" data-ist-variation="">
+            +6.20%
            </span>
           </div>
          </a>
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPELIOR" data-ist-init='{"symbol":"1rPELIOR","variation":-0.10730948678072,"last":3.444,"previousClose":3.858,"high":3.822,"low":3.402,"totalVolume":1308448,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:36:04","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="ELIOR GROUP  -10.73% : fiche valeur" class="c-list-trading__link" href="/cours/1rPELIOR/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPELIOR" data-ist-init='{"symbol":"1rPELIOR","variation":-0.13841368584759,"last":3.324,"previousClose":3.858,"high":3.822,"low":3.324,"totalVolume":1543065,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:56:23","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="ELIOR GROUP  -13.84% : fiche valeur" class="c-list-trading__link" href="/cours/1rPELIOR/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            ELIOR GROUP
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -10.73%
+            -13.84%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPSESL" data-ist-init='{"symbol":"1rPSESL","variation":-0.086587436332767,"last":107.6,"previousClose":117.8,"high":120,"low":102.8,"totalVolume":72079,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:37:00","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="SES IMAGOTAG  -8.66% : fiche valeur" class="c-list-trading__link" href="/cours/1rPSESL/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPSESL" data-ist-init='{"symbol":"1rPSESL","variation":-0.091680814940577,"last":107,"previousClose":117.8,"high":120,"low":102.8,"totalVolume":73565,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:56:23","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="SES IMAGOTAG  -9.17% : fiche valeur" class="c-list-trading__link" href="/cours/1rPSESL/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            SES IMAGOTAG
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -8.66%
+            -9.17%
            </span>
           </div>
          </a>
@@ -2638,8 +2638,8 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
       </nav>
      </div>
      <header class="l-quotepage__header">
-      <div class="c-faceplate is-positive /*debug*/" data-faceplate="" data-faceplate-symbol="1rPORA" data-ist="1rPORA" data-ist-init='{"symbol":"1rPORA","high":9.66,"low":9.596,"previousClose":9.611,"totalVolume":1107919,"tradeDate":"2023-01-26 11:37:07","variation":0.0031214233690562,"last":9.641,"exchangeCode":"PAR","category":"STK","decimals":3}' data-ist-variation-indicator="">
-       <input class="c-faceplate__accordion-toggle" id="faceplate-1457341659" type="checkbox"/>
+      <div class="c-faceplate is-positive /*debug*/" data-faceplate="" data-faceplate-symbol="1rPORA" data-ist="1rPORA" data-ist-init='{"symbol":"1rPORA","high":9.66,"low":9.596,"previousClose":9.611,"totalVolume":1152730,"tradeDate":"2023-01-26 11:55:06","variation":0.0031214233690562,"last":9.641,"exchangeCode":"PAR","category":"STK","decimals":3}' data-ist-variation-indicator="">
+       <input class="c-faceplate__accordion-toggle" id="faceplate-451787326" type="checkbox"/>
        <div class="c-faceplate__body">
         <div class="c-faceplate__company">
          <h1 class="c-faceplate__company-title">
@@ -2730,7 +2730,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         <div class="c-faceplate__chart">
          <div class="c-faceplate__chart-draw c-list-info--bottom-separator@sm-max c-list-info--top-separator@sm-max c-list-info--left-separator@md-min">
           <!-- MC Histogram ! -->
-          <div class="c-chart c-chart--height-xs" data-line-chart="" id="971473104">
+          <div class="c-chart c-chart--height-xs" data-line-chart="" id="1396637264">
            <div class="c-quote-chart__loader">
             <div class="c-loader-arrow c-loader-arrow--full-height">
              <span aria-busy="true" aria-live="polite" class="u-sr-only" role="alert">
@@ -2745,7 +2745,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
           <script>
            $(function () {
         //The amCharts "real" default configs for our charts can be found in the jQuery plugin "jquery.amcharts.js".
-        var chart      = JSON.parse('{"static":{"amChart":{"type":"serial"},"graph":{"fillAlphas":0,"fillColors":"#009de0","lineColor":"#009de0","gridColor":"#000000","fontColor":"#000000","categoryOffset":0,"chartModifier":"c-chart--height-xs"}},"data":{"amChartConfig":{"brs":{"commonField":"period","id":971473104},"colors":["#009de0","#003883","#149e62","#f1d205"],"valueAxes":[{"title":"","position":"right","axisThickness":0,"gridThickness":1,"gridColor":"#000000","tickLength":0,"guides":[{"value":9.611,"lineColor":"#fb0189","lineAlpha":100,"lineThickness":1,"tickLength":0,"above":true}],"includeGuidesInMinMax":true,"color":"#000000"}],"categoryAxis":{"axisThickness":0,"gridThickness":0,"autoGridCount":false,"gridCount":3,"showFirstLabel":false,"showLastLabel":false,"color":"#000000","offset":0},"graphs":[{"balloonText":"[[title]] [[category]] : [[value]]","type":"line","fillAlphas":0,"fillColors":"#009de0","id":"chart-63d257dfbb780","commonField":"period","brsValueField":"value","lineThickness":1}],"chartCursor":{"valueBalloonsEnabled":true,"valueLineEnabled":true,"cursorAlpha":0.35,"cursorColor":"#009de0","valueLineBalloonEnabled":true,"categoryBalloonColor":"#009de0","valueLineAlpha":0.35,"valueZoomable":false,"pan":false,"zoomable":false}},"amChartData":{"chart-63d257dfbb780":[{"period":"09h00","value":9.62},{"period":"09h01","value":9.607},{"period":"09h02","value":9.605},{"period":"09h03","value":9.633},{"period":"09h04","value":9.65},{"period":"09h05","value":9.646},{"period":"09h06","value":9.657},{"period":"09h07","value":9.644},{"period":"09h08","value":9.641},{"period":"09h09","value":9.63},{"period":"09h10","value":9.62},{"period":"09h11","value":9.611},{"period":"09h12","value":9.61},{"period":"09h13","value":9.609},{"period":"09h14","value":9.61},{"period":"09h15","value":9.612},{"period":"09h16","value":9.619},{"period":"09h17","value":9.619},{"period":"09h18","value":9.617},{"period":"09h19","value":9.616},{"period":"09h20","value":9.619},{"period":"09h21","value":9.618},{"period":"09h22","value":9.614},{"period":"09h23","value":9.615},{"period":"09h24","value":9.618},{"period":"09h25","value":9.612},{"period":"09h26","value":9.611},{"period":"09h27","value":9.615},{"period":"09h28","value":9.614},{"period":"09h29","value":9.615},{"period":"09h30","value":9.617},{"period":"09h31","value":9.616},{"period":"09h32","value":9.613},{"period":"09h33","value":9.62},{"period":"09h34","value":9.624},{"period":"09h35","value":9.621},{"period":"09h36","value":9.624},{"period":"09h37","value":9.62},{"period":"09h38","value":9.62},{"period":"09h39","value":9.62},{"period":"09h40","value":9.621},{"period":"09h41","value":9.622},{"period":"09h42","value":9.62},{"period":"09h43","value":9.62},{"period":"09h44","value":9.622},{"period":"09h45","value":9.634},{"period":"09h46","value":9.623},{"period":"09h47","value":9.622},{"period":"09h48","value":9.623},{"period":"09h49","value":9.621},{"period":"09h50","value":9.621},{"period":"09h51","value":9.618},{"period":"09h52","value":9.616},{"period":"09h53","value":9.624},{"period":"09h54","value":9.619},{"period":"09h55","value":9.62},{"period":"09h56","value":9.621},{"period":"09h57","value":9.624},{"period":"09h58","value":9.628},{"period":"09h59","value":9.623},{"period":"10h00","value":9.617},{"period":"10h01","value":9.616},{"period":"10h02","value":9.619},{"period":"10h03","value":9.62},{"period":"10h04","value":9.62},{"period":"10h05","value":9.62},{"period":"10h06","value":9.62},{"period":"10h07","value":9.621},{"period":"10h08","value":9.623},{"period":"10h09","value":9.622},{"period":"10h10","value":9.624},{"period":"10h11","value":9.621},{"period":"10h12","value":9.622},{"period":"10h13","value":9.623},{"period":"10h14","value":9.627},{"period":"10h15","value":9.631},{"period":"10h16","value":9.626},{"period":"10h17","value":9.623},{"period":"10h18","value":9.618},{"period":"10h19","value":9.623},{"period":"10h20","value":9.62},{"period":"10h21","value":9.619},{"period":"10h22","value":9.617},{"period":"10h23","value":9.617},{"period":"10h24","value":9.616},{"period":"10h25","value":9.611},{"period":"10h26","value":9.609},{"period":"10h27","value":9.611},{"period":"10h28","value":9.611},{"period":"10h29","value":9.617},{"period":"10h30","value":9.616},{"period":"10h31","value":9.622},{"period":"10h32","value":9.62},{"period":"10h33","value":9.621},{"period":"10h34","value":9.619},{"period":"10h35","value":9.613},{"period":"10h36","value":9.616},{"period":"10h37","value":9.618},{"period":"10h38","value":9.618},{"period":"10h39","value":9.617},{"period":"10h40","value":9.617},{"period":"10h41","value":9.623},{"period":"10h42","value":9.624},{"period":"10h43","value":9.63},{"period":"10h44","value":9.627},{"period":"10h45","value":9.629},{"period":"10h46","value":9.629},{"period":"10h47","value":9.63},{"period":"10h48","value":9.634},{"period":"10h49","value":9.632},{"period":"10h50","value":9.63},{"period":"10h51","value":9.632},{"period":"10h52","value":9.626},{"period":"10h53","value":9.628},{"period":"10h54","value":9.629},{"period":"10h55","value":9.632},{"period":"10h56","value":9.629},{"period":"10h57","value":9.634},{"period":"10h58","value":9.64},{"period":"10h59","value":9.635},{"period":"11h00","value":9.632},{"period":"11h01","value":9.633},{"period":"11h02","value":9.633},{"period":"11h03","value":9.632},{"period":"11h04","value":9.633},{"period":"11h05","value":9.636},{"period":"11h06","value":9.638},{"period":"11h07","value":9.64},{"period":"11h08","value":9.637},{"period":"11h09","value":9.639},{"period":"11h10","value":9.639},{"period":"11h11","value":9.636},{"period":"11h12","value":9.639},{"period":"11h13","value":9.635},{"period":"11h14","value":9.636},{"period":"11h15","value":9.635},{"period":"11h16","value":9.635},{"period":"11h17","value":9.633},{"period":"11h18","value":9.632},{"period":"11h19","value":9.631},{"period":"11h20","value":9.632},{"period":"11h21","value":9.634},{"period":"11h22","value":9.633},{"period":"11h23","value":9.633},{"period":"11h24","value":9.634},{"period":"11h25","value":9.635},{"period":"11h26","value":9.638},{"period":"11h27","value":9.635},{"period":"11h28","value":9.637},{"period":"11h29","value":9.637},{"period":"11h30","value":9.64},{"period":"11h31","value":9.639},{"period":"11h32","value":9.634},{"period":"11h33","value":9.637},{"period":"11h34","value":9.637},{"period":"11h35","value":9.641},{"period":"11h36","value":9.64},{"period":"11h37","value":9.641}]},"modifierClasses":"c-chart--height-xs"}}');
+        var chart      = JSON.parse('{"static":{"amChart":{"type":"serial"},"graph":{"fillAlphas":0,"fillColors":"#009de0","lineColor":"#009de0","gridColor":"#000000","fontColor":"#000000","categoryOffset":0,"chartModifier":"c-chart--height-xs"}},"data":{"amChartConfig":{"brs":{"commonField":"period","id":1396637264},"colors":["#009de0","#003883","#149e62","#f1d205"],"valueAxes":[{"title":"","position":"right","axisThickness":0,"gridThickness":1,"gridColor":"#000000","tickLength":0,"guides":[{"value":9.611,"lineColor":"#fb0189","lineAlpha":100,"lineThickness":1,"tickLength":0,"above":true}],"includeGuidesInMinMax":true,"color":"#000000"}],"categoryAxis":{"axisThickness":0,"gridThickness":0,"autoGridCount":false,"gridCount":3,"showFirstLabel":false,"showLastLabel":false,"color":"#000000","offset":0},"graphs":[{"balloonText":"[[title]] [[category]] : [[value]]","type":"line","fillAlphas":0,"fillColors":"#009de0","id":"chart-63d25c5e08761","commonField":"period","brsValueField":"value","lineThickness":1}],"chartCursor":{"valueBalloonsEnabled":true,"valueLineEnabled":true,"cursorAlpha":0.35,"cursorColor":"#009de0","valueLineBalloonEnabled":true,"categoryBalloonColor":"#009de0","valueLineAlpha":0.35,"valueZoomable":false,"pan":false,"zoomable":false}},"amChartData":{"chart-63d25c5e08761":[{"period":"09h00","value":9.62},{"period":"09h01","value":9.607},{"period":"09h02","value":9.605},{"period":"09h03","value":9.633},{"period":"09h04","value":9.65},{"period":"09h05","value":9.646},{"period":"09h06","value":9.657},{"period":"09h07","value":9.644},{"period":"09h08","value":9.641},{"period":"09h09","value":9.63},{"period":"09h10","value":9.62},{"period":"09h11","value":9.611},{"period":"09h12","value":9.61},{"period":"09h13","value":9.609},{"period":"09h14","value":9.61},{"period":"09h15","value":9.612},{"period":"09h16","value":9.619},{"period":"09h17","value":9.619},{"period":"09h18","value":9.617},{"period":"09h19","value":9.616},{"period":"09h20","value":9.619},{"period":"09h21","value":9.618},{"period":"09h22","value":9.614},{"period":"09h23","value":9.615},{"period":"09h24","value":9.618},{"period":"09h25","value":9.612},{"period":"09h26","value":9.611},{"period":"09h27","value":9.615},{"period":"09h28","value":9.614},{"period":"09h29","value":9.615},{"period":"09h30","value":9.617},{"period":"09h31","value":9.616},{"period":"09h32","value":9.613},{"period":"09h33","value":9.62},{"period":"09h34","value":9.624},{"period":"09h35","value":9.621},{"period":"09h36","value":9.624},{"period":"09h37","value":9.62},{"period":"09h38","value":9.62},{"period":"09h39","value":9.62},{"period":"09h40","value":9.621},{"period":"09h41","value":9.622},{"period":"09h42","value":9.62},{"period":"09h43","value":9.62},{"period":"09h44","value":9.622},{"period":"09h45","value":9.634},{"period":"09h46","value":9.623},{"period":"09h47","value":9.622},{"period":"09h48","value":9.623},{"period":"09h49","value":9.621},{"period":"09h50","value":9.621},{"period":"09h51","value":9.618},{"period":"09h52","value":9.616},{"period":"09h53","value":9.624},{"period":"09h54","value":9.619},{"period":"09h55","value":9.62},{"period":"09h56","value":9.621},{"period":"09h57","value":9.624},{"period":"09h58","value":9.628},{"period":"09h59","value":9.623},{"period":"10h00","value":9.617},{"period":"10h01","value":9.616},{"period":"10h02","value":9.619},{"period":"10h03","value":9.62},{"period":"10h04","value":9.62},{"period":"10h05","value":9.62},{"period":"10h06","value":9.62},{"period":"10h07","value":9.621},{"period":"10h08","value":9.623},{"period":"10h09","value":9.622},{"period":"10h10","value":9.624},{"period":"10h11","value":9.621},{"period":"10h12","value":9.622},{"period":"10h13","value":9.623},{"period":"10h14","value":9.627},{"period":"10h15","value":9.631},{"period":"10h16","value":9.626},{"period":"10h17","value":9.623},{"period":"10h18","value":9.618},{"period":"10h19","value":9.623},{"period":"10h20","value":9.62},{"period":"10h21","value":9.619},{"period":"10h22","value":9.617},{"period":"10h23","value":9.617},{"period":"10h24","value":9.616},{"period":"10h25","value":9.611},{"period":"10h26","value":9.609},{"period":"10h27","value":9.611},{"period":"10h28","value":9.611},{"period":"10h29","value":9.617},{"period":"10h30","value":9.616},{"period":"10h31","value":9.622},{"period":"10h32","value":9.62},{"period":"10h33","value":9.621},{"period":"10h34","value":9.619},{"period":"10h35","value":9.613},{"period":"10h36","value":9.616},{"period":"10h37","value":9.618},{"period":"10h38","value":9.618},{"period":"10h39","value":9.617},{"period":"10h40","value":9.617},{"period":"10h41","value":9.623},{"period":"10h42","value":9.624},{"period":"10h43","value":9.63},{"period":"10h44","value":9.627},{"period":"10h45","value":9.629},{"period":"10h46","value":9.629},{"period":"10h47","value":9.63},{"period":"10h48","value":9.634},{"period":"10h49","value":9.632},{"period":"10h50","value":9.63},{"period":"10h51","value":9.632},{"period":"10h52","value":9.626},{"period":"10h53","value":9.628},{"period":"10h54","value":9.629},{"period":"10h55","value":9.632},{"period":"10h56","value":9.629},{"period":"10h57","value":9.634},{"period":"10h58","value":9.64},{"period":"10h59","value":9.635},{"period":"11h00","value":9.632},{"period":"11h01","value":9.633},{"period":"11h02","value":9.633},{"period":"11h03","value":9.632},{"period":"11h04","value":9.633},{"period":"11h05","value":9.636},{"period":"11h06","value":9.638},{"period":"11h07","value":9.64},{"period":"11h08","value":9.637},{"period":"11h09","value":9.639},{"period":"11h10","value":9.639},{"period":"11h11","value":9.636},{"period":"11h12","value":9.639},{"period":"11h13","value":9.635},{"period":"11h14","value":9.636},{"period":"11h15","value":9.635},{"period":"11h16","value":9.635},{"period":"11h17","value":9.633},{"period":"11h18","value":9.632},{"period":"11h19","value":9.631},{"period":"11h20","value":9.632},{"period":"11h21","value":9.634},{"period":"11h22","value":9.633},{"period":"11h23","value":9.633},{"period":"11h24","value":9.634},{"period":"11h25","value":9.635},{"period":"11h26","value":9.638},{"period":"11h27","value":9.635},{"period":"11h28","value":9.637},{"period":"11h29","value":9.637},{"period":"11h30","value":9.64},{"period":"11h31","value":9.639},{"period":"11h32","value":9.634},{"period":"11h33","value":9.637},{"period":"11h34","value":9.637},{"period":"11h35","value":9.641},{"period":"11h36","value":9.64},{"period":"11h37","value":9.637},{"period":"11h38","value":9.638},{"period":"11h39","value":9.643},{"period":"11h40","value":9.642},{"period":"11h41","value":9.641},{"period":"11h42","value":9.644},{"period":"11h43","value":9.644},{"period":"11h44","value":9.643},{"period":"11h45","value":9.642},{"period":"11h46","value":9.642},{"period":"11h47","value":9.642},{"period":"11h48","value":9.64},{"period":"11h49","value":9.64},{"period":"11h50","value":9.64},{"period":"11h51","value":9.64},{"period":"11h52","value":9.64},{"period":"11h53","value":9.639},{"period":"11h54","value":9.639},{"period":"11h55","value":9.641}]},"modifierClasses":"c-chart--height-xs"}}');
         var mergedConfig = $.extend(true, {}, chart.data.amChartConfig, chart.static.amChart);
         var elemSelector = mergedConfig.brs.id ? "#" + mergedConfig.brs.id : '[data-line-chart]';
         $(elemSelector).amCharts(mergedConfig, chart.data.amChartData);
@@ -2835,7 +2835,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-               1 107 919
+               1 152 730
               </span>
              </p>
             </li>
@@ -2861,7 +2861,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </p>
              <p class="c-list-info__value u-color-big-stone">
               <span class="c-instrument c-instrument--tradedate" data-ist-tradedate="">
-               26.01.23 / 11:37:07
+               26.01.23 / 11:55:06
               </span>
              </p>
             </li>
@@ -3200,7 +3200,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
          </li>
         </ul>
        </div>
-       <label class="c-faceplate__accordion-button" for="faceplate-1457341659">
+       <label class="c-faceplate__accordion-button" for="faceplate-451787326">
        </label>
       </div>
      </header>
@@ -3231,10 +3231,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             </div>
             <div class="c-block__body">
              <div class="c-bar">
-              <div class="c-bar__progress" style="width: 44.744119566231%;">
+              <div class="c-bar__progress" style="width: 54.963822899648%;">
               </div>
              </div>
-             <span data-ist="1rPORA" data-ist-init='{"symbol":"1rPORA","variation":0.0030173759234211,"last":9.64,"previousClose":9.611,"high":9.66,"low":9.596,"totalVolume":1107869,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:36:49","category":"STK","decimals":3,"orderbook":{"lines":[{"askNb":4,"askSize":2011,"ask":9.634,"bidNb":4,"bidSize":2230,"bid":9.632},{"askNb":5,"askSize":2818,"ask":9.635,"bidNb":4,"bidSize":2246,"bid":9.631},{"askNb":9,"askSize":5082,"ask":9.636,"bidNb":10,"bidSize":4770,"bid":9.63},{"askNb":11,"askSize":6572,"ask":9.637,"bidNb":8,"bidSize":6716,"bid":9.629},{"askNb":9,"askSize":5112,"ask":9.638,"bidNb":10,"bidSize":9677,"bid":9.628},{"askNb":8,"askSize":4405,"ask":9.639,"bidNb":7,"bidSize":3678,"bid":9.627},{"askNb":7,"askSize":6925,"ask":9.64,"bidNb":6,"bidSize":3106,"bid":9.626},{"askNb":5,"askSize":2528,"ask":9.641,"bidNb":7,"bidSize":3723,"bid":9.625},{"askNb":6,"askSize":16515,"ask":9.642,"bidNb":5,"bidSize":2544,"bid":9.624},{"askNb":3,"askSize":1381,"ask":9.643,"bidNb":4,"bidSize":4510,"bid":9.623}]}}' data-ist-orderbook="">
+             <span data-ist="1rPORA" data-ist-init='{"symbol":"1rPORA","variation":0.0031214233690562,"last":9.641,"previousClose":9.611,"high":9.66,"low":9.596,"totalVolume":1152730,"exchangeCode":"PAR","tradeDate":"2023-01-26 11:55:06","category":"STK","decimals":3,"orderbook":{"lines":[{"askNb":6,"askSize":3319,"ask":9.644,"bidNb":2,"bidSize":1146,"bid":9.642},{"askNb":6,"askSize":3723,"ask":9.645,"bidNb":4,"bidSize":2184,"bid":9.641},{"askNb":10,"askSize":8855,"ask":9.646,"bidNb":6,"bidSize":3424,"bid":9.64},{"askNb":10,"askSize":8771,"ask":9.647,"bidNb":7,"bidSize":4014,"bid":9.639},{"askNb":7,"askSize":3777,"ask":9.648,"bidNb":9,"bidSize":7603,"bid":9.638},{"askNb":8,"askSize":4330,"ask":9.649,"bidNb":6,"bidSize":3136,"bid":9.637},{"askNb":7,"askSize":2655,"ask":9.65,"bidNb":11,"bidSize":9325,"bid":9.636},{"askNb":5,"askSize":2540,"ask":9.651,"bidNb":7,"bidSize":3637,"bid":9.635},{"askNb":4,"askSize":1378,"ask":9.652,"bidNb":8,"bidSize":4279,"bid":9.634},{"askNb":5,"askSize":5032,"ask":9.653,"bidNb":6,"bidSize":15415,"bid":9.633}]}}' data-ist-orderbook="">
               <table class="c-table c-orderbook__table c-table--fixed">
                <thead class="c-table__head">
                 <tr class="c-table__row">
@@ -3283,179 +3283,19 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <tbody class="c-table__body">
                 <tr class="c-table__row u-text-bold" data-ist-orderbook-line="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  4
+                  2
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  2 230
+                  1 146
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6320
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6340
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  2 011
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  4
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  4
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  2 246
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6310
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6350
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  2 818
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  5
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  10
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  4 770
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6300
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6360
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  5 082
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  9
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  8
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  6 716
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6290
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6370
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  6 572
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  11
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  10
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  9 677
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6280
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6380
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  5 112
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  9
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  7
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  3 678
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6270
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6390
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  4 405
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  8
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  6
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  3 106
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6260
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6400
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  6 925
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  7
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  7
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  3 723
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6250
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6410
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  2 528
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  5
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-orderbook-line="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
-                  5
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  2 544
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6240
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
                   9.6420
                  </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6440
+                 </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  16 515
+                  3 319
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
                   6
@@ -3466,29 +3306,189 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   4
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
-                  4 510
+                  2 184
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
-                  9.6230
+                  9.6410
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
-                  9.6430
+                  9.6450
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
-                  1 381
+                  3 723
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
-                  3
+                  6
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  6
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  3 424
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6400
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6460
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  8 855
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  10
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  7
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  4 014
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6390
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6470
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  8 771
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  10
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  9
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  7 603
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6380
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6480
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  3 777
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  7
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  6
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  3 136
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6370
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6490
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  4 330
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  8
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  11
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  9 325
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6360
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6500
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  2 655
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  7
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  7
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  3 637
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6350
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6510
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  2 540
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  5
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  8
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  4 279
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6340
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6520
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  1 378
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  4
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-orderbook-line="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-bid-quantity="">
+                  6
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-size="">
+                  15 415
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-bid-price="">
+                  9.6330
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-price="">
+                  9.6530
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-ask-size="">
+                  5 032
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right" data-ist-ask-quantity="">
+                  5
                  </td>
                 </tr>
                </tbody>
                <tfoot class="c-table__footer">
                 <tr class="c-table__row">
                  <td class="c-table__cell c-table__cell--last u-text-bold u-nopadding-left" data-ist-summary-bid-quantity="">
-                  65
+                  66
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold" data-ist-summary-bid-size="">
-                  43 200
+                  54 163
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold u-text-uppercase">
                   total
@@ -3497,10 +3497,10 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   total
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold" data-ist-summary-ask-size="">
-                  53 349
+                  44 380
                  </td>
                  <td class="c-table__cell c-table__cell--last u-text-bold u-nopadding-right" data-ist-summary-ask-quantity="">
-                  67
+                  68
                  </td>
                 </tr>
                </tfoot>
@@ -4830,7 +4830,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </h2>
                </div>
                <div class="c-block__body">
-                <div class="c-autocomplete" data-autocomplete="1989148028" data-autocomplete-minchars="3" data-autocomplete-url="/bourse/instrument/recherche/">
+                <div class="c-autocomplete" data-autocomplete="901837551" data-autocomplete-minchars="3" data-autocomplete-url="/bourse/instrument/recherche/">
                  <input aria-autocomplete="list" aria-expanded="false" aria-owns="search-autocomplete" autocapitalize="none" autocomplete="off" class="c-autocomplete__input" data-autocomplete-input="" placeholder="Rechercher par ISIN ou par nom..." role="combobox" type="text" value=""/>
                  <ul class="c-autocomplete__results" data-autocomplete-results="" id="search-autocomplete">
                  </ul>
@@ -5286,7 +5286,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                    9.611
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   9.637
+                   9.639
                   </td>
                  </tr>
                  <tr class="c-table__row">
@@ -5306,7 +5306,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                    -0.19%
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny c-table__cell--positive">
-                   0.27%
+                   0.29%
                   </td>
                  </tr>
                  <tr class="c-table__row">
@@ -5386,7 +5386,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                    4 503 131
                   </td>
                   <td class="c-table__cell c-table__cell--dotted c-table__cell--tiny">
-                   1 101 514
+                   1 150 427
                   </td>
                  </tr>
                 </tbody>
@@ -5396,7 +5396,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              <p class="u-pull-right u-text-bold u-nomargin">
               Variation sur 5 jours :
               <span class="u-color-positive">
-               0.67%
+               0.69%
               </span>
              </p>
             </div>
@@ -5900,21 +5900,32 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                <tbody class="c-table__body">
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  11:36:49
+                  11:55:06
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  9.6400
+                  9.6410
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  89
+                  76
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  11:36:49
+                  11:55:06
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  9.6400
+                  9.6410
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
+                  222
+                 </td>
+                </tr>
+                <tr class="c-table__row" data-ist-transaction="">
+                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
+                  11:55:06
+                 </td>
+                 <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
+                  9.6410
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
                   573
@@ -5922,35 +5933,24 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  11:36:49
+                  11:55:06
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  9.6400
+                  9.6410
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  573
+                  427
                  </td>
                 </tr>
                 <tr class="c-table__row" data-ist-transaction="">
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  11:36:49
+                  11:55:00
                  </td>
                  <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
                   9.6400
                  </td>
                  <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  10
-                 </td>
-                </tr>
-                <tr class="c-table__row" data-ist-transaction="">
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-left" data-ist-transaction-date="">
-                  11:36:49
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted" data-ist-transaction-value="">
-                  9.6400
-                 </td>
-                 <td class="c-table__cell c-table__cell--dotted u-nopadding-right u-text-right" data-ist-transaction-volume="">
-                  690
+                  451
                  </td>
                 </tr>
                </tbody>
@@ -6761,14 +6761,14 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             </div>
             <div class="o-list-flex-inline__item o-list-flex-inline__item--grow">
              <div class="c-source c-source--border-left">
-              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/adnstep/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte adnstep" type="button">
-               adnstep
+              <button class="c-link c-link--animated c-link--xx-small c-source__username c-source__username--xx-small" data-popover="true" data-popover-target-class="c-profile-light" data-popover-trigger="click" data-popover-url="/espace-membres/profil/-Paul-/_profil-light" data-tag-commander-click='{"label": "bourse::fiche-action::onglet-cours::derniers-messages-forum", "s2": 2, "type": "navigation"}' title="Afficher les informations du compte -Paulo-" type="button">
+               -Paulo-
               </button>
               <span aria-hidden="true" class="c-source__bullet">
                •
               </span>
               <span class="c-source__time">
-               11:08
+               11:45
               </span>
              </div>
             </div>
@@ -6776,9 +6776,9 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              <div class="c-source">
               <div class="c-source__comments">
                <b>
-                1
+                3
                </b>
-               commentaire
+               commentaires
               </div>
               <div class="c-source__like">
                <span aria-hidden="true" class="c-source__bullet">
@@ -7547,16 +7547,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                CAC 40
               </div>
               <div class="c-ticker__item c-ticker__item--value">
-               7 092.05
+               7 098.23
                <span class="c-ticker__currency">
                 Pts
                </span>
               </div>
               <div class="c-ticker__item c-ticker__item--variation-percent u-color-stream-up">
-               +0.68%
+               +0.77%
               </div>
               <div class="c-ticker__item c-ticker__item--variation-value u-color-stream-up">
-               +48.17
+               +54.35
               </div>
              </li>
             </ul>

@@ -231,19 +231,48 @@ class world:
         liste[len(liste)-2] = temp_1[1] + "R"
         liste[len(liste)-1] = temp_1[2] + "R"
 
-        # Dividende net par action
-        liste_12 = world.clean(world.find("Dividende net par action"),19)
+        # Rendement
+        liste_13 = world.clean(world.find("Dividende net par action")+23,10)
         liste.append("")
         liste.append("")
         liste.append("")
         temp_1 = ""
-        for x in liste_12:
+        for x in liste_13:
+            temp_1 += x
+        temp_1 = temp_1.split("%")
+        liste[len(liste)-3] = temp_1[0] + "%"
+        liste[len(liste)-2] = temp_1[1] + "%"
+        liste[len(liste)-1] = temp_1[2] + "%"
+
+        # Bénéfice net par action
+        liste_14 = world.clean(world.find("Bénéfice net par action"),19)
+        liste.append("")
+        liste.append("")
+        liste.append("")
+        temp_1 = ""
+        for x in liste_14:
             temp_1 += x
         temp_1 = temp_1.split("R")
         liste[len(liste)-3] = temp_1[0] + "R"
         liste[len(liste)-2] = temp_1[1] + "R"
         liste[len(liste)-1] = temp_1[2] + "R"
-        
+
+        # PER
+        liste_15 = world.clean(world.find("Bénéfice net par action")+23,4)
+        liste.append("")
+        for i in range(0,len(liste_15)):
+            liste[len(liste)-1] += str(liste_15[i])
+
+        liste_16 = world.clean(world.find("Bénéfice net par action")+27,2)
+        liste.append("")
+        for i in range(0,len(liste_16)):
+            liste[len(liste)-1] += str(liste_16[i])
+
+        liste_17 = world.clean(world.find("Bénéfice net par action")+29,2)
+        liste.append("")
+        for i in range(0,len(liste_17)):
+            liste[len(liste)-1] += str(liste_17[i])
+
         return liste
 
 
