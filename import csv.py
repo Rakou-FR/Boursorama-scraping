@@ -3,7 +3,7 @@ import scrap as sp
 
 
 class csv:
-    def write(liste):
+    def create(liste,link):
         # list of name, degree, score
         #nom = [liste[len(liste)-1]]
         ouverture = [liste[0]]
@@ -65,10 +65,16 @@ class csv:
             
         df = pd.DataFrame(dict) 
             
-        # saving the dataframe 
-        df.to_csv("GFG.csv") 
+        link = "orange"
+        df.to_csv(str(link)+".csv")
+        return link
+
+        def write_in_created_file():
+            pass
 
 if __name__ == "__main__":
     sp.world.get()
-    csv.write(sp.world.former())
+    print(sp.world.get())
+    temp = sp.world.former()
+    csv.create(sp.world.former())
     print(sp.world.former())
