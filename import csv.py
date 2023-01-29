@@ -63,8 +63,7 @@ class csv:
             }
         
             
-        df = pd.DataFrame(dict) 
-            
+        df = pd.DataFrame(dict)
         link = "orange"
         df.to_csv(str(link)+".csv")
         return link

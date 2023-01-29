@@ -86,7 +86,6 @@ class evolution:
 class world:
     def get():
         # Définir l'URL du site web
-
         try:
             url = "https://www.boursorama.com/cours/1rPCS/"
             
@@ -149,9 +148,35 @@ class world:
 
         # del liste[len(liste)-5:len(liste)]
         return liste
+    
+    def clean_url_liste(a,b):
+        # On commence par ouvrir le fichier texte
+        fichier = open("source_html.txt", "r", encoding="UTF-8")
+
+        # On initialise des variables nécessaires
+        liste = []
+        ligne_debut = int(a)
+        ligne_fin = int(b+a)
+
+        # On lit le fichier ligne par ligne
+        for num_ligne, ligne in enumerate(fichier):
+            # On vérifie si la ligne se trouve entre la ligne de début et celle de fin
+            if ligne_debut <= num_ligne <= ligne_fin:
+                # On parcourt la ligne lettre par lettre
+                for lettre in ligne:
+                    liste.append(lettre)
+        liste.append("")
+        for item in liste:
+            liste[len(liste)-1] += str(item)
+
+        temp = ' '.join(liste)
+
+        # del liste[len(liste)-5:len(liste)]
+        return type(temp)
 
     def name_entreprise(url):
-        name = ""
+        liste_url = []
+        liste_1 = world.clean_url_liste(world.find("Accès rapide SRD"),61)
         
 
     def former():
@@ -289,3 +314,4 @@ class world:
 if __name__ == '__main__':
     world.get()
     print(world.former())
+    print(world.clean_url_liste(world.find("Accès rapide SRD"),61))
