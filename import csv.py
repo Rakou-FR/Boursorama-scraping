@@ -1,5 +1,6 @@
 import pandas as pd 
 import scrap as sp
+import requests
 
 
 class csv:
@@ -68,12 +69,56 @@ class csv:
         df.to_csv(str(link)+".csv")
         return link
 
-        def write_in_created_file():
-            pass
+    def ping(a):
+
+        url = a
+
+        try:
+            response = requests.get(url)
+            status_code = response.status_code
+            if status_code == 200:
+                print('Le statut de la page web est OK.')
+            else:
+                print('Le statut de la page web est incorrect.')
+        except:
+            print('L\'url n\'est pas valide.')
+
+    def find_link():
+        link = []
+        # on commence par ouvrir le fichier texte
+        with open('source_html.txt', 'r', encoding="UTF-8") as f:
+            # on parcourt chaque ligne du fichier 
+            for line in f:
+                # on sépare chaque élément de la ligne
+                words = line.split()
+                # on parcourt chaque mot de la ligne
+                for word in words:
+                    # on vérifie si le mot commence par href="/cours/
+                    if word.startswith('href="/cours/'):
+                        # on affiche le mot
+                        link.append(word)
+
+        link = ' '.join(link)
+        link = link.split('href="')
+        link = ' '.join(link)
+        link = link.split(' ')
+        link = ' '.join(link)
+        link = link.split('"')
+        for element in link:
+            if element == "":
+                link.remove(element)
+        link = ' '.join(link)
+        link = link.split(" ")
+        for element in link:
+            if element == '' or element == ">":
+                link.remove(element)
+        link_clean = []
+        for element in link:
+            if element != "":
+                link_clean.append(element)
+
+        return link_clean
 
 if __name__ == "__main__":
-    sp.world.get()
-    print(sp.world.get())
-    temp = sp.world.former()
-    csv.create(sp.world.former())
-    print(sp.world.former())
+    sp.world.get("https://www.boursorama.com/bourse/actions/cotations/secteur/page-3")
+    print(csv.find_link())

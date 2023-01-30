@@ -84,10 +84,10 @@ class evolution:
 
 
 class world:
-    def get():
+    def get(a):
         # Définir l'URL du site web
         try:
-            url = "https://www.boursorama.com/cours/1rPCS/"
+            url = a
             
             # Récupérer le code source HTML
             r = requests.get(url)
@@ -165,19 +165,39 @@ class world:
                 # On parcourt la ligne lettre par lettre
                 for lettre in ligne:
                     liste.append(lettre)
+
         liste.append("")
         for item in liste:
             liste[len(liste)-1] += str(item)
 
         temp = ' '.join(liste)
+        temp = temp.split("\n")
+        # On commence par créer une nouvelle liste vide
+        liste_sans_espace = []
+        # On parcourt chaque élément de la liste initiale
+        for element in temp:
+            # On enlève chaque espace
+            element_sans_espace = element.replace(" ", "")
+            # On ajoute le nouvel élément à la nouvelle liste
+            liste_sans_espace.append(element_sans_espace)
 
-        # del liste[len(liste)-5:len(liste)]
-        return type(temp)
+        url = []
+        for element in liste_sans_espace:
+            if "</option>" != element:
+                url.append(element)
+        url = url[0:40]
 
-    def name_entreprise(url):
-        liste_url = []
-        liste_1 = world.clean_url_liste(world.find("Accès rapide SRD"),61)
+        nom_societe = []
+        for x in range(1,len(url),2):
+            nom_societe.append(url[x])
         
+        link = []
+        for w in range(0,len(url),2):
+            link.append(url[w])
+        final = link + nom_societe
+        # del liste[len(liste)-5:len(liste)]
+        return final
+        #temp.split("\n"), temp.lstrip()
 
     def former():
         liste = []
