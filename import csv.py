@@ -1,9 +1,11 @@
 import pandas as pd 
 import scrap as sp
 import requests
+import csv
+import os
 
 
-class csv:
+class csv_coodinater:
     def create(liste,link):
         # list of name, degree, score
         #nom = [liste[len(liste)-1]]
@@ -119,6 +121,35 @@ class csv:
 
         return link_clean
 
+    def write_link_csv_save(links):
+        #On définit une liste d'éléments
+        if os.path.exists("links.csv"):
+            old = []
+            with open('links.csv', 'r', encoding="UTF-8") as fichier:
+                # On lit le fichier avec la méthode reader()
+                lecteur = csv.reader(fichier)
+                # On parcourt chaque ligne du fichier
+                for ligne in lecteur:
+                    # On ajoute chaque ligne à la liste
+                    old.append(ligne)
+            links + old
+            #On ouvre le fichier csv en mode ajout
+            with open("links.csv", "a", encoding="UTF-8") as fichier:
+                #On écrit le nouvel élément dans une nouvelle ligne du fichier
+                for element in links:
+                    csv_writer = csv.writer(fichier)
+                    csv_writer.writerow([element])
+        else:
+            with open("links.csv", "w", encoding="UTF-8") as fichier:
+                #On utilise le module csv pour écrire chaque élément de la liste dans une ligne du fichier
+                csv_writer = csv.writer(fichier)
+                for element in links:
+                    csv_writer.writerow([element])
+
+        return links
+
+
 if __name__ == "__main__":
-    sp.world.get("https://www.boursorama.com/bourse/actions/cotations/secteur/page-3")
-    print(csv.find_link())
+    sp.world.get("https://www.boursorama.com/bourse/actions/cotations/secteur/?filter%5Bindustry%5D=0&filter%5BsubmitButton%5D=")
+    print(csv_coodinater.find_link())
+    csv_coodinater.write_link_csv_save(csv_coodinater.find_link())

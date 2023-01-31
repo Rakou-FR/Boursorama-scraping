@@ -10,7 +10,7 @@
   <meta charset="utf-8"/>
   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
   <title>
-   Indice boursier du secteur Industries, page 3 - Boursorama
+   Indice boursier du secteur Pétrole &amp; Gaz - Boursorama
   </title>
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no" name="viewport"/>
   <meta content="DPR, Viewport-Width, Width" http-equiv="Accept-CH"/>
@@ -24,16 +24,14 @@
   <link href="/bundles/boursoramaui/images/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
   <link href="/manifest.json" rel="manifest"/>
   <link color="#5bbad5" href="/bundles/boursoramaui/images/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
-  <link href="/bourse/actions/cotations/secteur/page-2" rel="prev"/>
-  <link href="/bourse/actions/cotations/secteur/page-4" rel="next"/>
   <link href="/search.xml" rel="search" title="Recherche sur Boursorama" type="application/opensearchdescription+xml"/>
   <meta content="/browserconfig.xml" name="msapplication-config"/>
   <meta content="#d20073" name="theme-color"/>
-  <meta content="Retrouvez le cours de l'indice et des valeurs du secteur Industries sur Boursorama, page 3" name="description"/>
+  <meta content="Retrouvez le cours de l'indice et des valeurs du secteur Pétrole &amp; Gaz sur Boursorama" name="description"/>
   <meta content="bourse de Paris, investissement, action CAC 40, Sicav, investir, indices devises, marché boursier, cotations, trackers, warrants, Boursorama" name="keywords"/>
   <meta content="index, follow, all" name="robots"/>
   <meta content="telephone=no" name="format-detection"/>
-  <meta content="bcb4e8dc-9330-406e-9344-fa7dc3316a81" name="uuid"/>
+  <meta content="6da011ef-e334-4152-a1bc-39cbef80ca5f" name="uuid"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-medium-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <link as="font" crossorigin="" href="/bundles/boursoramaui/fonts/proximanova/proxima-nova-bold-subset-webfont-cache-1598605826.woff2" rel="preload" type="font/woff2"/>
   <style>
@@ -59,7 +57,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
   </script>
   <script>
    // json config
-    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6IjNiMTQwYzY1MDdiMmUifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiM2IxNDBjNjUwN2IyZSIsImlhdCI6MTY3NTExNTYxMC4yNjMwMjQsInYiOiIxLjAiLCJzdWIiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwic2NvcGVzIjoiUk9MRV9WSVNJVE9SIiwiY2lkIjoid2ViX2ZyX3BvcnRhbF8yMCIsImV4cCI6MTY3NTExNzQxMH0.QbRoOpxAzBXBHYYtInd6rIcl3MNA-eGzZfqfX69OTTAy78gT_cNZT7Wv7BaqdaRSJG8OMsjAVC9FrwMrbGwgEhehAe_FeRpT2wdzs6tnBKm2ANOvc1eW00Z5MQkCeKrZGhhZopxviK9CkdoFPQz2k1CjJ-9t42QIoeXduLMaBoqETRPaSqSju-zjbmyLqCE_64aJP7p5w9YpEkAOhUo93HlZPTEN0S72kPYjbaXmKa4DHiyWd168gZJlOrJpLPf1lDca2KI5nbD6zYa-DPt5ngBb--W0cxuLzc_W6556I-VfoQ7UIMUTFPpIgdajvcsUN-ih1rMqjsaribc5CdqgvJPyaxH0koM9KV5-Ygux6AAmG2TfiQNT61G9udB7NDEH1BWK33WKLE4j4VhTLvpL_gFxXMKf7GjzVeVaROOX-ZtMzV7mld2orh8ke-7ruvwergIKriSRq0stmYC2vQmY8Gs6FsjoDLcBPZSWAP14Q_0tZWYEifiY2fU9OSwAZKn6v7ET-2eaiDfZDmH04unGi38ttSlf3wJOxOy9GHfiiBaneZme7nZ-e4lInCgyAGzC555w3vqlCiWm0bBKsz5J4LzSehkW8Gv4RMNC0daZ2Us1jmB8y4_y1bdHgOyhccfrwPq7P-GwLNFTonhjkbDPMn6aDhJl-hTL1EaB9gSCnws","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
+    window.BRS_CONFIG = {"API_HOST":"api.boursorama.com","API_PATH":"\/services\/api\/v1.7","API_ENV":"prod","API_REFERER_FEATURE_ID":"portal.global_javascript.web_fr_portal_20","SUBSCRIPTION_HOST":"ouvrir-un-compte.boursorama-banque.com","DEBUG":false,"ENABLE_PROFILER":false,"CRASH_REPORT_AGENT":true,"JWT_TOKEN_ID":"brsxds_d6e4a9b6646c62fc48baa6dd6150d1f7","DEFAULT_JWT":{"default":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6InJlZ2lzdHJ5LTAwMSIsImp0aSI6ImJkYzdjN2RjYmM0ZDMifQ.eyJpc3MiOiJhdXRoLmJvdXJzb3JhbWEuY29tIiwianRpIjoiYmRjN2M3ZGNiYzRkMyIsImlhdCI6MTY3NTIwMDM3NC4zMDU4OTMsInYiOiIxLjAiLCJzdWIiOiJ3ZWJfZnJfcG9ydGFsXzIwIiwic2NvcGVzIjoiUk9MRV9WSVNJVE9SIiwiY2lkIjoid2ViX2ZyX3BvcnRhbF8yMCIsImV4cCI6MTY3NTIwMjE3NH0.1JRa9GQSYY16KfXTfzaunpeJAgz2YCa0n5_CJbnJOqkd_H1sBupkPPxjkhvbmWFgyNAnc11ieI1TR25-_PAFPcxfAx1ySlRO6rXmLzXugwpPPDOW785q5QcI9UnPLz50DTXiUW_b-bv2-2ohTzbRncqhiPOZ21RNVGzWJ7gGnp5b75YcuiPAmkhUQbyFzPM-bhq_I-NoHHN0-kBlJKbQwyJdMz-LjM4OqcKR3BFBKAeq6tWCa9tbr2lSq8lr6Q_YQjoJIEobbO-wUaYP00X98Eq52KQxKmoZ_ksVpJtBJk4Eo8mT1L8d0Di9IJVRSG1lb86hy16hKZAvT-LXxzCzc55EzNmrVKtG_3nRe3WXiotdFegzQcYU2NdoTQOrbDrEF5xcu93KA0OXfBWgRBBcPg1rloV3g9g6IHfBZlzH0mbHBdKDDOjGpRP9fNTsVfKYJBBzLzCPi_nKoPQo7T5MCs9N7y2eVMko8sGPk5ljj75_VPCmzMOpi2vdhzw5WmMcx06SWTHLiUCiRvdcVLY6-Lvr3EnIUggM-BauCAdyZZeqVYgwyoYaCRDaJ2EANf20t8D17SPnrwjZbOd978PHuBV5EG4ZHRDLGJo7BoQVpZPZe3bMmVd3rGbuELAhS3YezW8Gh782pOp1zhbdYQBBfO56XDGK9dbGfQmHkVBFzPA","mortgage-simulator":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJTMjU2In0.eyJqdGkiOiJiZTAwYzUxMTJlMTU4Iiwic3ViIjoid2ViX2ZyX21vcnRnYWdlc2ltdWxhdG9yXzAxIiwiYXVkIjoiYm91cnNvcmFtYS5jb20iLCJleHAiOjE4OTg4NjI2OTQsImlhdCI6MTU4MzUwMjY5NCwibmJmIjoxNTgzNTAyNjk0LCJzZXNzaW9uIjp7fSwiaXNzIjoiQWRtaW4gSldUIEJvdXJzb3JhbWEiLCJvcmciOiJNT1JUR0FHRV9TSU1VTEFUT1IiLCJvYXV0aCI6IjRmMTcwMDI2MjAxYTk0Y2MyYTI5MTZlMDEzOTYwOGMyNDBmYjFkZGIifQ.rapLejRfzsJUUOB-I61506dbaRCAse6Li2SqWz6KeG5XpINp_VQwqBJi0irz-HQ6zK0ITDMmQowZ1cHPtNeinx3rOSI-l2sRu-KamIy5Bn6pL9RrREjYhjeRe2HhHRm25v29Irj4yUnTkV08CE9CJ32axipOi8Eq1W_J68xvasKZ6o0Tt6DxQ6MAGF-nyG1Lj7gVgsofYNnWi2q1W37Kglmz1rW4schk8wDkNzgTBRvAVkHoS33h0aJEaHF_SrZUoaG9KkwtXIw2x69C42gSumIDgrPMjxepnSW7Uh2Xy7OcwBaPy2T6DXBY1rwAIG-IQbTrHuUeqV8U9rlfE6JBtg"},"app_customer_website_host":"clients.boursorama.com","app_portal_website_host":"www.boursorama.com","app_new_portal_website_host":"www.boursorama.com","USER_HASH":null};
     window.BRS_CONFIG.orderframeCSSPath = "/build/9559.c280d540f1f8fd198549.css";
     window.BRS_CONFIG.orderframeJSPath = '/build/orderframe.js?md5=fe2b6d6b3186f7252c4265d237514f74';
 
@@ -183,7 +181,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         </div>
         <div>
          <span class="c-instrument c-instrument--last" data-ist-last="">
-          27 433.40
+          27 327.11
          </span>
         </div>
         <div class="u-color-stream-up">
@@ -2276,7 +2274,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
    <section class="l-header__tradingboard">
     <div class="c-tradingboard">
      <div class="c-tradingboard__main">
-      <div class="c-tradingboard__infos" data-ist="1xN225" data-ist-init='{"symbol":"1xN225","variation":0,"last":27433.4,"previousClose":27433.4,"high":27486.42,"low":27337.25,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-30 07:00:01","category":"IND","decimals":2}'>
+      <div class="c-tradingboard__infos" data-ist="1xN225" data-ist-init='{"symbol":"1xN225","variation":0,"last":27327.11,"previousClose":27327.11,"high":27494.17,"low":27302.22,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-31 07:00:01","category":"IND","decimals":2}'>
        <div class="c-tradingboard__label">
         <a class="c-tradingboard__link" href="/bourse/indices/cours/1xN225/" title="Fiche valeur Nikkei 225">
          Nikkei 225
@@ -2284,7 +2282,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
        </div>
        <div class="c-tradingboard__value">
         <span class="c-instrument c-instrument--last" data-ist-last="">
-         27 433.40
+         27 327.11
         </span>
        </div>
        <div class="c-tradingboard__fluctuation">
@@ -2300,72 +2298,72 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         Indices
        </span>
        <ul class="c-list-trading c-list-trading--half@lg-min" role="list">
-        <li class="c-list-trading__line" data-ist="1bPFCEFEB23" data-ist-init='{"symbol":"1bPFCEFEB23","variation":-0.0037295053127859,"last":7079,"previousClose":7105.5,"high":7129,"low":6474.5,"totalVolume":50745,"exchangeCode":"MNP","tradeDate":"2023-01-30 21:59:58","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="CAC FEB 23 7 079.00 -0.37% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours/1bPFCEFEB23/">
+        <li class="c-list-trading__line" data-ist="1bPFCEFEB23" data-ist-init='{"symbol":"1bPFCEFEB23","variation":0.0050066991044355,"last":7126,"previousClose":7090.5,"high":7129.5,"low":6474.5,"totalVolume":56658,"exchangeCode":"MNP","tradeDate":"2023-01-31 21:59:58","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="CAC FEB 23 7 126.00 +0.50% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours/1bPFCEFEB23/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            CAC FEB 23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            7 079.00
+            7 126.00
            </span>
           </div>
-          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
+          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -0.37%
+            +0.50%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line" data-ist="_NQ3H" data-ist-init='{"symbol":"\/NQ3H","variation":-0.019085999509042,"last":11987.75,"previousClose":12221,"high":12252,"low":11960,"totalVolume":625690,"exchangeCode":"CME","tradeDate":"2023-01-30 22:55:12","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="NASDAQ MAR23 11 987.75 -1.91% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3H/">
+        <li class="c-list-trading__line" data-ist="_NQ3H" data-ist-init='{"symbol":"\/NQ3H","variation":0.011239703889063,"last":12123.5,"previousClose":11988.75,"high":12156,"low":11871,"totalVolume":575329,"exchangeCode":"CME","tradeDate":"2023-01-31 22:21:37","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="NASDAQ MAR23 12 123.50 +1.12% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3H/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            NASDAQ MAR23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            11 987.75
+            12 123.50
            </span>
           </div>
-          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
+          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -1.91%
+            +1.12%
            </span>
           </div>
          </a>
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half@lg-min c-list-trading--hide@md-max" role="list">
-        <li class="c-list-trading__line" data-ist="_ES3H" data-ist-init='{"symbol":"\/ES3H","variation":-0.01101860920666,"last":4039,"previousClose":4084,"high":4086,"low":4029.5,"totalVolume":1729735,"exchangeCode":"CME","tradeDate":"2023-01-30 22:55:09","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="MINI S&amp;P MAR23 4 039.00 -1.10% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//ES3H/">
+        <li class="c-list-trading__line" data-ist="_ES3H" data-ist-init='{"symbol":"\/ES3H","variation":0.011510613280525,"last":4086.25,"previousClose":4039.75,"high":4091.25,"low":4007.5,"totalVolume":1692428,"exchangeCode":"CME","tradeDate":"2023-01-31 22:21:38","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="MINI S&amp;P MAR23 4 086.25 +1.15% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//ES3H/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            MINI S&amp;P MAR23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            4 039.00
+            4 086.25
            </span>
           </div>
-          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
+          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -1.10%
+            +1.15%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line" data-ist="_NQ3M" data-ist-init='{"symbol":"\/NQ3M","variation":-0.019129167425761,"last":12114,"previousClose":12350.25,"high":12378,"low":12087.5,"totalVolume":810,"exchangeCode":"CME","tradeDate":"2023-01-30 22:05:21","category":"FUT","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="NASDAQ JUN23 12 114.00 -1.91% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3M/">
+        <li class="c-list-trading__line" data-ist="_NQ3M" data-ist-init='{"symbol":"\/NQ3M","variation":0.010896483407628,"last":12246,"previousClose":12114,"high":12280.75,"low":12002,"totalVolume":587,"exchangeCode":"CME","tradeDate":"2023-01-31 22:19:18","category":"FUT","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="NASDAQ JUN23 12 246.00 +1.09% : fiche valeur" class="c-list-trading__link" href="/bourse/indices/futures/cours//NQ3M/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            NASDAQ JUN23
           </div>
           <div class="c-list-trading__item c-list-trading__item--value / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            12 114.00
+            12 246.00
            </span>
           </div>
-          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
+          <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -1.91%
+            +1.09%
            </span>
           </div>
          </a>
@@ -2379,27 +2377,27 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         Chiffres-clés
        </span>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="8xBRN" data-ist-init='{"symbol":"8xBRN","variation":-0.014710992702421,"last":85.06,"previousClose":86.33,"high":87.48,"low":84.66,"totalVolume":56611,"exchangeCode":"ICE","tradeDate":"2023-01-30 22:50:07","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="Pétrole Brent 85,06  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/8xBRN/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="8xBRN" data-ist-init='{"symbol":"8xBRN","variation":-0.013085640845893,"last":84.47,"previousClose":85.59,"high":85.25,"low":83.73,"totalVolume":11547,"exchangeCode":"ICE","tradeDate":"2023-01-31 20:29:58","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="Pétrole Brent 84,47  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/8xBRN/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            Pétrole Brent
           </div>
           <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            85,06
+            84,47
            </span>
            $US
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="_GC" data-ist-init='{"symbol":"_GC","variation":-0.0028359601824969,"last":1923.33,"previousClose":1928.8,"high":1934.35,"low":1920.84,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-30 23:05:11","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="ONCE D'OR 1 923,33  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/_GC/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="_GC" data-ist-init='{"symbol":"_GC","variation":0,"last":1928.2,"previousClose":1928.2,"high":1930.99,"low":1901.04,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-31 22:31:31","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="ONCE D'OR 1 928,20  : fiche valeur" class="c-list-trading__link" href="/bourse/matieres-premieres/cours/_GC/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            ONCE D'OR
           </div>
-          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
+          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            1 923,33
+            1 928,20
            </span>
            $US
           </div>
@@ -2407,27 +2405,27 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1xEURUS" data-ist-init='{"symbol":"1xEURUS","variation":-0.0010119129754842,"last":1.08595,"previousClose":1.08705,"high":1.09155,"low":1.08393,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-30 23:04:38","category":"SPT","decimals":4}' data-list-trading-symbol="">
-         <a aria-label="EUR/USD 1,0860  : fiche valeur" class="c-list-trading__link" href="/bourse/devises/taux-de-change-euro-dollar-EUR-USD/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1xEURUS" data-ist-init='{"symbol":"1xEURUS","variation":0.001206983922237,"last":1.08666,"previousClose":1.08535,"high":1.08765,"low":1.08021,"totalVolume":0,"exchangeCode":"FX1","tradeDate":"2023-01-31 22:31:24","category":"SPT","decimals":4}' data-list-trading-symbol="">
+         <a aria-label="EUR/USD 1,0867  : fiche valeur" class="c-list-trading__link" href="/bourse/devises/taux-de-change-euro-dollar-EUR-USD/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            EUR/USD
           </div>
-          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
+          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            1,0860
+            1,0867
            </span>
            $US
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1cVIX" data-ist-init='{"symbol":"1cVIX","variation":0.077255537547272,"last":19.94,"previousClose":18.51,"high":20.25,"low":19.54,"totalVolume":0,"exchangeCode":"CBO","tradeDate":"2023-01-30 22:15:01","category":"IND","decimals":2}' data-list-trading-symbol="">
-         <a aria-label="VIX INDEX 19,94  : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1cVIX/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1cVIX" data-ist-init='{"symbol":"1cVIX","variation":-0.027081243731194,"last":19.4,"previousClose":19.94,"high":20.7,"low":19.13,"totalVolume":0,"exchangeCode":"CBO","tradeDate":"2023-01-31 22:15:01","category":"IND","decimals":2}' data-list-trading-symbol="">
+         <a aria-label="VIX INDEX 19,40  : fiche valeur" class="c-list-trading__link" href="/bourse/indices/cours/1cVIX/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
            VIX INDEX
           </div>
-          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-up / u-ellipsis">
+          <div class="c-list-trading__item c-list-trading__item--value u-color-stream-down / u-ellipsis">
            <span class="c-instrument c-instrument--last" data-ist-last="">
-            19,94
+            19,40
            </span>
            $US
           </div>
@@ -2442,52 +2440,52 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
         + fortes hausses et baisses SBF 120
        </span>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPATE" data-ist-init='{"symbol":"1rPATE","variation":0.018037518037518,"last":141.1,"previousClose":138.6,"high":143.2,"low":139.3,"totalVolume":45249,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:29","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="ALTEN  +1.80% : fiche valeur" class="c-list-trading__link" href="/cours/1rPATE/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPSK" data-ist-init='{"symbol":"1rPSK","variation":0.079391891891892,"last":95.85,"previousClose":88.8,"high":97,"low":93.95,"totalVolume":162842,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:36:34","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="SEB  +7.94% : fiche valeur" class="c-list-trading__link" href="/cours/1rPSK/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           ALTEN
+           SEB
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +1.80%
+            +7.94%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPHO" data-ist-init='{"symbol":"1rPHO","variation":0.015663643858203,"last":123.2,"previousClose":121.3,"high":123.75,"low":120.9,"totalVolume":234996,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:36:40","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="THALES  +1.57% : fiche valeur" class="c-list-trading__link" href="/cours/1rPHO/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPEAPI" data-ist-init='{"symbol":"1rPEAPI","variation":0.07070340826686,"last":14.765,"previousClose":13.79,"high":14.77,"low":14.04,"totalVolume":771050,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:04","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="EUROAPI  +7.07% : fiche valeur" class="c-list-trading__link" href="/cours/1rPEAPI/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           THALES
+           EUROAPI
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-up u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            +1.57%
+            +7.07%
            </span>
           </div>
          </a>
         </li>
        </ul>
        <ul class="c-list-trading c-list-trading--half" role="list">
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPELIOR" data-ist-init='{"symbol":"1rPELIOR","variation":-0.089867310012063,"last":3.018,"previousClose":3.316,"high":3.22,"low":2.94,"totalVolume":3512509,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:38:58","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="ELIOR GROUP  -8.99% : fiche valeur" class="c-list-trading__link" href="/cours/1rPELIOR/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPMMT" data-ist-init='{"symbol":"1rPMMT","variation":-0.041284403669725,"last":14.63,"previousClose":15.26,"high":15,"low":14.28,"totalVolume":172625,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:01","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="M6 METROPOLE TELE.  -4.13% : fiche valeur" class="c-list-trading__link" href="/cours/1rPMMT/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           ELIOR GROUP
+           M6 METROPOLE TELE.
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -8.99%
+            -4.13%
            </span>
           </div>
          </a>
         </li>
-        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPDEC" data-ist-init='{"symbol":"1rPDEC","variation":-0.05672461116194,"last":20.62,"previousClose":21.86,"high":21.74,"low":20.54,"totalVolume":194438,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:29","category":"STK","decimals":3}' data-list-trading-symbol="">
-         <a aria-label="JCDECAUX  -5.67% : fiche valeur" class="c-list-trading__link" href="/cours/1rPDEC/">
+        <li class="c-list-trading__line c-list-trading__line--half" data-ist="1rPFDJ" data-ist-init='{"symbol":"1rPFDJ","variation":-0.037046123650638,"last":39.25,"previousClose":40.76,"high":40.1,"low":38.35,"totalVolume":365953,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:27","category":"STK","decimals":3}' data-list-trading-symbol="">
+         <a aria-label="FDJ  -3.70% : fiche valeur" class="c-list-trading__link" href="/cours/1rPFDJ/">
           <div class="c-list-trading__item c-list-trading__item--name / u-ellipsis">
-           JCDECAUX
+           FDJ
           </div>
           <div class="c-list-trading__item c-list-trading__item--variation u-color-stream-down u-text-nowrap">
            <span class="c-instrument c-instrument--variation" data-ist-variation="">
-            -5.67%
+            -3.70%
            </span>
           </div>
          </a>
@@ -2575,7 +2573,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
      <div class="l-basic-page__sticky-container" data-sticky-container="">
       <div class="l-basic-page__main">
        <h1 class="c-title">
-        Cotations par secteur en direct - Industries - Page 3
+        Cotations par secteur en direct - Pétrole &amp; Gaz
        </h1>
        <form method="get" name="filter">
         <h2 class="c-heading / o-flag o-flag--x-small">
@@ -2593,13 +2591,13 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            <option value="3">
             Biens de consommation
            </option>
-           <option selected="" value="2">
+           <option value="2">
             Industries
            </option>
            <option value="1">
             Matériaux de base
            </option>
-           <option value="0">
+           <option selected="" value="0">
             Pétrole et gaz
            </option>
            <option value="4">
@@ -3668,12 +3666,12 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
        </div>
        <div class="c-banner is-negative">
         <div class="c-banner__info">
-         <a class="c-banner__label / o-ellipsis" href="/bourse/indices/cours/1rPFRIN/" title="Accéder à la fiche valeur Industries">
-          Industries
+         <a class="c-banner__label / o-ellipsis" href="/bourse/indices/cours/1rPFROG/" title="Accéder à la fiche valeur Pétrole &amp; Gaz">
+          Pétrole &amp; Gaz
          </a>
          <div class="c-banner__fluctuation">
           <span class="c-banner__points">
-           2 581.70
+           1 016.14
            <span class="c-banner__unit">
             Pts
            </span>
@@ -3681,12 +3679,12 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
          </div>
          <div class="c-banner__fluctuation">
           <span class="u-color-stream-down">
-           -0.46%
+           -1.52%
           </span>
          </div>
         </div>
         <div class="c-banner__link">
-         <a class="c-link c-link--animated" href="/bourse/indices/cours/1rPFRIN/" title="Accéder à la fiche valeur Industries">
+         <a class="c-link c-link--animated" href="/bourse/indices/cours/1rPFROG/" title="Accéder à la fiche valeur Pétrole &amp; Gaz">
           Accéder à la fiche valeur
          </a>
         </div>
@@ -3701,16 +3699,16 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             <div class="o-flag__body">
              <div class="o-flag o-flag--reverse o-flag--x-small / c-heading__main">
               <span class="c-heading__text / o-flag__body">
-               Évolution de l'indice du secteur Industries
+               Évolution de l'indice du secteur Pétrole &amp; Gaz
               </span>
              </div>
             </div>
            </h2>
           </div>
           <div class="c-block__body">
-           <div class="c-quote-chart c-quote-chart--full-height c-quote-chart--no-main-infos" data-brs-quote-chart-simple="" id="eod_container1018559191">
+           <div class="c-quote-chart c-quote-chart--full-height c-quote-chart--no-main-infos" data-brs-quote-chart-simple="" id="eod_container124996405">
             <!-- rchart canvas container -->
-            <div class="eod_container eod_container--full eod_container--fixed-height-md" data-brs-quote-chart-eod-container="" id="eod_container1018559191-container">
+            <div class="eod_container eod_container--full eod_container--fixed-height-md" data-brs-quote-chart-eod-container="" id="eod_container124996405-container">
              <div class="c-quote-chart__loader">
               <div class="c-loader-arrow c-loader-arrow--full-height">
                <span aria-busy="true" aria-live="polite" class="u-sr-only" role="alert">
@@ -3724,7 +3722,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            <script>
             $(function($) {
         var VGP = {
-            "symbol": "1rPFRIN",
+            "symbol": "1rPFROG",
             "$graph": [],
             "urlWS": "/bourse/action/graph/ws/",
             "saveTrace": false,
@@ -3772,7 +3770,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             }
         };
 
-        $('#eod_container1018559191').brsQuoteChart(config);
+        $('#eod_container124996405').brsQuoteChart(config);
 
             });
            </script>
@@ -3789,7 +3787,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              <div class="o-flag__body">
               <div class="o-flag o-flag--reverse o-flag--x-small / c-heading__main">
                <span class="c-heading__text / o-flag__body">
-                Palmarès Industries
+                Palmarès Pétrole et gaz
                </span>
               </div>
              </div>
@@ -3819,7 +3817,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                 </tr>
                </thead>
                <tbody class="c-table__body">
-                <tr class="c-table__row" data-ist="1rPMLCLP_OTC" data-ist-init='{"symbol":"1rPMLCLP-OTC","variation":0.12903225806452,"last":7,"previousClose":6.2,"high":7,"low":7,"totalVolume":160,"exchangeCode":"PAR","tradeDate":"2023-01-30 16:40:48","category":"STK","decimals":3}'>
+                <tr class="c-table__row" data-ist="1rPMLWEY_OTC" data-ist-init='{"symbol":"1rPMLWEY-OTC","variation":0.30833333333333,"last":1.57,"previousClose":1.2,"high":1.57,"low":1.57,"totalVolume":1,"exchangeCode":"PAR","tradeDate":"2023-01-31 16:30:01","category":"STK","decimals":3}'>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__label-column u-text-uppercase">
                   <div class="o-pack o-pack--middle">
                    <div class="o-pack__item c-table__wrapper-icon">
@@ -3827,24 +3825,24 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                     </i>
                    </div>
                    <div class="o-pack__item u-ellipsis u-color-cerulean">
-                    <a class="c-link c-link--animated" href="/cours/1rPMLCLP-OTC/" title="Colipays">
-                     Colipays
+                    <a class="c-link c-link--animated" href="/cours/1rPMLWEY-OTC/" title="WEYA">
+                     WEYA
                     </a>
                    </div>
                   </div>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__last-exchange-column">
                   <span class="c-instrument c-instrument--last" data-ist-last="">
-                   7.000
+                   1.570
                   </span>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__variation-column c-table__cell--positive">
                   <span class="c-instrument c-instrument--instant-variation" data-ist-instant-variation="">
-                   12.90%
+                   30.83%
                   </span>
                  </td>
                 </tr>
-                <tr class="c-table__row" data-ist="1rEPALTRI" data-ist-init='{"symbol":"1rEPALTRI","variation":0.12869198312236,"last":5.35,"previousClose":4.74,"high":5.35,"low":5.35,"totalVolume":100,"exchangeCode":"PAR","tradeDate":"2023-01-30 11:30:28","category":"STK","decimals":3}'>
+                <tr class="c-table__row" data-ist="1rPALHRS" data-ist-init='{"symbol":"1rPALHRS","variation":0.044327573253193,"last":27.8,"previousClose":26.62,"high":28.2,"low":26.74,"totalVolume":26469,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:23","category":"STK","decimals":3}'>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__label-column u-text-uppercase">
                   <div class="o-pack o-pack--middle">
                    <div class="o-pack__item c-table__wrapper-icon">
@@ -3852,24 +3850,24 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                     </i>
                    </div>
                    <div class="o-pack__item u-ellipsis u-color-cerulean">
-                    <a class="c-link c-link--animated" href="/cours/1rEPALTRI/" title="TRILOGIQ">
-                     TRILOGIQ
+                    <a class="c-link c-link--animated" href="/cours/1rPALHRS/" title="HRS (HYDROGEN REFUELING SOL.)">
+                     HRS (HYDROGEN REFUELING SOL.)
                     </a>
                    </div>
                   </div>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__last-exchange-column">
                   <span class="c-instrument c-instrument--last" data-ist-last="">
-                   5.350
+                   27.800
                   </span>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__variation-column c-table__cell--positive">
                   <span class="c-instrument c-instrument--instant-variation" data-ist-instant-variation="">
-                   12.87%
+                   4.43%
                   </span>
                  </td>
                 </tr>
-                <tr class="c-table__row" data-ist="1rPGPE" data-ist-init='{"symbol":"1rPGPE","variation":0.048780487804878,"last":43,"previousClose":41,"high":43,"low":41.2,"totalVolume":953,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:17","category":"STK","decimals":3}'>
+                <tr class="c-table__row" data-ist="1rPMCPHY" data-ist-init='{"symbol":"1rPMCPHY","variation":0.020475319926874,"last":13.955,"previousClose":13.675,"high":14.04,"low":13.54,"totalVolume":57991,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:25","category":"STK","decimals":3}'>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__label-column u-text-uppercase">
                   <div class="o-pack o-pack--middle">
                    <div class="o-pack__item c-table__wrapper-icon">
@@ -3877,24 +3875,24 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                     </i>
                    </div>
                    <div class="o-pack__item u-ellipsis u-color-cerulean">
-                    <a class="c-link c-link--animated" href="/cours/1rPGPE/" title="GPE PIZZORNO ENVI">
-                     GPE PIZZORNO ENVI
+                    <a class="c-link c-link--animated" href="/cours/1rPMCPHY/" title="MCPHY ENERGY">
+                     MCPHY ENERGY
                     </a>
                    </div>
                   </div>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__last-exchange-column">
                   <span class="c-instrument c-instrument--last" data-ist-last="">
-                   43.000
+                   13.955
                   </span>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__variation-column c-table__cell--positive">
                   <span class="c-instrument c-instrument--instant-variation" data-ist-instant-variation="">
-                   4.88%
+                   2.05%
                   </span>
                  </td>
                 </tr>
-                <tr class="c-table__row" data-ist="1rPMLOCT" data-ist-init='{"symbol":"1rPMLOCT","variation":-0.21276595744681,"last":0.37,"previousClose":0.47,"high":0.4,"low":0.37,"totalVolume":4777,"exchangeCode":"PAR","tradeDate":"2023-01-30 16:30:25","category":"STK","decimals":3}'>
+                <tr class="c-table__row" data-ist="1rPALVER" data-ist-init='{"symbol":"1rPALVER","variation":-0.27940492794049,"last":0.31,"previousClose":0.4302,"high":0.438,"low":0.3,"totalVolume":800770,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:26","category":"STK","decimals":3}'>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__label-column u-text-uppercase">
                   <div class="o-pack o-pack--middle">
                    <div class="o-pack__item c-table__wrapper-icon">
@@ -3902,24 +3900,24 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                     </i>
                    </div>
                    <div class="o-pack__item u-ellipsis u-color-cerulean">
-                    <a class="c-link c-link--animated" href="/cours/1rPMLOCT/" title="OCTOPUS BIOSAF">
-                     OCTOPUS BIOSAF
+                    <a class="c-link c-link--animated" href="/cours/1rPALVER/" title="VERGNET">
+                     VERGNET
                     </a>
                    </div>
                   </div>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__last-exchange-column">
                   <span class="c-instrument c-instrument--last" data-ist-last="">
-                   0.370
+                   0.310
                   </span>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__variation-column c-table__cell--negative">
                   <span class="c-instrument c-instrument--instant-variation" data-ist-instant-variation="">
-                   -21.28%
+                   -27.94%
                   </span>
                  </td>
                 </tr>
-                <tr class="c-table__row" data-ist="1rPALDR" data-ist-init='{"symbol":"1rPALDR","variation":-0.13333333333333,"last":0.0013,"previousClose":0.0015,"high":0.0015,"low":0.0011,"totalVolume":43858474,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:19","category":"STK","decimals":3}'>
+                <tr class="c-table__row" data-ist="1rPES" data-ist-init='{"symbol":"1rPES","variation":-0.042145593869732,"last":50,"previousClose":52.2,"high":51.6,"low":49.7,"totalVolume":15842,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:20","category":"STK","decimals":3}'>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__label-column u-text-uppercase">
                   <div class="o-pack o-pack--middle">
                    <div class="o-pack__item c-table__wrapper-icon">
@@ -3927,24 +3925,24 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                     </i>
                    </div>
                    <div class="o-pack__item u-ellipsis u-color-cerulean">
-                    <a class="c-link c-link--animated" href="/cours/1rPALDR/" title="DELTA DRONE">
-                     DELTA DRONE
+                    <a class="c-link c-link--animated" href="/cours/1rPES/" title="ESSO">
+                     ESSO
                     </a>
                    </div>
                   </div>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__last-exchange-column">
                   <span class="c-instrument c-instrument--last" data-ist-last="">
-                   0.001
+                   50.000
                   </span>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__variation-column c-table__cell--negative">
                   <span class="c-instrument c-instrument--instant-variation" data-ist-instant-variation="">
-                   -13.33%
+                   -4.21%
                   </span>
                  </td>
                 </tr>
-                <tr class="c-table__row" data-ist="1rPALAMA" data-ist-init='{"symbol":"1rPALAMA","variation":-0.12297734627832,"last":0.542,"previousClose":0.618,"high":0.64,"low":0.542,"totalVolume":30817,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:27","category":"STK","decimals":3}'>
+                <tr class="c-table__row" data-ist="1rPALENE" data-ist-init='{"symbol":"1rPALENE","variation":-0.028571428571429,"last":1.36,"previousClose":1.4,"high":1.38,"low":1.352,"totalVolume":17456,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:18:24","category":"STK","decimals":3}'>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__label-column u-text-uppercase">
                   <div class="o-pack o-pack--middle">
                    <div class="o-pack__item c-table__wrapper-icon">
@@ -3952,20 +3950,20 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                     </i>
                    </div>
                    <div class="o-pack__item u-ellipsis u-color-cerulean">
-                    <a class="c-link c-link--animated" href="/cours/1rPALAMA/" title="AMA CORP">
-                     AMA CORP
+                    <a class="c-link c-link--animated" href="/cours/1rPALENE/" title="ENERTIME">
+                     ENERTIME
                     </a>
                    </div>
                   </div>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__last-exchange-column">
                   <span class="c-instrument c-instrument--last" data-ist-last="">
-                   0.542
+                   1.360
                   </span>
                  </td>
                  <td class="c-table__cell c-table__cell--dotted c-table-top-flop__variation-column c-table__cell--negative">
                   <span class="c-instrument c-instrument--instant-variation" data-ist-instant-variation="">
-                   -12.30%
+                   -2.86%
                   </span>
                  </td>
                 </tr>
@@ -3974,7 +3972,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
              </div>
             </div>
             <div class="c-block__foot">
-             <a class="c-link c-link--animated" href="/bourse/actions/palmares/france/?france_filter%5Bsector%5D=2&amp;france_filter%5Bvariation%5D=50001&amp;france_filter%5Bperiod%5D=1&amp;autoscroll=0" title="Accéder au palmarès complet du secteur Industries">
+             <a class="c-link c-link--animated" href="/bourse/actions/palmares/france/?france_filter%5Bsector%5D=0&amp;france_filter%5Bvariation%5D=50001&amp;france_filter%5Bperiod%5D=1&amp;autoscroll=0" title="Accéder au palmarès complet du secteur Pétrole &amp; Gaz">
               Accéder au palmarès complet
              </a>
             </div>
@@ -3992,7 +3990,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            <div class="o-flag__body">
             <div class="o-flag o-flag--reverse o-flag--x-small / c-heading__main">
              <span class="c-heading__text / o-flag__body">
-              Valeurs du secteur INDUSTRIES
+              Valeurs du secteur PÉTROLE ET GAZ
              </span>
             </div>
            </div>
@@ -4047,7 +4045,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
               </tr>
              </thead>
              <tbody class="c-table__body">
-              <tr class="c-table__row" data-ist="1rPALFPC" data-ist-init='{"symbol":"1rPALFPC","variation":-0.0016260162601626,"last":122.8,"previousClose":123,"high":123,"low":122.2,"totalVolume":289,"exchangeCode":"PAR","tradeDate":"2023-01-30 16:41:46","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPALAGP" data-ist-init='{"symbol":"1rPALAGP","variation":-0.0047562425683711,"last":8.37,"previousClose":8.41,"high":8.42,"low":8.31,"totalVolume":2720,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:29:45","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -4055,47 +4053,148 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALFPC/" title="Cours de FOUNTAINE PAJOT">
-                   FOUNTAINE PAJOT
+                  <a class="c-link c-link--animated" href="/cours/1rPALAGP/" title="Cours de AGRIPOWER">
+                   AGRIPOWER
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 122.800
+                 8.370
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.16%
+                 -0.48%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 122.800
+                 8.410
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 123.000
+                 8.420
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 122.200
+                 8.310
                 </span>
                </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +8.10%
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                -0.36%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 289
+                 2 720
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rEPALFRE" data-ist-init='{"symbol":"1rEPALFRE","variation":-0.0014084507042253,"last":7.09,"previousClose":7.1,"high":7.1,"low":7.07,"totalVolume":8600,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:21:21","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPCGG" data-ist-init='{"symbol":"1rPCGG","variation":0.00051679586563302,"last":0.7744,"previousClose":0.774,"high":0.7788,"low":0.76,"totalVolume":4321501,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:07","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item c-table__wrapper-srd">
+                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
+                   SRD
+                  </span>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPCGG/" title="Cours de CGG">
+                   CGG
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 0.774
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +0.05%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 0.773
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 0.779
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 0.760
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +28.08%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 4 321 501
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPALESA" data-ist-init='{"symbol":"1rPALESA","variation":0.0074441687344912,"last":8.12,"previousClose":8.06,"high":8.2,"low":8.02,"totalVolume":2849,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:17","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPALESA/" title="Cours de ECOSLOPS">
+                   ECOSLOPS
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 8.120
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +0.74%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 8.100
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 8.200
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 8.020
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +5.45%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 2 849
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPALENE" data-ist-init='{"symbol":"1rPALENE","variation":-0.028571428571429,"last":1.36,"previousClose":1.4,"high":1.38,"low":1.352,"totalVolume":17456,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:18:24","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -4103,47 +4202,95 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rEPALFRE/" title="Cours de FREELANCE.COM">
-                   FREELANCE.COM
+                  <a class="c-link c-link--animated" href="/cours/1rPALENE/" title="Cours de ENERTIME">
+                   ENERTIME
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 7.090
+                 1.360
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.14%
+                 -2.86%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 7.100
+                 1.368
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 7.100
+                 1.380
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 7.070
+                 1.352
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +6.14%
+                +3.03%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 8 600
+                 17 456
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPALBI" data-ist-init='{"symbol":"1rPALBI","variation":0.0022675736961451,"last":4.42,"previousClose":4.41,"high":4.42,"low":4.4,"totalVolume":310,"exchangeCode":"PAR","tradeDate":"2023-01-30 11:51:20","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPALENO" data-ist-init='{"symbol":"1rPALENO","variation":-0.0045977011494252,"last":4.33,"previousClose":4.35,"high":4.34,"low":4.32,"totalVolume":1397,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:14","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPALENO/" title="Cours de ENOGIA">
+                   ENOGIA
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 4.330
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 -0.46%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 4.340
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 4.340
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 4.320
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +20.61%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 1 397
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPALESE" data-ist-init='{"symbol":"1rPALESE","variation":0.011640211640212,"last":9.56,"previousClose":9.45,"high":9.59,"low":9.42,"totalVolume":3435,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:04:37","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -4151,143 +4298,143 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALBI/" title="Cours de GASCOGNE">
-                   GASCOGNE
+                  <a class="c-link c-link--animated" href="/cours/1rPALESE/" title="Cours de ENTECH">
+                   ENTECH
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 4.420
+                 9.560
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 +0.23%
+                 +1.16%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 4.400
+                 9.510
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 4.420
+                 9.590
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 4.400
+                 9.420
                 </span>
                </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -1.12%
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +0.95%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 310
+                 3 435
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPALGAU" data-ist-init='{"symbol":"1rPALGAU","variation":0.01013024602026,"last":2.792,"previousClose":2.764,"high":2.87,"low":2.684,"totalVolume":255087,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:05","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rEPALEO2" data-ist-init='{"symbol":"1rEPALEO2","variation":-0.0034364261168386,"last":5.8,"previousClose":5.82,"high":5.82,"low":5.8,"totalVolume":71,"exchangeCode":"PAR","tradeDate":"2023-01-31 15:20:46","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALGAU/" title="Cours de GAUSSIN">
-                   GAUSSIN
+                  <a class="c-link c-link--animated" href="/cours/1rEPALEO2/" title="Cours de EO2">
+                   EO2
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 2.792
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 +1.01%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 2.800
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 2.870
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 2.684
+                 5.800
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -13.61%
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 -0.34%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 5.820
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 5.820
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 5.800
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                -7.64%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 255 087
+                 71
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPGEA" data-ist-init='{"symbol":"1rPGEA","variation":0,"last":95,"previousClose":95,"high":95,"low":95,"totalVolume":1,"exchangeCode":"PAR","tradeDate":"2023-01-30 09:00:13","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPES" data-ist-init='{"symbol":"1rPES","variation":-0.042145593869732,"last":50,"previousClose":52.2,"high":51.6,"low":49.7,"totalVolume":15842,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:20","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-same">
+                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPGEA/" title="Cours de GEA">
-                   GEA
+                  <a class="c-link c-link--animated" href="/cours/1rPES/" title="Cours de ESSO">
+                   ESSO
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 95.000
+                 50.000
                 </span>
                </td>
-               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 0.00%
+                 -4.21%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 95.000
+                 51.600
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 95.000
+                 51.600
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 95.000
+                 49.700
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +21.02%
+                +5.93%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 1
+                 15 842
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPGET" data-ist-init='{"symbol":"1rPGET","variation":-0.0041733547351525,"last":15.51,"previousClose":15.575,"high":15.62,"low":15.405,"totalVolume":1472542,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:29","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPGTT" data-ist-init='{"symbol":"1rPGTT","variation":-0.0097560975609756,"last":101.5,"previousClose":102.5,"high":102.8,"low":100.1,"totalVolume":79588,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:37:17","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -4300,47 +4447,633 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </span>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPGET/" title="Cours de GETLINK (ex: EUROTUNNEL)">
-                   GETLINK (ex: EUROTUNNEL)
+                  <a class="c-link c-link--animated" href="/cours/1rPGTT/" title="Cours de GTT (GAZTRANSPORT ET TEC.)">
+                   GTT (GAZTRANSPORT ET TEC.)
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 15.510
+                 101.500
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.42%
+                 -0.98%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 15.580
+                 102.800
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 15.620
+                 102.800
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 15.405
+                 100.100
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +3.57%
+                +1.70%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 1 472 542
+                 79 588
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPGLO" data-ist-init='{"symbol":"1rPGLO","variation":-0.013824884792627,"last":21.4,"previousClose":21.7,"high":21.6,"low":20.7,"totalVolume":20731,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:00","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPALHAF" data-ist-init='{"symbol":"1rPALHAF","variation":0.0022491349480969,"last":2.8965,"previousClose":2.89,"high":2.92,"low":2.85,"totalVolume":5887,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:03","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPALHAF/" title="Cours de HAFFNER ENERGY">
+                   HAFFNER ENERGY
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 2.897
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +0.22%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 2.900
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 2.920
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 2.850
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +58.26%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 5 887
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPALHRS" data-ist-init='{"symbol":"1rPALHRS","variation":0.044327573253193,"last":27.8,"previousClose":26.62,"high":28.2,"low":26.74,"totalVolume":26469,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:23","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPALHRS/" title="Cours de HRS (HYDROGEN REFUELING SOL.)">
+                   HRS (HYDROGEN REFUELING SOL.)
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 27.800
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +4.43%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 26.820
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 28.200
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 26.740
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +25.68%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 26 469
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPMLJSA_OTC" data-ist-init='{"symbol":"1rPMLJSA-OTC","variation":0,"last":0.59,"previousClose":0.59,"high":0,"low":0,"totalVolume":0,"exchangeCode":"PAR","tradeDate":"2023-01-30 16:30:11","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-same">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPMLJSA-OTC/" title="Cours de JSA TECHNOLOGY">
+                   JSA TECHNOLOGY
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 0.590
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 0.00%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 0.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 0.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 0.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +16.83%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 0
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPLHYFE" data-ist-init='{"symbol":"1rPLHYFE","variation":-0.010778443113772,"last":8.26,"previousClose":8.35,"high":8.379,"low":8.26,"totalVolume":4623,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:36:12","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPLHYFE/" title="Cours de LHYFE">
+                   LHYFE
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 8.260
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 -1.08%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 8.320
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 8.379
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 8.260
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                -4.51%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 4 623
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPMAU" data-ist-init='{"symbol":"1rPMAU","variation":0.0027173913043478,"last":3.69,"previousClose":3.68,"high":3.7,"low":3.595,"totalVolume":332358,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:26","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item c-table__wrapper-srd">
+                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
+                   SRD
+                  </span>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPMAU/" title="Cours de MAUREL &amp; PROM">
+                   MAUREL &amp; PROM
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 3.690
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +0.27%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 3.660
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 3.700
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 3.595
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                -8.09%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 332 358
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPMCPHY" data-ist-init='{"symbol":"1rPMCPHY","variation":0.020475319926874,"last":13.955,"previousClose":13.675,"high":14.04,"low":13.54,"totalVolume":57991,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:25","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPMCPHY/" title="Cours de MCPHY ENERGY">
+                   MCPHY ENERGY
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 13.955
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +2.05%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 13.620
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 14.040
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 13.540
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +14.29%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 57 991
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rEPALMET" data-ist-init='{"symbol":"1rEPALMET","variation":0,"last":3.81,"previousClose":3.81,"high":3.81,"low":3.81,"totalVolume":627,"exchangeCode":"PAR","tradeDate":"2023-01-31 15:34:27","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-same">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rEPALMET/" title="Cours de METHANOR">
+                   METHANOR
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 3.810
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 0.00%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 3.810
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 3.810
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 3.810
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +1.60%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 627
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPNHOA" data-ist-init='{"symbol":"1rPNHOA","variation":-0.0033407572383075,"last":8.95,"previousClose":8.98,"high":9,"low":8.88,"totalVolume":7151,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:28:41","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPNHOA/" title="Cours de NHOA">
+                   NHOA
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 8.950
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 -0.33%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 9.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 9.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 8.880
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                -5.79%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 7 151
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPMLSEQ" data-ist-init='{"symbol":"1rPMLSEQ","variation":0,"last":0.0125,"previousClose":0.0125,"high":0.0125,"low":0.0125,"totalVolume":28001,"exchangeCode":"PAR","tradeDate":"2023-01-31 11:30:05","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-same">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPMLSEQ/" title="Cours de SEQUA PETROLEUM">
+                   SEQUA PETROLEUM
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 0.013
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 0.00%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 0.013
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 0.013
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 0.013
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +4.17%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 28 001
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPSLB" data-ist-init='{"symbol":"1rPSLB","variation":0.0076923076923077,"last":52.4,"previousClose":52,"high":52.8,"low":51.4,"totalVolume":4392,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:14","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item c-table__wrapper-srd">
+                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
+                   SRD
+                  </span>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPSLB/" title="Cours de SLB">
+                   SLB
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 52.400
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +0.77%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 52.100
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 52.800
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 51.400
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +5.97%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 4 392
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPTE" data-ist-init='{"symbol":"1rPTE","variation":0.0096399206124184,"last":17.805,"previousClose":17.635,"high":17.84,"low":17.43,"totalVolume":372916,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:28","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPTE/" title="Cours de TECHNIP ENERGIES">
+                   TECHNIP ENERGIES
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 17.805
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 +0.96%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 17.670
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 17.840
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 17.430
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
+                +21.37%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 372 916
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPEC" data-ist-init='{"symbol":"1rPEC","variation":-0.0063091482649842,"last":157.5,"previousClose":158.5,"high":159,"low":157,"totalVolume":677,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:19:49","category":"STK","decimals":3}'>
+               <td class="c-table__cell c-table__cell--dotted">
+                <div class="o-pack o-pack--middle">
+                 <div class="o-pack__item c-table__wrapper-icon">
+                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
+                  </i>
+                 </div>
+                 <div class="o-pack__item u-color-cerulean u-ellipsis">
+                  <a class="c-link c-link--animated" href="/cours/1rPEC/" title="Cours de TOTALENERG GAB">
+                   TOTALENERG GAB
+                  </a>
+                 </div>
+                </div>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--last" data-ist-last="">
+                 157.500
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                <span class="c-instrument c-instrument--variation" data-ist-variation="">
+                 -0.63%
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--open" data-ist-open="">
+                 158.500
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--high" data-ist-high="">
+                 159.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--low" data-ist-low="">
+                 157.000
+                </span>
+               </td>
+               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
+                -0.32%
+               </td>
+               <td class="c-table__cell c-table__cell--dotted">
+                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
+                 677
+                </span>
+               </td>
+              </tr>
+              <tr class="c-table__row" data-ist="1rPTTE" data-ist-init='{"symbol":"1rPTTE","variation":-0.016059402521154,"last":56.98,"previousClose":57.91,"high":57.94,"low":56.64,"totalVolume":6043711,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:37:19","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -4353,356 +5086,15 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </span>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPGLO/" title="Cours de GL EVENTS">
-                   GL EVENTS
+                  <a class="c-link c-link--animated" href="/cours/1rPTTE/" title="Cours de TOTALENERGIES">
+                   TOTALENERGIES
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 21.400
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -1.38%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 21.600
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 21.600
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 20.700
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +31.61%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 20 731
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPGPE" data-ist-init='{"symbol":"1rPGPE","variation":0.048780487804878,"last":43,"previousClose":41,"high":43,"low":41.2,"totalVolume":953,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:17","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPGPE/" title="Cours de GPE PIZZORNO ENVI">
-                   GPE PIZZORNO ENVI
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 43.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 +4.88%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 41.200
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 43.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 41.200
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +10.82%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 953
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPALGRO" data-ist-init='{"symbol":"1rPALGRO","variation":-0.0082417582417583,"last":7.22,"previousClose":7.28,"high":7.62,"low":7.22,"totalVolume":581,"exchangeCode":"PAR","tradeDate":"2023-01-30 15:26:10","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALGRO/" title="Cours de GROLLEAU">
-                   GROLLEAU
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 7.220
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.82%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 7.620
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 7.620
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 7.220
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -7.44%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 581
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPMLCIO" data-ist-init='{"symbol":"1rPMLCIO","variation":0,"last":1.78,"previousClose":1.78,"high":1.78,"low":1.78,"totalVolume":2000,"exchangeCode":"PAR","tradeDate":"2023-01-30 14:32:04","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-same">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPMLCIO/" title="Cours de GROUPE CIOA">
-                   GROUPE CIOA
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 1.780
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 0.00%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 1.780
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 1.780
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 1.780
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -1.11%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 2 000
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPALGIL" data-ist-init='{"symbol":"1rPALGIL","variation":-0.0043196544276457,"last":23.05,"previousClose":23.15,"high":23.2,"low":22.85,"totalVolume":2351,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:22","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALGIL/" title="Cours de GROUPE GUILLIN">
-                   GROUPE GUILLIN
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 23.050
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.43%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 23.200
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 23.200
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 22.850
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +5.98%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 2 351
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPALGTR" data-ist-init='{"symbol":"1rPALGTR","variation":0.046875,"last":6.7,"previousClose":6.4,"high":6.7,"low":6.45,"totalVolume":289,"exchangeCode":"PAR","tradeDate":"2023-01-30 16:14:02","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-rise u-color-stream-up">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALGTR/" title="Cours de GROUPE TERA">
-                   GROUPE TERA
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 6.700
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 +4.69%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 6.450
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 6.700
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 6.450
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +0.75%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 289
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPMLHK" data-ist-init='{"symbol":"1rPMLHK","variation":0,"last":120,"previousClose":120,"high":120,"low":120,"totalVolume":117,"exchangeCode":"PAR","tradeDate":"2023-01-30 11:30:11","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-same">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPMLHK/" title="Cours de H&amp;K">
-                   H&amp;K
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 120.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 0.00%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 120.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 120.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 120.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -2.44%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 117
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPPIG" data-ist-init='{"symbol":"1rPPIG","variation":-0.01610541727672,"last":3.36,"previousClose":3.415,"high":3.43,"low":3.36,"totalVolume":3671,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:29:45","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item c-table__wrapper-srd">
-                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
-                   SRD
-                  </span>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPPIG/" title="Cours de HAULOTTE GROUP">
-                   HAULOTTE GROUP
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 3.360
+                 56.980
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
@@ -4712,29 +5104,29 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 3.380
+                 57.820
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 3.430
+                 57.940
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 3.360
+                 56.640
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -3.03%
+                -2.85%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 3 671
+                 6 043 711
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPALHRG" data-ist-init='{"symbol":"1rPALHRG","variation":-0.0030030030030028,"last":33.2,"previousClose":33.3,"high":33.5,"low":33.1,"totalVolume":2181,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:04","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPALVER" data-ist-init='{"symbol":"1rPALVER","variation":-0.27940492794049,"last":0.31,"previousClose":0.4302,"high":0.438,"low":0.3,"totalVolume":800770,"exchangeCode":"PAR","tradeDate":"2023-01-31 17:35:26","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -4742,292 +5134,47 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALHRG/" title="Cours de HERIGE">
-                   HERIGE
+                  <a class="c-link c-link--animated" href="/cours/1rPALVER/" title="Cours de VERGNET">
+                   VERGNET
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 33.200
+                 0.310
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.30%
+                 -27.94%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 33.200
+                 0.413
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 33.500
+                 0.438
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 33.100
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +1.84%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 2 181
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPALHGR" data-ist-init='{"symbol":"1rPALHGR","variation":-0.0096525096525096,"last":10.26,"previousClose":10.36,"high":10.44,"low":10.26,"totalVolume":7211,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:29:45","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALHGR/" title="Cours de HOFFMANN GREEN CEMENT TEC.">
-                   HOFFMANN GREEN CEMENT TEC.
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 10.260
+                 0.300
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.97%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 10.400
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 10.440
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 10.260
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +0.98%
+                -95.37%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 7 211
+                 800 770
                 </span>
                </td>
               </tr>
-              <tr class="c-table__row" data-ist="1rPALICA" data-ist-init='{"symbol":"1rPALICA","variation":0,"last":16.922,"previousClose":16.922,"high":17.01,"low":16.922,"totalVolume":628,"exchangeCode":"PAR","tradeDate":"2023-01-30 15:05:40","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-same">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALICA/" title="Cours de ICAPE HOLDING">
-                   ICAPE HOLDING
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 16.922
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 0.00%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 16.924
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 17.010
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 16.922
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +6.82%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 628
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPIDL" data-ist-init='{"symbol":"1rPIDL","variation":-0.0051813471502591,"last":288,"previousClose":289.5,"high":291.5,"low":283.5,"totalVolume":2852,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:07","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item c-table__wrapper-srd">
-                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
-                   SRD
-                  </span>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPIDL/" title="Cours de ID LOGISTICS">
-                   ID LOGISTICS
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 288.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.52%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 289.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 291.500
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 283.500
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +7.46%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 2 852
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPALIMB" data-ist-init='{"symbol":"1rPALIMB","variation":-0.0069444444444445,"last":1.43,"previousClose":1.44,"high":1.48,"low":1.43,"totalVolume":2345,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:29:45","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALIMB/" title="Cours de IMMO BLOCKCHAIN">
-                   IMMO BLOCKCHAIN
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 1.430
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.69%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 1.470
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 1.480
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 1.430
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +20.17%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 2 345
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPALLUX" data-ist-init='{"symbol":"1rPALLUX","variation":0,"last":340,"previousClose":340,"high":0,"low":0,"totalVolume":0,"exchangeCode":"PAR","tradeDate":"2023-01-27 12:17:58","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-same">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPALLUX/" title="Cours de INSTALLUX">
-                   INSTALLUX
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 340.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--neutral c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 0.00%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 0.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 0.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 0.000
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -5.56%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 0
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPLACR" data-ist-init='{"symbol":"1rPLACR","variation":0.023890784982935,"last":30,"previousClose":29.3,"high":30.2,"low":29.1,"totalVolume":4130,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:28:20","category":"STK","decimals":3}'>
+              <tr class="c-table__row" data-ist="1rPMLWEY_OTC" data-ist-init='{"symbol":"1rPMLWEY-OTC","variation":0.30833333333333,"last":1.57,"previousClose":1.2,"high":1.57,"low":1.57,"totalVolume":1,"exchangeCode":"PAR","tradeDate":"2023-01-31 16:30:01","category":"STK","decimals":3}'>
                <td class="c-table__cell c-table__cell--dotted">
                 <div class="o-pack o-pack--middle">
                  <div class="o-pack__item c-table__wrapper-icon">
@@ -5035,250 +5182,43 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
                   </i>
                  </div>
                  <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPLACR/" title="Cours de LACROIX">
-                   LACROIX
+                  <a class="c-link c-link--animated" href="/cours/1rPMLWEY-OTC/" title="Cours de WEYA">
+                   WEYA
                   </a>
                  </div>
                 </div>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--last" data-ist-last="">
-                 30.000
+                 1.570
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
                 <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 +2.39%
+                 +30.83%
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--open" data-ist-open="">
-                 29.300
+                 1.570
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--high" data-ist-high="">
-                 30.200
+                 1.570
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--low" data-ist-low="">
-                 29.100
+                 1.570
                 </span>
                </td>
                <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +11.52%
+                +9.79%
                </td>
                <td class="c-table__cell c-table__cell--dotted">
                 <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 4 130
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPLAT" data-ist-init='{"symbol":"1rPLAT","variation":-0.019300361881785,"last":0.4065,"previousClose":0.4145,"high":0.421,"low":0.406,"totalVolume":61856,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:10","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item c-table__wrapper-srd">
-                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
-                   SRD
-                  </span>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPLAT/" title="Cours de LATECOERE">
-                   LATECOERE
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 0.407
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -1.93%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 0.415
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 0.421
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 0.406
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +23.93%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 61 856
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPLR" data-ist-init='{"symbol":"1rPLR","variation":-0.0055448408871745,"last":82.5,"previousClose":82.96,"high":82.96,"low":81.78,"totalVolume":257469,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:08","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item c-table__wrapper-srd">
-                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
-                   SRD
-                  </span>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPLR/" title="Cours de LEGRAND">
-                   LEGRAND
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 82.500
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.55%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 82.640
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 82.960
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 81.780
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +10.26%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 257 469
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPMLLCB" data-ist-init='{"symbol":"1rPMLLCB","variation":-0.0045454545454547,"last":4.38,"previousClose":4.4,"high":4.38,"low":4.38,"totalVolume":264,"exchangeCode":"PAR","tradeDate":"2023-01-30 16:39:45","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPMLLCB/" title="Cours de LES CONST DUBO">
-                   LES CONST DUBO
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 4.380
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.45%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 4.380
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 4.380
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 4.380
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                -5.60%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 264
-                </span>
-               </td>
-              </tr>
-              <tr class="c-table__row" data-ist="1rPFII" data-ist-init='{"symbol":"1rPFII","variation":-0.0049382716049383,"last":20.15,"previousClose":20.25,"high":20.5,"low":20.1,"totalVolume":9461,"exchangeCode":"PAR","tradeDate":"2023-01-30 17:35:02","category":"STK","decimals":3}'>
-               <td class="c-table__cell c-table__cell--dotted">
-                <div class="o-pack o-pack--middle">
-                 <div class="o-pack__item c-table__wrapper-icon">
-                  <i class="c-table__icon c-icon c-icon--arrow-reduce u-color-stream-down">
-                  </i>
-                 </div>
-                 <div class="o-pack__item c-table__wrapper-srd">
-                  <span class="c-table-top-flop__srd" data-placement="top" data-toggle="tooltip" title="Valeur éligible au Service de Règlement Différé">
-                   SRD
-                  </span>
-                 </div>
-                 <div class="o-pack__item u-color-cerulean u-ellipsis">
-                  <a class="c-link c-link--animated" href="/cours/1rPFII/" title="Cours de LISI">
-                   LISI
-                  </a>
-                 </div>
-                </div>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--last" data-ist-last="">
-                 20.150
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--negative c-table__cell--dotted">
-                <span class="c-instrument c-instrument--variation" data-ist-variation="">
-                 -0.49%
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--open" data-ist-open="">
-                 20.300
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--high" data-ist-high="">
-                 20.500
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--low" data-ist-low="">
-                 20.100
-                </span>
-               </td>
-               <td class="c-table__cell c-table__cell--positive c-table__cell--dotted">
-                +3.55%
-               </td>
-               <td class="c-table__cell c-table__cell--dotted">
-                <span class="c-instrument c-instrument--totalvolume" data-ist-totalvolume="">
-                 9 461
+                 1
                 </span>
                </td>
               </tr>
@@ -5287,38 +5227,6 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
            </div>
           </div>
           <div class="c-block__foot">
-           <div aria-label="pagination" class="c-pagination" role="navigation">
-            <a aria-label="Page 1" class="c-link c-link--no-underline c-pagination__link" href="/bourse/actions/cotations/secteur/" title="">
-             <span class="c-pagination__content">
-              1
-             </span>
-            </a>
-            <a aria-label="Page 2" class="c-link c-link--no-underline c-pagination__link" href="/bourse/actions/cotations/secteur/page-2" title="">
-             <span class="c-pagination__content">
-              2
-             </span>
-            </a>
-            <a aria-label="Page 3" class="c-link c-link--no-underline c-pagination__link" href="/bourse/actions/cotations/secteur/page-3" title="">
-             <span class="c-pagination__content is-active">
-              3
-             </span>
-            </a>
-            <a aria-label="Page 4" class="c-link c-link--no-underline c-pagination__link" href="/bourse/actions/cotations/secteur/page-4" title="">
-             <span class="c-pagination__content">
-              4
-             </span>
-            </a>
-            <a aria-label="Page 5" class="c-link c-link--no-underline c-pagination__link" href="/bourse/actions/cotations/secteur/page-5" title="">
-             <span class="c-pagination__content">
-              5
-             </span>
-            </a>
-            <a aria-label="Page 6" class="c-link c-link--no-underline c-pagination__link" href="/bourse/actions/cotations/secteur/page-6" title="">
-             <span class="c-pagination__content">
-              6
-             </span>
-            </a>
-           </div>
           </div>
          </div>
         </div>
@@ -5472,9 +5380,9 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
      <div class="c-section__background c-section__background--full c-section__background--white u-height-auto u-relative">
       <div class="c-sponsor-footer">
        <div id="brs-outbrain">
-        <div class="OUTBRAIN" data-ob-template="boursorama" data-src="https://www.boursorama.com/bourse/actions/cotations/secteur/page-3" data-widget-id="AR_3">
+        <div class="OUTBRAIN" data-ob-template="boursorama" data-src="https://www.boursorama.com/bourse/actions/cotations/secteur/?filter%5Bindustry%5D=0&amp;filter%5BsubmitButton%5D=" data-widget-id="AR_3">
         </div>
-        <div class="OUTBRAIN" data-ob-template="boursorama" data-src="https://www.boursorama.com/bourse/actions/cotations/secteur/page-3" data-widget-id="SF_2">
+        <div class="OUTBRAIN" data-ob-template="boursorama" data-src="https://www.boursorama.com/bourse/actions/cotations/secteur/?filter%5Bindustry%5D=0&amp;filter%5BsubmitButton%5D=" data-widget-id="SF_2">
         </div>
        </div>
       </div>
@@ -6046,8 +5954,8 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
     });
   </script>
   <script>
-   window.pageVars = {"env_work":"prod","env_channel":"desktop","env_site":"portail","env_domain":"www.boursorama.com","env_version":20,"env_language":"FR","env_country":"fr","env_dnt":"","env_os":"","env_referer":"","process_id":"e6bbe7f8-e2a3-4bd2-8177-75213125a7d0","user_id":"","user_legacy_id":"","user_oneplusx_id":"","user_level":"","user_real_agent":"","unlogged_customer":false,"visitor_navigation_id":"","dmp_visitor_id":"","customer_success":"","page_cat1":"trading","page_cat2":"stock","page_cat3":"quotation","page_cat4":"sector","page_cat5":"home_paginated","page_cat6":"","tag_page":"","page_id":"trading\/stock\/quotation\/sector\/home_paginated","full_page_id":"trading::stock::quotation::sector\/home_paginated","tracking_page_id":"","short_page_id":"5445bdc7d5852b77edda015d524e2004","feature_id":"portal.trading_stock_quotation_sector_home_paginated","referer_feature_id":"portal.trading_stock_quotation_sector_home_paginated.web_fr_portal_20","id_element":"","page_error":"","conversion_funnel_name":"","conversion_funnel_id":"","conversion_funnel_step":"","conversion_funnel_exchange_id":"","conversion_funnel_campain_code":"","conversion_funnel_event_parameter_1":"","conversion_funnel_event_parameter_2":"","conversion_funnel_event_parameter_3":"","fv_secteur_activite":"","fv_code_isin":"","fv_symb_societe":"","fv_eligibilite":"","fv_indice_principal":"","fv_trust_group":"","fv_bourse_label":"","fv_promoter":"","fv_issuer":"","search_template":"","search_keywords":"","search_page_number":"","search_results_number":"","search_filters":"","article_src":"","article_type":"","article_name":"","forum":"","container_url":"https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/c\/a\/7\/ca772e4882d9eeed09024ab5004b24b0.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js","tc_cookies":null,"privacy_banner_version":""};
-        window.trackingScriptUrl = "https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/c\/a\/7\/ca772e4882d9eeed09024ab5004b24b0.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js";
+   window.pageVars = {"env_work":"prod","env_channel":"desktop","env_site":"portail","env_domain":"www.boursorama.com","env_version":20,"env_language":"FR","env_country":"fr","env_dnt":"","env_os":"","env_referer":"","process_id":"af0ccde0-cdb5-4baa-a1c4-860c83424c3a","user_id":"","user_legacy_id":"","user_oneplusx_id":"","user_level":"","user_real_agent":"","unlogged_customer":false,"visitor_navigation_id":"","dmp_visitor_id":"","customer_success":"","page_cat1":"trading","page_cat2":"stock","page_cat3":"quotation","page_cat4":"sector","page_cat5":"home","page_cat6":"","tag_page":"","page_id":"trading\/stock\/quotation\/sector\/home","full_page_id":"trading::stock::quotation::sector\/home","tracking_page_id":"","short_page_id":"6d6a060ee08a719be975e84f9311faf6","feature_id":"portal.trading_stock_quotation_sector_home","referer_feature_id":"portal.trading_stock_quotation_sector_home.web_fr_portal_20","id_element":"","page_error":"","conversion_funnel_name":"","conversion_funnel_id":"","conversion_funnel_step":"","conversion_funnel_exchange_id":"","conversion_funnel_campain_code":"","conversion_funnel_event_parameter_1":"","conversion_funnel_event_parameter_2":"","conversion_funnel_event_parameter_3":"","fv_secteur_activite":"","fv_code_isin":"","fv_symb_societe":"","fv_eligibilite":"","fv_indice_principal":"","fv_trust_group":"","fv_bourse_label":"","fv_promoter":"","fv_issuer":"","search_template":"","search_keywords":"","search_page_number":"","search_results_number":"","search_filters":"","article_src":"","article_type":"","article_name":"","forum":"","container_url":"https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/8\/f\/d\/8fdc934c21b47afd4f189d93e7c385ce.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js","tc_cookies":null,"privacy_banner_version":""};
+        window.trackingScriptUrl = "https:\/\/s.brsimg.com\/static-000\/cache\/js\/tagcommander\/8\/f\/d\/8fdc934c21b47afd4f189d93e7c385ce.eJwrSY5Pyi8tKs4vSsxNjDfUyyrWLkERMjIGigFcMFwi3w54.js";
         window.consentScriptUrl = "https:\/\/cdn.brsimg.com\/gdpr";
   </script>
   <script>
@@ -6077,9 +5985,9 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
             }
   </script>
   <div id="brsAdLib">
-   <div data-network-id="21710919803" data-page-name="trading/stock/quotation/sector/home_paginated" data-timestamp="1675066329" id="dfpdata">
+   <div data-network-id="21710919803" data-page-name="trading/stock/quotation/sector/home" data-timestamp="1675194367" id="dfpdata">
    </div>
-   <div data-ads-target="" data-async="1" data-autorefresh-milliseconds="" data-display-smart-interstitial="1" data-displaysmartinterstitial="1" data-domain="https://ww16.smartadserver.com" data-library-url="https://r.sascdn.com/config.js" data-network-id="16" data-page-name="trading/stock/quotation/sector/home_paginated" data-render-mode="DEFAULT" data-site-id="81768" data-timestamp="1675066329" id="sasdata">
+   <div data-ads-target="" data-async="1" data-autorefresh-milliseconds="" data-display-smart-interstitial="1" data-displaysmartinterstitial="1" data-domain="https://ww16.smartadserver.com" data-library-url="https://r.sascdn.com/config.js" data-network-id="16" data-page-name="trading/stock/quotation/sector/home" data-render-mode="DEFAULT" data-site-id="81768" data-timestamp="1675194367" id="sasdata">
    </div>
   </div>
   <div class="wall-banner" id="brs_wall_banner">
@@ -6088,7 +5996,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
   </div>
   <script src="/build/ads0a67f1769aa4618d06ce.js">
   </script>
-  <script data-bucky-host="/bucky" data-bucky-page="www-boursorama-com.trading-stock-quotation-sector-home_paginated" data-bucky-requests="www-boursorama-com" src="/build/rumf21130dc8bb144f840db.js">
+  <script data-bucky-host="/bucky" data-bucky-page="www-boursorama-com.trading-stock-quotation-sector-home" data-bucky-requests="www-boursorama-com" src="/build/rumf21130dc8bb144f840db.js">
   </script>
   <script src="/build/boomerangdf71df1d2ed3d732937b.js">
   </script>
@@ -6123,7 +6031,7 @@ if(localStorage.themeA11y&&(window.document.documentElement.className+=" t-a11y"
 
                 for (var j = 0; j < dataLength; j++) {
 
-                    var newKey = 'www-boursorama-com.trading-stock-quotation-sector-home_paginated.' + keys[j],
+                    var newKey = 'www-boursorama-com.trading-stock-quotation-sector-home.' + keys[j],
                         oldKey = keys[j];
 
                     if (metricsToKeep.indexOf(oldKey) !== -1) {
