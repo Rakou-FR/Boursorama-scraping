@@ -332,6 +332,6 @@ class world:
 
 
 if __name__ == '__main__':
-    world.get()
+    world.get("https://www.boursorama.com/cours/1rPSWP/")
     print(world.former())
     print(world.clean_url_liste(world.find("Accès rapide SRD"),61))

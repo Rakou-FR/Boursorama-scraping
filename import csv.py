@@ -69,6 +69,7 @@ class csv_coodinater:
         df = pd.DataFrame(dict)
         link = "orange"
         df.to_csv(str(link)+".csv")
+
         return link
 
     def ping(a):
@@ -79,11 +80,11 @@ class csv_coodinater:
             response = requests.get(url)
             status_code = response.status_code
             if status_code == 200:
-                print('Le statut de la page web est OK.')
+                return 200
             else:
-                print('Le statut de la page web est incorrect.')
+                return 404
         except:
-            print('L\'url n\'est pas valide.')
+            return 403
 
     def find_link():
         link = []
@@ -150,6 +151,7 @@ class csv_coodinater:
 
 
 if __name__ == "__main__":
-    sp.world.get("https://www.boursorama.com/bourse/actions/cotations/secteur/?filter%5Bindustry%5D=0&filter%5BsubmitButton%5D=")
-    print(csv_coodinater.find_link())
-    csv_coodinater.write_link_csv_save(csv_coodinater.find_link())
+    #sp.world.get("https://www.boursorama.com/bourse/actions/cotations/secteur/?filter%5Bindustry%5D=0&filter%5BsubmitButton%5D=")
+    #print(csv_coodinater.find_link())
+    #csv_coodinater.write_link_csv_save(csv_coodinater.find_link())
+    csv_coodinater.create(sp.world.former(),"mousse")
